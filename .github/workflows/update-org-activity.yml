@@ -27,6 +27,8 @@ jobs:
           OUTPUT_FILE: profile/README.md
           MAX_ITEMS: "15"
           EXCLUDE_TYPES: "WatchEvent"
+          EXCLUDE_ACTORS: ""
+          EXCLUDE_BOTS: "false"
         run: node scripts/update-org-activity.mjs
 
       - name: Commit changes (if any)

@@ -12,6 +12,14 @@ const EXCLUDE_TYPES = new Set(
     .map((s) => s.trim())
     .filter(Boolean),
 );
+const EXCLUDE_ACTORS = new Set(
+  (process.env.EXCLUDE_ACTORS || "")
+    .split(",")
+    .map((s) => s.trim().toLowerCase())
+    .filter(Boolean),
+);
+const EXCLUDE_BOTS =
+  (process.env.EXCLUDE_BOTS || "false").toLowerCase() === "true";
 
 const TOKEN = process.env.GITHUB_TOKEN || process.env.TOKEN;
 
@@ -55,8 +63,21 @@ function yyyyMmDd(isoString) {
   }
 }
 
-function escapeMarkdown(text) {
-  return String(text).replace(/[\[\]]/g, "\\$&").trim();
+function formatDateTime(isoString) {
+  try {
+    const d = new Date(isoString);
+    if (Number.isNaN(d.getTime())) return yyyyMmDd(isoString);
+    // YYYY-MM-DD HH:MM UTC keeps rows sortable at a glance.
+    return `${d.toISOString().slice(0, 10)} ${d.toISOString().slice(11, 16)} UTC`;
+  } catch {
+    return yyyyMmDd(isoString);
+  }
+}
+
+function escapeMarkdown(text, maxLen = 60) {
+  let s = String(text).replace(/[\[\]]/g, "\\$&").replace(/\n/g, " ").trim();
+  if (s.length > maxLen) s = `${s.slice(0, maxLen - 1).trimEnd()}…`;
+  return s;
 }
 
 function escapeTableCell(text) {
@@ -68,7 +89,7 @@ function activityRow(date, actor, activity, repo) {
 }
 
 function eventToLine(event) {
-  const date = yyyyMmDd(event.created_at);
+  const date = formatDateTime(event.created_at);
   const actor = event.actor?.login ? `@${event.actor.login}` : "someone";
   const repoFullName = event.repo?.name || "";
   const repoLink = repoFullName ? `[${repoFullName}](${repoUrl(repoFullName)})` : "a repo";
@@ -77,7 +98,13 @@ function eventToLine(event) {
   const payload = event.payload || {};
 
   if (type === "PushEvent") {
-    const commitCount = Array.isArray(payload.commits) ? payload.commits.length : 0;
+    const commitsArr = Array.isArray(payload.commits) ? payload.commits : [];
+    const count =
+      Number.isInteger(payload.distinct_size) && payload.distinct_size > 0
+        ? payload.distinct_size
+        : Number.isInteger(payload.size) && payload.size > 0
+          ? payload.size
+          : commitsArr.length;
     const head = payload.head;
     const before = payload.before;
 
@@ -89,8 +116,14 @@ function eventToLine(event) {
     }
 
     const commitsText =
-      commitCount === 1 ? "1 commit" : commitCount > 1 ? `${commitCount} commits` : "commits";
-    const activity = targetUrl ? `pushed ${commitsText} ([diff](${targetUrl}))` : `pushed ${commitsText}`;
+      count === 1 ? "1 commit" : count > 1 ? `${count} commits` : "";
+    const activity = targetUrl
+      ? commitsText
+        ? `pushed ${commitsText} ([diff](${targetUrl}))`
+        : `pushed ([diff](${targetUrl}))`
+      : commitsText
+        ? `pushed ${commitsText}`
+        : "pushed";
     return activityRow(date, actor, activity, repoLink);
   }
 
@@ -139,6 +172,18 @@ function eventToLine(event) {
     return activityRow(date, actor, "made public", repoLink);
   }
 
+  if (type === "CreateEvent") {
+    const refType = payload.ref_type || "ref";
+    const ref = payload.ref ? ` \`${escapeMarkdown(payload.ref, 50)}\`` : "";
+    return activityRow(date, actor, `created ${escapeMarkdown(refType, 20)}${ref}`, repoLink);
+  }
+
+  if (type === "DeleteEvent") {
+    const refType = payload.ref_type || "ref";
+    const ref = payload.ref ? ` \`${escapeMarkdown(payload.ref, 50)}\`` : "";
+    return activityRow(date, actor, `deleted ${escapeMarkdown(refType, 20)}${ref}`, repoLink);
+  }
+
   // Fallback: keep it short and still link to the repo.
   return activityRow(date, actor, escapeMarkdown(type), repoLink);
 }
@@ -154,7 +199,7 @@ async function fetchJson(url) {
 
 async function fetchOrgEvents() {
   const perPage = 100;
-  const pages = [1, 2]; // enough to fill MAX_ITEMS after filtering
+  const pages = [1, 2, 3]; // headroom for filtering + collapsing bursts
   const all = [];
 
   for (const page of pages) {
@@ -162,7 +207,8 @@ async function fetchOrgEvents() {
     const events = await fetchJson(url);
     if (!Array.isArray(events) || events.length === 0) break;
     all.push(...events);
-    if (all.length >= perPage) break;
+    if (events.length < perPage) break;
+    if (all.length >= perPage * 2) break;
   }
   return all;
 }
@@ -208,15 +254,72 @@ function updateReadme(original, activityLines) {
   return updateTimestamp(next);
 }
 
+function shouldExclude(event) {
+  if (EXCLUDE_TYPES.has(event.type)) return true;
+  const login = event.actor?.login || "";
+  if (EXCLUDE_BOTS && login.endsWith("[bot]")) return true;
+  if (login && EXCLUDE_ACTORS.has(login.toLowerCase())) return true;
+  return false;
+}
+
+function dedupeKey(event) {
+  const actor = event.actor?.login || "someone";
+  const repo = event.repo?.name || "";
+  const type = event.type || "";
+  const payload = event.payload || {};
+  const action = payload.action || "";
+  const num =
+    payload.pull_request?.number ??
+    payload.issue?.number ??
+    payload.pull_request?.id ??
+    payload.issue?.id ??
+    "";
+  // Collapse burst spam like 4x "labeled PR #14" into one row.
+  // Only collapse repeatable actions; opened/closed/merged stay separate
+  // unless fully identical.
+  const collapsible = new Set([
+    "labeled",
+    "unlabeled",
+    "assigned",
+    "unassigned",
+    "review_requested",
+    "review_request_removed",
+  ]);
+  if (collapsible.has(action) && num !== "") {
+    return `${actor}|${repo}|${type}|${action}|${num}`;
+  }
+  return `${event.id || ""}|${actor}|${repo}|${type}|${action}|${num}`;
+}
+
+function withCount(line, count) {
+  if (count <= 1) return line;
+  // Insert " (×N)" at end of Activity cell: | date | actor | activity | repo |
+  const parts = line.split(" | ");
+  if (parts.length < 4) return line;
+  parts[2] = `${parts[2]} (×${count})`;
+  return parts.join(" | ");
+}
+
 const allEvents = await fetchOrgEvents();
-const lines = [];
+// API should already be newest-first, but sort explicitly so the
+// date column never looks out of order.
+allEvents.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+const grouped = new Map(); // key -> { line, count }
 for (const ev of allEvents) {
-  if (EXCLUDE_TYPES.has(ev.type)) continue;
+  if (shouldExclude(ev)) continue;
+  const key = dedupeKey(ev);
+  const existing = grouped.get(key);
+  if (existing) {
+    existing.count += 1;
+    continue;
+  }
   const line = eventToLine(ev);
   if (!line) continue;
-  lines.push(line);
-  if (lines.length >= MAX_ITEMS) break;
+  grouped.set(key, { line, count: 1 });
 }
+const lines = [...grouped.values()]
+  .slice(0, MAX_ITEMS)
+  .map(({ line, count }) => withCount(line, count));
 
 if (lines.length === 0) {
   lines.push("| - | - | _No recent public activity found._ | - |");
