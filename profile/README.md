@@ -48,21 +48,21 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-09-11 09:43 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/d7e1fbb18ed0060a1e7c1c3b587a8ee9b269c90e...32c0271b4a9f76b74a8788962ea6e38ecd9c730a)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:32 UTC | @dependabot[bot] | labeled PR [#776](https://github.com/coccinella-labs/harper/pull/776) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:32 UTC | @dependabot[bot] | opened PR [#776](https://github.com/coccinella-labs/harper/pull/776) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:32 UTC | @dependabot[bot] | labeled PR [#775](https://github.com/coccinella-labs/harper/pull/775) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:32 UTC | @dependabot[bot] | created branch `dependabot/cargo/flate2-1.1.10` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:32 UTC | @dependabot[bot] | opened PR [#775](https://github.com/coccinella-labs/harper/pull/775) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:32 UTC | @dependabot[bot] | labeled PR [#774](https://github.com/coccinella-labs/harper/pull/774) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:32 UTC | @dependabot[bot] | opened PR [#774](https://github.com/coccinella-labs/harper/pull/774) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:31 UTC | @dependabot[bot] | labeled PR [#773](https://github.com/coccinella-labs/harper/pull/773) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:31 UTC | @dependabot[bot] | opened PR [#773](https://github.com/coccinella-labs/harper/pull/773) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:31 UTC | @dependabot[bot] | labeled PR [#772](https://github.com/coccinella-labs/harper/pull/772) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:31 UTC | @dependabot[bot] | opened PR [#772](https://github.com/coccinella-labs/harper/pull/772) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:26 UTC | @bniladridas | merged PR [#768](https://github.com/coccinella-labs/harper/pull/768) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:26 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/0692578e32e433c6a71ce63a400926b82efa8e55...cdd102df0f9faab6f7c8acf1273a7e780bf6f445)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-11 09:26 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/a879db077dcd7bd5ff30d6a8938487d8b7068be1...892b926a83082e99be229045e60ba22b522d8ddb)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-11 11:02 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/bbf6ca7fc3e11be590d3fce854c5a9bfe52c4b69...14a38c11ebef687562279ad64c910c29c89ffd50)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-11 10:58 UTC | @bniladridas | opened PR [#14](https://github.com/coccinella-labs/applekernel/pull/14) | [coccinella-labs/applekernel](https://github.com/coccinella-labs/applekernel) |
+| 2026-09-11 10:58 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/rag/compare/8382a189ac3b3b68ff269857a59d039fb3a9d848...cd5a7529e0b97ab6bdb6b182b2a5da024c227f56)) | [coccinella-labs/rag](https://github.com/coccinella-labs/rag) |
+| 2026-09-11 10:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/applekernel/compare/7bdc39994daf272d423f8e380bb11cffac2e05eb...9a3c863ada598e7ca8b3a3606aa24de802cd28c4)) | [coccinella-labs/applekernel](https://github.com/coccinella-labs/applekernel) |
+| 2026-09-11 10:55 UTC | @bniladridas | merged PR [#13](https://github.com/coccinella-labs/applekernel/pull/13) | [coccinella-labs/applekernel](https://github.com/coccinella-labs/applekernel) |
+| 2026-09-11 10:55 UTC | @gpucomm-hq | PullRequestReviewEvent | [coccinella-labs/applekernel](https://github.com/coccinella-labs/applekernel) |
+| 2026-09-11 10:55 UTC | @bniladridas | opened PR [#13](https://github.com/coccinella-labs/applekernel/pull/13) | [coccinella-labs/applekernel](https://github.com/coccinella-labs/applekernel) |
+| 2026-09-11 10:54 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/rag/compare/635020f20a6651bc60746d677e8f1b3851820186...8382a189ac3b3b68ff269857a59d039fb3a9d848)) | [coccinella-labs/rag](https://github.com/coccinella-labs/rag) |
+| 2026-09-11 10:54 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/palmshed-org/compare/9959d90de74e7d08aefcfc74eb5c026caa0ad643...638fe3fe1ec7c50c7926572c34c4161870280415)) | [coccinella-labs/palmshed-org](https://github.com/coccinella-labs/palmshed-org) |
+| 2026-09-11 10:54 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/hwhcore/compare/597a5e68fed5ece90ceca3e84d309ee8337a1a67...0f2deab93121b153a47ef893dc8e98fe9e4e0bf2)) | [coccinella-labs/hwhcore](https://github.com/coccinella-labs/hwhcore) |
+| 2026-09-11 10:54 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/diff-mac/compare/15bb7ea52fb68787061880945654161ea578df89...628b3957196de961b8326ada038efecbd2b4f18c)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-09-11 10:54 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/89399328cfedc221824377a38c70ed9ad61d9834...71ebbf257c1ee2335182eef9cc0f8b22561534ea)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-11 10:48 UTC | @bniladridas | deleted branch `fix/stale-harpertoken-refs` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-11 10:48 UTC | @bniladridas | merged PR [#777](https://github.com/coccinella-labs/harper/pull/777) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-11 10:47 UTC | @gpucomm-hq | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-11T10:20:34.170Z • IST: 11/9/2026, 15:50:34 (3:50:34 pm)_
+_Last updated: 2026-09-11T11:02:51.795Z • IST: 11/9/2026, 16:32:51 (4:32:51 pm)_
 </details>
