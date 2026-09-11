@@ -48,6 +48,7 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-09-09 | @dependabot[bot] | DeleteEvent | [coccinella-labs/press](https://github.com/coccinella-labs/press) |
 | 2026-09-10 | @github-actions[bot] | published a release nightly-20260910-2139-41c3721 ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20260910-2139-41c3721)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-09-09 | @github-actions[bot] | pushed commits ([diff](https://github.com/coccinella-labs/.github/compare/e1895d047ebd9213e6ddf1b7d746457d9bf82349...7210961b23d27d4f16548e580b2eab15dedacd24)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-09-09 | @dependabot[bot] | CreateEvent | [coccinella-labs/press](https://github.com/coccinella-labs/press) |
@@ -62,7 +63,6 @@ Other repositories for apps and utilities
 | 2026-09-09 | @dependabot[bot] | CreateEvent | [coccinella-labs/and](https://github.com/coccinella-labs/and) |
 | 2026-09-10 | @github-actions[bot] | published a release nightly-20260910 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20260910)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-09-10 | @github-actions[bot] | pushed commits ([diff](https://github.com/coccinella-labs/.github/compare/7565140585082a7d5c8f46c687ace401390cc913...40e6d708a790d717ac7d75403f59dbf8303f5270)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-09-08 | @github-actions[bot] | pushed commits ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/3d481ad2f71d76e6a7e6e7d5fb29c6d5bcb09763...51ae11de3b0c5ba9d25e3e03b96950ec26f8b952)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-10T22:41:52.136Z • IST: 11/9/2026, 04:11:52 (4:11:52 am) 🌙_
+_Last updated: 2026-09-11T00:46:43.025Z • IST: 11/9/2026, 06:16:43 (6:16:43 am)_
 </details>
