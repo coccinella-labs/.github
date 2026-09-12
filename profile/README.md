@@ -48,7 +48,9 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-09-12 13:51 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/1ae093f8adceed77f8ac9f1c832a65fc41ede7b6...c6ec83c3d7b23280a63c2b03ccde58540dd18e0d)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-09-12 10:50 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/2f6b6cebe8121d457ac9a9c2f01022d0c653afc0...5e99b949cb0e14673488517faebe3681394d5615)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-12 10:25 UTC | @bniladridas | deleted branch `fix/release-assets-permissions` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-12 10:25 UTC | @coccinella-labs-harper[bot] | labeled PR [#783](https://github.com/coccinella-labs/harper/pull/783) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-12 10:25 UTC | @bniladridas | merged PR [#783](https://github.com/coccinella-labs/harper/pull/783) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-12 10:25 UTC | @gpucomm-hq | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
@@ -61,8 +63,6 @@ Other repositories for apps and utilities
 | 2026-09-12 10:22 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-12 10:21 UTC | @bniladridas | opened PR [#783](https://github.com/coccinella-labs/harper/pull/783) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-12 10:21 UTC | @bniladridas | opened PR [#782](https://github.com/coccinella-labs/harper/pull/782) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-12 10:14 UTC | @coccinella-labs-harper[bot] | labeled PR [#781](https://github.com/coccinella-labs/harper/pull/781) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-12 10:14 UTC | @bniladridas | merged PR [#781](https://github.com/coccinella-labs/harper/pull/781) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-12T11:16:24.623Z • IST: 12/9/2026, 16:46:24 (4:46:24 pm)_
+_Last updated: 2026-09-12T14:16:14.165Z • IST: 12/9/2026, 19:46:14 (7:46:14 pm) 🌙_
 </details>
