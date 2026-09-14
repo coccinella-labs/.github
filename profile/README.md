@@ -48,21 +48,21 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-09-14 04:37 UTC | @vercel[bot] | created [a thread](https://github.com/coccinella-labs/organictyping/pull/108) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | labeled PR [#108](https://github.com/coccinella-labs/organictyping/pull/108) (×4) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/octokit/app-16.1.4` | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | opened PR [#108](https://github.com/coccinella-labs/organictyping/pull/108) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @vercel[bot] | created [a thread](https://github.com/coccinella-labs/organictyping/pull/107) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | labeled PR [#107](https://github.com/coccinella-labs/organictyping/pull/107) (×4) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/types/node-26.5.1` | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | opened PR [#107](https://github.com/coccinella-labs/organictyping/pull/107) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @vercel[bot] | created [a thread](https://github.com/coccinella-labs/organictyping/pull/106) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | labeled PR [#106](https://github.com/coccinella-labs/organictyping/pull/106) (×4) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/typescript-eslint/parser-…` | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | opened PR [#106](https://github.com/coccinella-labs/organictyping/pull/106) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @vercel[bot] | created [a thread](https://github.com/coccinella-labs/organictyping/pull/105) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | labeled PR [#105](https://github.com/coccinella-labs/organictyping/pull/105) (×4) | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
-| 2026-09-14 04:37 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/ts-jest-29.4.12` | [coccinella-labs/organictyping](https://github.com/coccinella-labs/organictyping) |
+| 2026-09-14 10:33 UTC | @bniladridas | deleted branch `docs/thumbnail-move` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @dependabot[bot] | deleted branch `dependabot/github_actions/codecov/codecov-action-7` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/148) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @dependabot[bot] | deleted branch `dependabot/github_actions/actions/labeler-7` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/149) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/pull/148) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/pull/149) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:33 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/150) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:32 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/pull/150) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:32 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/151) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-09-14 10:32 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/pull/151) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-14T05:14:08.937Z • IST: 14/9/2026, 10:44:08 (10:44:08 am)_
+_Last updated: 2026-09-14T10:51:00.164Z • IST: 14/9/2026, 16:21:00 (4:21:00 pm)_
 </details>
