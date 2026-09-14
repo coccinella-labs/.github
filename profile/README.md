@@ -48,6 +48,9 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-09-14 22:31 UTC | @github-actions[bot] | published a release nightly-20260914-2231-a2dc0ac ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20260914-2231-a2dc0ac)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-09-14 21:27 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/bb1dc5961c762419c21d49a5a0e27eefb7160b2b...d2d9d6453437b5eec13ea66c8a2de6bc7bb3f753)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-09-14 21:27 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/827d2f9db4eb1b609140dd88f8c526eec5ff8075...05f884a7596a1967b62016ad15586971962e24d8)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-09-14 17:40 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/4ce6b80ba6495ed432a5eae97893699923b151a6...bb1dc5961c762419c21d49a5a0e27eefb7160b2b)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-09-14 16:44 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/a468d45d3889c50c9d127a1e7091ac24780b9acc...3b5cdd4da4925b31970342da2265928c33387962)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-09-14 15:41 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/vesper/compare/08802585df8bd3a160510a92ac1cca96ecdbfb7d...9afda7a64d795e03d02f058eb373a53db3f0bd18)) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
@@ -60,9 +63,6 @@ Other repositories for apps and utilities
 | 2026-09-14 11:57 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-09-14 11:56 UTC | @github-actions[bot] | labeled PR [#154](https://github.com/coccinella-labs/agentware/pull/154) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-09-14 11:56 UTC | @github-actions[bot] | opened PR [#154](https://github.com/coccinella-labs/agentware/pull/154) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-09-14 11:56 UTC | @bniladridas | deleted branch `dependabot/docker/ubuntu-26.04` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-09-14 11:56 UTC | @dependabot[bot] | merged PR [#153](https://github.com/coccinella-labs/agentware/pull/153) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-09-14 11:53 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-14T20:42:57.913Z • IST: 15/9/2026, 02:12:57 (2:12:57 am) 🌙_
+_Last updated: 2026-09-14T23:39:23.010Z • IST: 15/9/2026, 05:09:23 (5:09:23 am) 🌙_
 </details>
