@@ -48,21 +48,21 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-09-16 16:42 UTC | @bniladridas | opened issue [#798: \[fix\] agents-guidance gate checks tool_signature but inse…](https://github.com/coccinella-labs/harper/issues/798) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-16 16:42 UTC | @bniladridas | opened issue [#799: \[fix\] write-file placeholder clarification unreachable fo…](https://github.com/coccinella-labs/harper/issues/799) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-16 16:42 UTC | @bniladridas | opened issue [#800: \[fix\] forced_tool_retry never resets, capping consecutive…](https://github.com/coccinella-labs/harper/issues/800) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-16 16:33 UTC | @coccinella-labs-harper[bot] | labeled PR [#797](https://github.com/coccinella-labs/harper/pull/797) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-16 16:33 UTC | @bniladridas | opened PR [#797](https://github.com/coccinella-labs/harper/pull/797) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-16 16:31 UTC | @bniladridas | opened issue [#796: \[feat\] Phase 3: deterministic replay harness for the agen…](https://github.com/coccinella-labs/harper/issues/796) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-16 13:37 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/cf33f865aaa2c1f82e51c3138fd93a995d1a948e...d93cabfe21d9f238a5200638167e8c295aa2020f)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-09-16 11:47 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/794) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-16 11:47 UTC | @coccinella-labs-harper[bot] | labeled PR [#795](https://github.com/coccinella-labs/harper/pull/795) (×5) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-16 11:47 UTC | @coccinella-labs-harper[bot] | opened PR [#795](https://github.com/coccinella-labs/harper/pull/795) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-16 11:47 UTC | @github-actions[bot] | created branch `release-harper-workspace-0.22.0-harper-core-0.21.…` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-16 11:42 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/dd22ecfc7f2d910a042c8e4ee66cb728579cd856...01e37f9a59c69e9a2e1e045f5843ef9587608732)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-16 11:41 UTC | @bniladridas | merged PR [#792](https://github.com/coccinella-labs/harper/pull/792) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-16 11:41 UTC | @gpucomm-hq | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-16 11:36 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/86798b40970e8af420ee38ffad8d7f8b5ec4c119...42fcf54d39f3915cf1320a92edb5dd4ee79ae705)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-16 11:04 UTC | @coccinella-labs-harper[bot] | closed PR [#794](https://github.com/coccinella-labs/harper/pull/794) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-16 10:58 UTC | @coccinella-labs-harper[bot] | labeled PR [#794](https://github.com/coccinella-labs/harper/pull/794) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-16 10:57 UTC | @coccinella-labs-harper[bot] | opened PR [#794](https://github.com/coccinella-labs/harper/pull/794) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-16 10:57 UTC | @github-actions[bot] | created branch `release-harper-workspace-0.22.0-harper-core-0.21.0` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-16 10:48 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/e1185fab6aa2d04f1539ecd8b839943a73b57f80...dd22ecfc7f2d910a042c8e4ee66cb728579cd856)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-16 10:48 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/fde62b94a7e91a17a750bd01a4b6625e379b4ea9...86798b40970e8af420ee38ffad8d7f8b5ec4c119)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-16 10:48 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/4479ac71fda63660fbe9de94a7a0c1067053ee52...fb100364327f2f28db65327d8cf0163c33c40007)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-16 10:48 UTC | @bniladridas | merged PR [#791](https://github.com/coccinella-labs/harper/pull/791) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-16T13:37:10.462Z • IST: 16/9/2026, 19:07:10 (7:07:10 pm) 🌙_
+_Last updated: 2026-09-16T17:54:01.128Z • IST: 16/9/2026, 23:24:01 (11:24:01 pm) 🌙_
 </details>
