@@ -3,7 +3,7 @@
 coccinella-labs is a consolidated home for developer tooling: GPU runtimes, machine learning and inference, text and code tools, SDKs, release automation, and small utilities.
 
 Important repositories for text and code
-- [harper](https://github.com/coccinella-labs/harper) - Rust-based text processing and language tooling.
+- [harper](https://github.com/coccinella-labs/harper) - Rust agent runtime with a TUI, an HTTP API, and a sandbox.
 - [harper-notes](https://github.com/coccinella-labs/harper-notes) - Harper notes.
 - [agentware](https://github.com/coccinella-labs/agentware) - AI-assisted coding tools and developer workflows.
 - [dotfiles](https://github.com/coccinella-labs/dotfiles) - Dotfiles for Mac.
