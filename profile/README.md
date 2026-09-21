@@ -48,21 +48,21 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-09-21 10:48 UTC | @bniladridas | opened PR [#1](https://github.com/coccinella-labs/lock/pull/1) | [coccinella-labs/lock](https://github.com/coccinella-labs/lock) |
-| 2026-09-21 09:57 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/gh-pin-repo/compare/e73e68637417a97467c4b6961d2d88f2fb16a2fd...86651acb0b0d13998e793d716955a5c716cd41dd)) | [coccinella-labs/gh-pin-repo](https://github.com/coccinella-labs/gh-pin-repo) |
-| 2026-09-21 09:57 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/gh-pin-repo/compare/1fe26e0713bc3fd0b2c111686318ef27682f15a2...e73e68637417a97467c4b6961d2d88f2fb16a2fd)) | [coccinella-labs/gh-pin-repo](https://github.com/coccinella-labs/gh-pin-repo) |
-| 2026-09-21 09:57 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/license/compare/a8bf1cc670af8e5e3869d693a540a8cd436e2cc2...0e6d46d37c6c373d7552ecfaee2ce638d7f9138c)) | [coccinella-labs/license](https://github.com/coccinella-labs/license) |
-| 2026-09-21 09:57 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/license/compare/fc37df292975e49ad6edf9b0d952a89deb1f09d8...a8bf1cc670af8e5e3869d693a540a8cd436e2cc2)) | [coccinella-labs/license](https://github.com/coccinella-labs/license) |
-| 2026-09-21 09:57 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/license/compare/5f51f191f3b838c43696815ba8cc9f9db80ab643...fc37df292975e49ad6edf9b0d952a89deb1f09d8)) | [coccinella-labs/license](https://github.com/coccinella-labs/license) |
-| 2026-09-21 09:57 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/hub/compare/8575b090c78782d2d01a92bedeec3a7783c9cfe9...1c75fae89418b5f0f065aee9350b32116d8f2430)) | [coccinella-labs/hub](https://github.com/coccinella-labs/hub) |
-| 2026-09-21 09:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/hub/compare/d3c9b3b3e0f6cca230b26e9f0ae5f4952f8f03ec...8575b090c78782d2d01a92bedeec3a7783c9cfe9)) | [coccinella-labs/hub](https://github.com/coccinella-labs/hub) |
-| 2026-09-21 09:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/hub/compare/b797b9693b015c3d3c6d5ce1fac8b813559328d5...d3c9b3b3e0f6cca230b26e9f0ae5f4952f8f03ec)) | [coccinella-labs/hub](https://github.com/coccinella-labs/hub) |
-| 2026-09-21 09:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/hub/compare/a55fe737f29be0690a85fa42fe9d13463e98c447...b797b9693b015c3d3c6d5ce1fac8b813559328d5)) | [coccinella-labs/hub](https://github.com/coccinella-labs/hub) |
-| 2026-09-21 09:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/hub/compare/50473af67399bc42f770d7add84d76425c5ae035...a55fe737f29be0690a85fa42fe9d13463e98c447)) | [coccinella-labs/hub](https://github.com/coccinella-labs/hub) |
-| 2026-09-21 09:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/skills/compare/9881392dd9b3569172e11bb44bed33e7aae671a4...648090900da1167a7effe960453ed06c3d3c4a39)) | [coccinella-labs/skills](https://github.com/coccinella-labs/skills) |
-| 2026-09-21 09:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/skills/compare/31514187fb07dc63dd97632bc284c24d257352f3...9881392dd9b3569172e11bb44bed33e7aae671a4)) | [coccinella-labs/skills](https://github.com/coccinella-labs/skills) |
-| 2026-09-21 09:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/skills/compare/8b0469dba7210ffa8d0509e793f558ff7128b543...31514187fb07dc63dd97632bc284c24d257352f3)) | [coccinella-labs/skills](https://github.com/coccinella-labs/skills) |
-| 2026-09-21 09:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/cli/compare/10430f7af44b3167e0a628af8653658c76d5fbbb...1dd271053053c222dadce67382fde1329d066756)) | [coccinella-labs/cli](https://github.com/coccinella-labs/cli) |
+| 2026-09-21 15:29 UTC | @coccinella-labs-harper[bot] | labeled PR [#866](https://github.com/coccinella-labs/harper/pull/866) (×6) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 15:28 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/866) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 15:28 UTC | @github-actions[bot] | published a release harper-mcp-server-0.1.5 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-mcp-server-0.1.5)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 15:28 UTC | @github-actions[bot] | published a release harper-ui-0.22.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-ui-0.22.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 15:28 UTC | @github-actions[bot] | published a release harper-core-0.22.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-core-0.22.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 15:28 UTC | @github-actions[bot] | published a release harper-workspace-0.23.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-workspace-0.23.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 15:27 UTC | @coccinella-labs-harper[bot] | opened PR [#866](https://github.com/coccinella-labs/harper/pull/866) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 14:59 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/coccinella-labs.github.io/compare/27bd72cd643f70408d106e36d64defe89b986541...8f6aac94ce88ee4fb990b6a5f16361801c2a15ef)) | [coccinella-labs/coccinella-labs.github.io](https://github.com/coccinella-labs/coccinella-labs.github.io) |
+| 2026-09-21 14:46 UTC | @coccinella-labs-harper[bot] | labeled PR [#865](https://github.com/coccinella-labs/harper/pull/865) (×6) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 14:46 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/865) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 14:44 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/6b2906b39d78ccbd1253a3ae6ca430b79e1ce44a...e39d41064568911f37379e2156fdc6c98509e839)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 14:29 UTC | @coccinella-labs-harper[bot] | merged PR [#865](https://github.com/coccinella-labs/harper/pull/865) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 14:29 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 14:28 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/2b4c34efd28a9ca26a812734d7409966da70d632...4cfbb1fef2bbcda71832558c7dda206b55f8dee6)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-21 14:25 UTC | @bniladridas | deleted branch `release-harper-workspace-0.23.1-harper-core-0.22.…` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-21T10:55:36.650Z • IST: 21/9/2026, 16:25:36 (4:25:36 pm)_
+_Last updated: 2026-09-21T16:45:44.181Z • IST: 21/9/2026, 22:15:44 (10:15:44 pm) 🌙_
 </details>
