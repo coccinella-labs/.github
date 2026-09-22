@@ -48,6 +48,9 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-09-22 17:55 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/b4176cdc3911cd741ccaa42fc92143d8cdeee891...8db1eb6f1aef8007ea20fb2b7bf5c58d1b374c28)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-09-22 17:55 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/8d36f1caf91eb55ea6794df31ab3c1fde275f92a...e1b7f9057928682fc75c5c35a31ffe2967678135)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-09-22 17:52 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/9dfb895fb9aa8a1919d6278bb21b5f3d57862ab8...80247ba63cc0201afc9f5919148196d12d4bd7ae)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-09-22 13:32 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/7f77e93cb65061bbdc62222c7f1b78e924631bfc...9dfb895fb9aa8a1919d6278bb21b5f3d57862ab8)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-09-22 13:04 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/f167f9a109e4eef1bc7cb7b33a89dc1336d37e43...b4176cdc3911cd741ccaa42fc92143d8cdeee891)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-09-22 13:04 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/c921a13eb1620fa0b29199069d1d4d45e218a371...8d36f1caf91eb55ea6794df31ab3c1fde275f92a)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
@@ -60,9 +63,6 @@ Other repositories for apps and utilities
 | 2026-09-22 05:53 UTC | @github-actions[bot] | published a release harper-mcp-server-0.1.6 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-mcp-server-0.1.6)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-22 05:53 UTC | @github-actions[bot] | published a release harper-ui-0.22.2 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-ui-0.22.2)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-22 05:53 UTC | @github-actions[bot] | published a release harper-core-0.22.2 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-core-0.22.2)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-22 05:53 UTC | @github-actions[bot] | published a release harper-workspace-0.23.2 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-workspace-0.23.2)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-22 05:52 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/868) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-22 05:50 UTC | @coccinella-labs-harper[bot] | opened PR [#868](https://github.com/coccinella-labs/harper/pull/868) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-22T17:52:16.337Z • IST: 22/9/2026, 23:22:16 (11:22:16 pm) 🌙_
+_Last updated: 2026-09-22T20:46:02.779Z • IST: 23/9/2026, 02:16:02 (2:16:02 am) 🌙_
 </details>
