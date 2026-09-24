@@ -40,21 +40,21 @@ Other repositories for apps and utilities
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-09-24 05:55 UTC | @dependabot[bot] | labeled PR [#869](https://github.com/coccinella-labs/harper/pull/869) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-24 05:55 UTC | @dependabot[bot] | created branch `dependabot/cargo/cargo-minor-patch-8f8f13f3a4` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-24 05:55 UTC | @dependabot[bot] | opened PR [#869](https://github.com/coccinella-labs/harper/pull/869) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-24 04:11 UTC | @dependabot[bot] | deleted branch `dependabot/npm_and_yarn/types/node-26.5.1` | [coccinella-labs/gh-tag](https://github.com/coccinella-labs/gh-tag) |
-| 2026-09-24 04:11 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/gh-tag/pull/7) | [coccinella-labs/gh-tag](https://github.com/coccinella-labs/gh-tag) |
-| 2026-09-24 04:11 UTC | @dependabot[bot] | labeled PR [#8](https://github.com/coccinella-labs/gh-tag/pull/8) (×4) | [coccinella-labs/gh-tag](https://github.com/coccinella-labs/gh-tag) |
-| 2026-09-24 04:11 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/types/node-26.6.2` | [coccinella-labs/gh-tag](https://github.com/coccinella-labs/gh-tag) |
-| 2026-09-24 04:11 UTC | @dependabot[bot] | opened PR [#8](https://github.com/coccinella-labs/gh-tag/pull/8) | [coccinella-labs/gh-tag](https://github.com/coccinella-labs/gh-tag) |
-| 2026-09-24 02:19 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/dab1b7d8caf8a1235791fe35d32842e635a32011...28b8ae1e884c56efee0146552974d09ba25f43f1)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
-| 2026-09-24 01:35 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/50fecfd76c8e61eb43f94ead16a7fe03485ef206...dbce6768b1ed823cf5b74ae94999321496fe2ed1)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-09-24 01:03 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/f5a73a923f78c8301109d010c96f8cc84122e5d8...29edb4ac2de8c6aa2711315495236bb45780863c)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-09-24 01:02 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/7c05259cc1d692c46590b9fa5205b2dfff365f18...91f0ac0ee3f29e5220f9033019ef257198098df5)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-09-23 23:27 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/8e4163b5272440f8fbfcc3cdf7f3937a3c1abaee...50fecfd76c8e61eb43f94ead16a7fe03485ef206)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-09-23 22:18 UTC | @github-actions[bot] | published a release nightly-20260923-2218-a2dc0ac ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20260923-2218-a2dc0ac)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-09-23 20:58 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/891a50319ab141606fe26d868986f7be6e8cf3bc...8e4163b5272440f8fbfcc3cdf7f3937a3c1abaee)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-09-24 18:08 UTC | @coccinella-labs-harper[bot] | opened PR [#902](https://github.com/coccinella-labs/harper/pull/902) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 18:05 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/abe5d68fa205f8ffb20dc2715eb637f54a8f95d8...16779f98db0daecbc47111ab6677e60a58bc36dd)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 17:53 UTC | @coccinella-labs-harper[bot] | labeled PR [#901](https://github.com/coccinella-labs/harper/pull/901) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 17:49 UTC | @coccinella-labs-harper[bot] | labeled issue [#898: \[fix\] Preserve structured authoring plan across seed_auth…](https://github.com/coccinella-labs/harper/issues/898) (×3) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 17:27 UTC | @coccinella-labs-harper[bot] | labeled PR [#899](https://github.com/coccinella-labs/harper/pull/899) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 17:22 UTC | @dependabot[bot] | labeled PR [#1](https://github.com/coccinella-labs/clipb/pull/1) (×4) | [coccinella-labs/clipb](https://github.com/coccinella-labs/clipb) |
+| 2026-09-24 17:22 UTC | @dependabot[bot] | opened PR [#1](https://github.com/coccinella-labs/clipb/pull/1) | [coccinella-labs/clipb](https://github.com/coccinella-labs/clipb) |
+| 2026-09-24 17:22 UTC | @dependabot[bot] | created branch `dependabot/cargo/clap-4.6.7` | [coccinella-labs/clipb](https://github.com/coccinella-labs/clipb) |
+| 2026-09-24 17:20 UTC | @coccinella-labs-harper[bot] | labeled issue [#897: \[fix\] Do not wipe structured authoring plan on seed_autho…](https://github.com/coccinella-labs/harper/issues/897) (×3) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 17:19 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/901) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 17:13 UTC | @coccinella-labs-harper[bot] | labeled issue [#896: \[fix\] Preserve structured authoring plan across seed_auth…](https://github.com/coccinella-labs/harper/issues/896) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 17:10 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/a1d3695b2502ac8df1cc6d824453e41f810c82e8...4bf1344f960cd9bc192f3647e2540ad1a522c3cb)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 17:10 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/899) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 16:51 UTC | @coccinella-labs-harper[bot] | labeled issue [#894: \[feat\] Broaden direct write-intent routing for edit/save…](https://github.com/coccinella-labs/harper/issues/894) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-24 16:50 UTC | @coccinella-labs-harper[bot] | labeled PR [#895](https://github.com/coccinella-labs/harper/pull/895) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
-_Last updated: 2026-09-24T07:03:48.152Z • IST: 24/9/2026, 12:33:48 (12:33:48 pm)_
+_Last updated: 2026-09-24T18:20:21.671Z • IST: 24/9/2026, 23:50:21 (11:50:21 pm) 🌙_
 </details>
