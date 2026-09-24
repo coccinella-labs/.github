@@ -4,8 +4,9 @@ coccinella-labs is a consolidated home for developer tooling: GPU runtimes, mach
 
 Important repositories for text and code
 - [harper](https://github.com/coccinella-labs/harper) - Rust agent runtime with a TUI, an HTTP API, and a sandbox.
-- [harper-notes](https://github.com/coccinella-labs/harper-notes) - Harper notes.
+- [agent-sdk](https://github.com/coccinella-labs/agent-sdk) - Reusable agent runtime SDK.
 - [agentware](https://github.com/coccinella-labs/agentware) - AI-assisted coding tools and developer workflows.
+- [harper-notes](https://github.com/coccinella-labs/harper-notes) - Harper notes.
 - [dotfiles](https://github.com/coccinella-labs/dotfiles) - Dotfiles for Mac.
 
 Important repositories for GPU and inference
@@ -21,21 +22,12 @@ Important repositories for automation and CLIs
 - [bot](https://github.com/coccinella-labs/bot) - Automation bot.
 - [hub](https://github.com/coccinella-labs/hub) - Central hub - connects all repos.
 - [cli](https://github.com/coccinella-labs/cli) - Master CLI to control all repos.
-- [cli-tools](https://github.com/coccinella-labs/cli-tools) - CLI tools.
 - [go-kit](https://github.com/coccinella-labs/go-kit) - Build kit Go CLI foundation.
-- [gon](https://github.com/coccinella-labs/gon) - Reviews Dependabot pull requests.
-- [dependabot-review](https://github.com/coccinella-labs/dependabot-review) - Dependabot review action.
 
 Other repositories for apps and utilities
 - [vertex](https://github.com/coccinella-labs/vertex) - Understand software before you change it.
-- [press](https://github.com/coccinella-labs/press) - A bookshelf of Christian books.
-- [palmshed](https://github.com/coccinella-labs/palmshed) - Personal site and notes in TypeScript.
 - [browser](https://github.com/coccinella-labs/browser) - Flutter browser app.
-- [vision](https://github.com/coccinella-labs/vision) - Vision demo.
-- [tts](https://github.com/coccinella-labs/tts) - Text to speech.
 - [clipb](https://github.com/coccinella-labs/clipb) - A lightweight clipboard utility for developers.
-- [mini](https://github.com/coccinella-labs/mini) - A minimal Go utility library.
-- [craft](https://github.com/coccinella-labs/craft) - Experimental Rust developer tool.
 
 [View all repositories →](https://github.com/orgs/coccinella-labs/repositories)
 
