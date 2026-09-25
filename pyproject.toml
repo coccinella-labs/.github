@@ -34,7 +34,7 @@ exclude = ["tests*", "docs*", "scripts*", "images*", "profile*"]
 
 [tool.ruff]
 line-length = 88
-target-version = "py314"
+target-version = "py39"
 
 [tool.ruff.lint]
 # An explicit set keeps CI deterministic. Without this, ruff enables its whole
