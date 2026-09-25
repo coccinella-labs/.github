@@ -15,7 +15,7 @@ test = [
     "pytest-asyncio",
     "pytest-cov",
     "bandit",
-    "ruff",
+    "ruff==0.16.9",
 ]
 postgres = [
     "psycopg2-binary",
@@ -35,3 +35,17 @@ exclude = ["tests*", "docs*", "scripts*", "images*", "profile*"]
 [tool.ruff]
 line-length = 88
 target-version = "py314"
+
+[tool.ruff.lint]
+# An explicit set keeps CI deterministic. Without this, ruff enables its whole
+# catalog and new releases activate rules the code was never written against.
+select = ["E", "F", "I", "B", "UP"]
+ignore = [
+    # These scripts inspect return codes instead of raising, and probe Tk
+    # widgets by catching exceptions on purpose.
+    "PLW1510",
+    "BLE001",
+    "S110",
+    # Shebangs are kept for direct invocation.
+    "EXE001",
+]

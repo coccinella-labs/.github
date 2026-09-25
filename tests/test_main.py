@@ -3,7 +3,7 @@ from unittest.mock import MagicMock, patch
 
 import pytest
 
-from main import GitGUI, HAS_PSYCOPG2
+from main import HAS_PSYCOPG2, GitGUI
 
 
 class TestGitGUI:

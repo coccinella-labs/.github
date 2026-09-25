@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-from datetime import datetime
 import os
 import subprocess  # nosec B404
+from datetime import datetime
 
 try:
     import psycopg2
