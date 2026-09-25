@@ -57,8 +57,6 @@ Standalone tools outside the four systems.
 - [clipb](https://github.com/coccinella-labs/clipb) - A lightweight clipboard utility for developers.
 - [license](https://github.com/coccinella-labs/license) - Shared legal and license documents for the organization.
 
-[View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
-
 ## Org activity
 
 <!-- ORG_ACTIVITY:START -->
@@ -80,5 +78,8 @@ Standalone tools outside the four systems.
 | 2026-09-25 00:19 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/5f16ce95a95c9409ae3632b84e2469504eff5293...2dd38b61f50d69be1d372db897647e5cf3d3c94d)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-09-25 00:19 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/acf3a3c91828a239ac3dc0c61d4c9fc5e3ad74dd...d2b3d60bcfaf85500d4cfb458d8ff3ddcf30da9e)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 <!-- ORG_ACTIVITY:END -->
+
+[View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
+
 
 _Last updated: 2026-09-25T11:04:47.845Z • IST: 25/9/2026, 16:34:47 (4:34:47 pm)_
