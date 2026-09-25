@@ -62,6 +62,8 @@ Standalone tools outside the four systems.
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-09-25 11:21 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/coccinella-labs.github.io/compare/4ce5c34b5c22af9a3b2e7c3f15c60f4dce17d991...6d62cf50dc96b86437c852ca28d79533b42bcf06)) | [coccinella-labs/coccinella-labs.github.io](https://github.com/coccinella-labs/coccinella-labs.github.io) |
+| 2026-09-25 11:19 UTC | @bniladridas | published a release v2.0.0 ([link](https://github.com/coccinella-labs/coccinella-labs.github.io/releases/tag/v2.0.0)) | [coccinella-labs/coccinella-labs.github.io](https://github.com/coccinella-labs/coccinella-labs.github.io) |
 | 2026-09-25 11:07 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/.github/compare/5efc02adfee2f78508f1a725837027610f1bbe1f...6424ba894b3510f7d15608f3b700819ce9a1205c)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-09-25 11:04 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/adb383c879371d52eb0422732ad32523bf10e940...5efc02adfee2f78508f1a725837027610f1bbe1f)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-09-25 11:04 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/.github/compare/08d4e37e5f5b004cd23f3ecafc0572b91faea30f...adb383c879371d52eb0422732ad32523bf10e940)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
@@ -75,11 +77,9 @@ Standalone tools outside the four systems.
 | 2026-09-25 05:55 UTC | @dependabot[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/8585ae8f0326a15a7cc72c4a9aaa45837ab157ca...271c8a783136cae1f6c8b757d23a087ad4815700)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-09-25 05:46 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/d2b3d60bcfaf85500d4cfb458d8ff3ddcf30da9e...7d027d20aa4670df9ea13721eca1ba75c547e5bf)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-09-25 03:32 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/5dd2a447aadb519cb78927b9924e08aba2933b90...11e523d69c84c640d41652b85f2a779a93053443)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-09-25 02:36 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/28b8ae1e884c56efee0146552974d09ba25f43f1...e81a2b769aa8001b6687171282c46318a36e49db)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
-| 2026-09-25 02:30 UTC | @github-actions[bot] | published a release nightly-c39aebe2e3a6aeacfe3bbeca139596427eda317b ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c39aebe2e3a6aeacfe3bbeca139596427eda317b)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-09-25T11:07:40.629Z • IST: 25/9/2026, 16:37:40 (4:37:40 pm)_
+_Last updated: 2026-09-25T11:24:08.330Z • IST: 25/9/2026, 16:54:08 (4:54:08 pm)_
