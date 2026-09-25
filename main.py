@@ -2,7 +2,7 @@
 
 import os
 import subprocess  # nosec B404
-from datetime import datetime
+from datetime import datetime, timezone
 
 try:
     import psycopg2
@@ -65,8 +65,16 @@ class GitGUI:
                 CREATE TABLE IF NOT EXISTS command_history (
                     id SERIAL PRIMARY KEY,
                     command TEXT,
-                    timestamp TIMESTAMP
+                    timestamp TIMESTAMPTZ
                 )
+            """)
+            # Tables created before the move to TIMESTAMPTZ keep a naive
+            # column, so widen it in place. Postgres reads those existing
+            # values as UTC, which is what datetime.now() produced.
+            cur.execute("""
+                ALTER TABLE command_history
+                ALTER COLUMN timestamp TYPE TIMESTAMPTZ
+                USING timestamp AT TIME ZONE 'UTC'
             """)
             self.conn.commit()
 
@@ -148,7 +156,7 @@ class GitGUI:
         with self.conn.cursor() as cur:
             cur.execute(
                 "INSERT INTO command_history (command, timestamp) VALUES (%s, %s)",
-                (command, datetime.now()),
+                (command, datetime.now(timezone.utc)),
             )
             self.conn.commit()
 
@@ -159,6 +167,15 @@ class GitGUI:
             return
         self.run_git_command(["git", "commit", "-m", message])
         self.clear_commit_message()
+
+    @staticmethod
+    def local_time(value):
+        # Rows are stored in UTC. Show them in the viewer's own zone, and
+        # tolerate a naive value in case an older row predates the column
+        # widening and is read before the migration runs.
+        if value.tzinfo is None:
+            return value.strftime("%Y-%m-%d %H:%M:%S")
+        return value.astimezone().strftime("%Y-%m-%d %H:%M:%S")
 
     def show_history(self):
         if not self.conn:
@@ -172,7 +189,9 @@ class GitGUI:
                     "ORDER BY timestamp DESC LIMIT 10"
                 )
                 rows = cur.fetchall()
-            history = "\n".join(f"{row[1]}: {' '.join(row[0])}" for row in rows)
+            history = "\n".join(
+                f"{self.local_time(row[1])}: {' '.join(row[0])}" for row in rows
+            )
             self.set_output(history or "No history")
         except psycopg2.Error as exc:
             self.set_output(f"Error: {exc}")
