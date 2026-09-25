@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "git-gui"
 version = "0.1.2"
 description = "A simple GUI for Git operations"
-authors = [{name = "Niladri Das"}]
+authors = [{name = "Coccinella Labs"}]
 dependencies = []
 
 [project.optional-dependencies]
