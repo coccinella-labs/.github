@@ -62,24 +62,24 @@ Standalone tools outside the four systems.
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-09-25 13:38 UTC | @bniladridas | deleted branch `docs/thumbnail-move` | [coccinella-labs/tokensdk](https://github.com/coccinella-labs/tokensdk) |
-| 2026-09-25 13:38 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/tokensdk/compare/7cb921acef011b8e5223850808005c7d126fecb5...30d6b2fb63ab340b9fb1e23e695b4d48943028a9)) | [coccinella-labs/tokensdk](https://github.com/coccinella-labs/tokensdk) |
-| 2026-09-25 13:38 UTC | @bniladridas | merged PR [#4](https://github.com/coccinella-labs/tokensdk/pull/4) | [coccinella-labs/tokensdk](https://github.com/coccinella-labs/tokensdk) |
-| 2026-09-25 13:37 UTC | @github-actions[bot] | labeled PR [#12](https://github.com/coccinella-labs/mcporg/pull/12) (×2) | [coccinella-labs/mcporg](https://github.com/coccinella-labs/mcporg) |
-| 2026-09-25 13:37 UTC | @github-actions[bot] | opened PR [#12](https://github.com/coccinella-labs/mcporg/pull/12) | [coccinella-labs/mcporg](https://github.com/coccinella-labs/mcporg) |
-| 2026-09-25 13:37 UTC | @bniladridas | deleted branch `main-drop-stale-leftover` | [coccinella-labs/mcporg](https://github.com/coccinella-labs/mcporg) |
-| 2026-09-25 13:37 UTC | @bniladridas | deleted branch `docs/stale-refs` | [coccinella-labs/tokensdk](https://github.com/coccinella-labs/tokensdk) |
-| 2026-09-25 13:37 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/tokensdk/compare/d0140d8f981b1cb8905b77dffb391902683f4900...7cb921acef011b8e5223850808005c7d126fecb5)) | [coccinella-labs/tokensdk](https://github.com/coccinella-labs/tokensdk) |
-| 2026-09-25 13:37 UTC | @bniladridas | merged PR [#5](https://github.com/coccinella-labs/tokensdk/pull/5) | [coccinella-labs/tokensdk](https://github.com/coccinella-labs/tokensdk) |
-| 2026-09-25 13:37 UTC | @bniladridas | merged PR [#11](https://github.com/coccinella-labs/mcporg/pull/11) | [coccinella-labs/mcporg](https://github.com/coccinella-labs/mcporg) |
-| 2026-09-25 13:36 UTC | @gpucomm-hq | PullRequestReviewEvent | [coccinella-labs/tokensdk](https://github.com/coccinella-labs/tokensdk) |
-| 2026-09-25 13:35 UTC | @gpucomm-hq | PullRequestReviewEvent | [coccinella-labs/tokensdk](https://github.com/coccinella-labs/tokensdk) |
-| 2026-09-25 13:35 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/rag/compare/bea78ab5bfab6f738c916c7749036319c7ed039f...e3e3f187c2422674a36f423eb8daecd6f46de1ce)) | [coccinella-labs/rag](https://github.com/coccinella-labs/rag) |
-| 2026-09-25 13:35 UTC | @gpucomm-hq | PullRequestReviewEvent | [coccinella-labs/mcporg](https://github.com/coccinella-labs/mcporg) |
-| 2026-09-25 13:31 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harpertoken/compare/e0fb6d49ebfb305efa9590ca65aaacc3cdae0e7c...8520b1ba6113cc7b3610d2fae786d9574b4b37f2)) | [coccinella-labs/harpertoken](https://github.com/coccinella-labs/harpertoken) |
+| 2026-09-25 17:30 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/palmshed-org/compare/5aae51be535640f2f9da72c8d23e197b22af3809...f16375a19405257fca3a0d11642cd0ed754121bd)) | [coccinella-labs/palmshed-org](https://github.com/coccinella-labs/palmshed-org) |
+| 2026-09-25 17:27 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/bniladridas/compare/f8363501f33c86cac818957a522baff2eeb5fcff...4cf72e8025b7bed082ba1f9283619ffc8426c2dc)) | [coccinella-labs/bniladridas](https://github.com/coccinella-labs/bniladridas) |
+| 2026-09-25 17:22 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/l2/compare/79b8d56b9eb507400e46de45b844187c78e7e144...2e64fb3e6a09ba87dffe13084e98d095321e340a)) | [coccinella-labs/l2](https://github.com/coccinella-labs/l2) |
+| 2026-09-25 17:21 UTC | @bniladridas | created branch `prepare-tui-merge` | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-09-25 17:14 UTC | @bniladridas | deleted branch `fix/ci-lint-determinism` | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-09-25 17:09 UTC | @github-actions[bot] | labeled PR [#2](https://github.com/coccinella-labs/xnubuild/pull/2) | [coccinella-labs/xnubuild](https://github.com/coccinella-labs/xnubuild) |
+| 2026-09-25 17:09 UTC | @github-actions[bot] | opened PR [#2](https://github.com/coccinella-labs/xnubuild/pull/2) | [coccinella-labs/xnubuild](https://github.com/coccinella-labs/xnubuild) |
+| 2026-09-25 17:09 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/xnubuild/compare/33019151c4f58fb9b416e107e631f4a4e05d6042...65a8752c5b90f60dcd9479625be975a8fd7ae107)) | [coccinella-labs/xnubuild](https://github.com/coccinella-labs/xnubuild) |
+| 2026-09-25 17:04 UTC | @bniladridas | published a release v2.0.1 ([link](https://github.com/coccinella-labs/coccinella-labs.github.io/releases/tag/v2.0.1)) | [coccinella-labs/coccinella-labs.github.io](https://github.com/coccinella-labs/coccinella-labs.github.io) |
+| 2026-09-25 16:46 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/coccinella-labs.github.io/compare/0af00050eb5093335bac5f4e6bcb7d2b5243314f...49034df932439ac3a1cd13489043933fb08716b9)) | [coccinella-labs/coccinella-labs.github.io](https://github.com/coccinella-labs/coccinella-labs.github.io) |
+| 2026-09-25 16:45 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/coccinella-labs.github.io/compare/0442b0cf464bcd3c0a1b8d49809f35d2db81fcde...3e7a102732dd96297b5224c2bfe2a426b01467f4)) | [coccinella-labs/coccinella-labs.github.io](https://github.com/coccinella-labs/coccinella-labs.github.io) |
+| 2026-09-25 16:40 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/coccinella-labs.github.io/compare/8aa00395faa444bdd5273c4fb771ea931c0a6212...0af00050eb5093335bac5f4e6bcb7d2b5243314f)) | [coccinella-labs/coccinella-labs.github.io](https://github.com/coccinella-labs/coccinella-labs.github.io) |
+| 2026-09-25 16:39 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/coccinella-labs.github.io/compare/6d62cf50dc96b86437c852ca28d79533b42bcf06...0442b0cf464bcd3c0a1b8d49809f35d2db81fcde)) | [coccinella-labs/coccinella-labs.github.io](https://github.com/coccinella-labs/coccinella-labs.github.io) |
+| 2026-09-25 16:35 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harpertoken/compare/59bab4bdcb50f21d942abd9e3c60fa7a5bd3b492...1764801a166017c9bea7c8b2c5cac8043cdec567)) | [coccinella-labs/harpertoken](https://github.com/coccinella-labs/harpertoken) |
+| 2026-09-25 16:30 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/b54b00bb452d183e62f4eb2ceb80ecd0a70519ad...d155f8e62b52261ee6cb1ae901b4b089796315e6)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-09-25T14:40:07.902Z • IST: 25/9/2026, 20:10:07 (8:10:07 pm) 🌙_
+_Last updated: 2026-09-25T17:33:11.011Z • IST: 25/9/2026, 23:03:11 (11:03:11 pm) 🌙_
