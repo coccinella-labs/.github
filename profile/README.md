@@ -62,24 +62,24 @@ Standalone tools outside the four systems.
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-09-26 12:14 UTC | @bniladridas | labeled issue [#914: website/server.html /health example shows version 0.20.1 bu…](https://github.com/coccinella-labs/harper/issues/914) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 12:14 UTC | @bniladridas | opened issue [#914: website/server.html /health example shows version 0.20.1 bu…](https://github.com/coccinella-labs/harper/issues/914) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 12:11 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/b265aa0b366c3209ba9c1c67bc148c76f055cfd6...842ae208562adcf7557d3b09e1e891b16a4c500d)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 12:11 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/907) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 12:06 UTC | @bniladridas | opened PR [#913](https://github.com/coccinella-labs/harper/pull/913) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 11:39 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/5cfcc1ef7c9abae928116fa07a8c19467852a5e8...b265aa0b366c3209ba9c1c67bc148c76f055cfd6)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 11:12 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/909) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 10:56 UTC | @bniladridas | deleted branch `chore/remove-stale-agent-configs` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 10:56 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/9c66f122b4da203b13694c87327bc7e8eeaf5153...0205732689a6f26800abb89be1930f65442f95ac)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 10:56 UTC | @bniladridas | merged PR [#912](https://github.com/coccinella-labs/harper/pull/912) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 10:56 UTC | @bniladridas | opened PR [#912](https://github.com/coccinella-labs/harper/pull/912) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 10:55 UTC | @bniladridas | created branch `chore/remove-stale-agent-configs` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 10:50 UTC | @bniladridas | merged PR [#911](https://github.com/coccinella-labs/harper/pull/911) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 10:49 UTC | @bniladridas | opened PR [#911](https://github.com/coccinella-labs/harper/pull/911) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 10:49 UTC | @bniladridas | created branch `chore/expand-editorconfig` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 14:06 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/09a0f40e2e20361844f2918a802c8a3600e770ec...c8429d88e22b98ac079d7cdcca75b6612e238488)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-09-26 14:05 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/d2f4562cab049ee60a4b5c095857dac114dc8154...b81a2fdd6b654221e2bd6ac770b38fbc7851cc10)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-09-26 14:00 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/918) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:55 UTC | @coccinella-labs-harper[bot] | labeled PR [#918](https://github.com/coccinella-labs/harper/pull/918) (×6) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:46 UTC | @github-actions[bot] | published a release harper-sandbox-0.3.3 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-sandbox-0.3.3)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:46 UTC | @github-actions[bot] | published a release harper-mcp-server-0.1.7 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-mcp-server-0.1.7)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:46 UTC | @github-actions[bot] | published a release harper-firmware-0.1.4 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-firmware-0.1.4)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:46 UTC | @github-actions[bot] | published a release harper-core-0.23.0 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-core-0.23.0)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:46 UTC | @github-actions[bot] | published a release harper-ui-0.22.3 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-ui-0.22.3)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:46 UTC | @github-actions[bot] | published a release harper-workspace-0.24.0 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-workspace-0.24.0)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:46 UTC | @coccinella-labs-harper[bot] | opened PR [#918](https://github.com/coccinella-labs/harper/pull/918) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:46 UTC | @github-actions[bot] | created branch `release-harper-workspace-0.25.0-harper-core-0.24.…` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:43 UTC | @github-actions[bot] | published a release harper-0.23.0 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-0.23.0)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:33 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/d97654e74d43a53f9c1174dc9a041349fe1c4e90...e5b8bb77d7f2df6c229ecedc31bd30ad8ae0ec7c)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-26 13:25 UTC | @coccinella-labs-harper[bot] | labeled issue [#917: \[packaging\] both Homebrew formula surfaces are behind; th…](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-09-26T12:21:13.300Z • IST: 26/9/2026, 17:51:13 (5:51:13 pm)_
+_Last updated: 2026-09-26T15:34:45.140Z • IST: 26/9/2026, 21:04:45 (9:04:45 pm) 🌙_
