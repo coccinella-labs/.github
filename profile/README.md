@@ -62,24 +62,24 @@ Standalone tools outside the four systems.
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-09-27 03:35 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/920) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-27 03:35 UTC | @coccinella-labs-harper[bot] | labeled PR [#920](https://github.com/coccinella-labs/harper/pull/920) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-27 03:35 UTC | @coccinella-labs-harper[bot] | created branch `cargo-lock-update` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-27 03:35 UTC | @coccinella-labs-harper[bot] | opened PR [#920](https://github.com/coccinella-labs/harper/pull/920) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-27 02:37 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/9e16991973da33dac3882ca0ada4652f166e55c4...35cf108e8af1021c4004da1a9753a5a19def383e)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
-| 2026-09-27 02:31 UTC | @github-actions[bot] | published a release nightly-190127cf631d8abf1666aa71a50ef0bcdc1d25f6-275.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-190127cf631d8abf1666aa71a50ef0bcdc1d25f6-275.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-27 00:12 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/41fcb63782f94cc0a3bef06b9409c2f9470d622d...5b49de647689d76f9788dfbfabc422b605dfa838)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-09-27 00:12 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/05b0fbfdab7cc7a0fcc548df147f440369e45ffa...78b0ffa18db4ac98e956c5e96fd4b8e99f3cbe14)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-09-27 00:06 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/bf27265c825e0d04c3e50c61e8d98be696a3162e...1c23297fce103a1f791b52a33e9fa0a24db3da27)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-09-26 21:58 UTC | @github-actions[bot] | published a release nightly-20260926-2157-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20260926-2157-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-09-26 21:48 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/1923ead423affe23f575592ee7adbceb0f92acc0...05b0fbfdab7cc7a0fcc548df147f440369e45ffa)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-09-26 21:44 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/7613866deb4e5758b93797e6b25c96b94072874d...bf27265c825e0d04c3e50c61e8d98be696a3162e)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-09-26 18:55 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/3dba82ae5f9241c4801729844df909663afbe711...7613866deb4e5758b93797e6b25c96b94072874d)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-09-26 18:44 UTC | @github-actions[bot] | published a release harper-0.24.0 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-09-26 18:31 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/919) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 10:42 UTC | @dependabot[bot] | deleted branch `dependabot/pip/huggingface-hub-gte-1.32.0` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-09-27 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/116) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-09-27 10:42 UTC | @dependabot[bot] | labeled PR [#117](https://github.com/coccinella-labs/mlapi/pull/117) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-09-27 10:42 UTC | @dependabot[bot] | opened PR [#117](https://github.com/coccinella-labs/mlapi/pull/117) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-09-27 09:24 UTC | @github-actions[bot] | published a release nightly-20260927 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20260927)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-09-27 08:58 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/1db1b9710e8a9d2d54634190a42b0b459866c173...ae801fab8ccffd64106a4d5e105a89ff8ecdb939)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 08:51 UTC | @bniladridas | deleted branch `cargo-lock-update` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 08:51 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/d54bc93e775ffe4a8835ef51a4940a35eb0c1c97...99ad21e2b4c5db91c44b2cee07ef9bd199bef9f3)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 08:51 UTC | @coccinella-labs-harper[bot] | merged PR [#920](https://github.com/coccinella-labs/harper/pull/920) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 08:50 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/6c9194c53f74728070ceed9a97b10719dcdecc19...1db1b9710e8a9d2d54634190a42b0b459866c173)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 08:50 UTC | @bniladridas | deleted branch `fix/update-lockfiles-921` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 08:50 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/190127cf631d8abf1666aa71a50ef0bcdc1d25f6...d54bc93e775ffe4a8835ef51a4940a35eb0c1c97)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 08:50 UTC | @bniladridas | closed issue [#921: \[ci\] update-lockfiles.yml fails on self-referential base…](https://github.com/coccinella-labs/harper/issues/921) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 08:50 UTC | @bniladridas | merged PR [#922](https://github.com/coccinella-labs/harper/pull/922) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-09-27 08:41 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/920) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-09-27T05:30:31.960Z • IST: 27/9/2026, 11:00:31 (11:00:31 am)_
+_Last updated: 2026-09-27T11:13:20.919Z • IST: 27/9/2026, 16:43:20 (4:43:20 pm)_
