@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Coccinella Labs" width="600">
+</p>
+
 Hi there
 
 coccinella-labs builds small developer tools and the systems behind them: agent runtimes, GPU and machine learning compute, runtimes and developer tooling, and the automation that ships it all. All work is public.
