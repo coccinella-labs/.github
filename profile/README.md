@@ -38,7 +38,7 @@ CLI foundations, runtimes, and code tools the rest of the collection builds on.
 - [cli](https://github.com/coccinella-labs/cli) - GitHub CLI extension that reads the repo list dynamically.
 - [hub](https://github.com/coccinella-labs/hub) - Central hub connecting all repos.
 - [go-kit](https://github.com/coccinella-labs/go-kit) - Go CLI for working with Git hosting platforms.
-- [harpertoken](https://github.com/coccinella-labs/harpertoken) - Code quality and style checker for many languages.
+- [tokensdk](https://github.com/coccinella-labs/tokensdk) - Official TypeScript client for the Coccinella API.
 - [vertex](https://github.com/coccinella-labs/vertex) - Understand software before you change it.
 - [omnitype](https://github.com/coccinella-labs/omnitype) - Experimental type checker for Python and dynamic languages.
 - [dotenv-keep](https://github.com/coccinella-labs/dotenv-keep) - Keep and manage .env files safely.
