@@ -4,7 +4,7 @@
 
 coccinella-labs builds small developer tools and the systems behind them: agent runtimes, GPU and machine learning compute, runtimes and developer tooling, and the automation that ships it all. Published work is public; training sources for the Hub models are kept private.
 
-Work falls into five areas below. The catalog at [coccinella-labs.github.io](https://coccinella-labs.github.io) details 27 selected projects with language, type, license, and install command.
+Work falls into five areas below, and the catalog at [coccinella-labs.github.io](https://coccinella-labs.github.io) lists every code project with its language, type, license, and install command.
 
 ## Agent infrastructure
 
