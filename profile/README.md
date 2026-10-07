@@ -2,11 +2,9 @@
   <img src="https://raw.githubusercontent.com/coccinella-labs/.github/main/profile/logo.png" alt="Coccinella Labs" width="600">
 </p>
 
-Hi there
-
 coccinella-labs builds small developer tools and the systems behind them: agent runtimes, GPU and machine learning compute, runtimes and developer tooling, and the automation that ships it all. All work is public.
 
-The organization is organized into four systems, and the catalog at [coccinella-labs.github.io](https://coccinella-labs.github.io) lists every project with its language, type, license, and install command.
+Work falls into five areas below, and the catalog at [coccinella-labs.github.io](https://coccinella-labs.github.io) lists every code project with its language, type, license, and install command.
 
 ## Agent infrastructure
 
@@ -78,7 +76,7 @@ Training sources live in [harpertoken](https://github.com/coccinella-labs/harper
 
 ## Apps and utilities
 
-Standalone tools outside the four systems.
+Standalone tools outside the five areas.
 
 - [browser](https://github.com/coccinella-labs/browser) - Flutter desktop browser for macOS, Windows, and Linux.
 - [clipb](https://github.com/coccinella-labs/clipb) - A lightweight clipboard utility for developers.
