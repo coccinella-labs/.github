@@ -7,6 +7,7 @@ name = "git-gui"
 version = "0.1.2"
 description = "A simple GUI for Git operations"
 authors = [{name = "Coccinella Labs"}]
+requires-python = ">=3.13"
 dependencies = []
 
 [project.optional-dependencies]
@@ -34,7 +35,7 @@ exclude = ["tests*", "docs*", "scripts*", "images*", "profile*"]
 
 [tool.ruff]
 line-length = 88
-target-version = "py39"
+target-version = "py313"
 
 [tool.ruff.lint]
 # An explicit set keeps CI deterministic. Without this, ruff enables its whole

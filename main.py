@@ -2,7 +2,7 @@
 
 import os
 import subprocess  # nosec B404
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 
 try:
     import psycopg2
@@ -156,7 +156,7 @@ class GitGUI:
         with self.conn.cursor() as cur:
             cur.execute(
                 "INSERT INTO command_history (command, timestamp) VALUES (%s, %s)",
-                (command, datetime.now(timezone.utc)),
+                (command, datetime.now(UTC)),
             )
             self.conn.commit()
 
