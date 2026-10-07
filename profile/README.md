@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/coccinella-labs/.github/main/profile/logo.png" alt="Coccinella Labs" width="600">
 </p>
 
-coccinella-labs builds small developer tools and the systems behind them: agent runtimes, GPU and machine learning compute, runtimes and developer tooling, and the automation that ships it all. All work is public.
+coccinella-labs builds small developer tools and the systems behind them: agent runtimes, GPU and machine learning compute, runtimes and developer tooling, and the automation that ships it all. Published work is public; training sources for the Hub models are kept private.
 
 Work falls into five areas below, and the catalog at [coccinella-labs.github.io](https://coccinella-labs.github.io) lists every code project with its language, type, license, and install command.
 
@@ -24,7 +24,7 @@ Apple Silicon kernels, Metal runtimes, and inference for local and serverless ma
 - [kernels](https://github.com/coccinella-labs/kernels) - Metal compute kernels written in Swift.
 - [gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) - Binary-aware artifact store for GPU artifacts, datasets, and weights.
 - [gpucomm-bot](https://github.com/coccinella-labs/gpucomm-bot) - GPU-aware GitHub App and CI automation.
-- [bitinfer](https://github.com/coccinella-labs/bitinfer) - Faster model inference on Apple Silicon.
+- [bitinfer](https://github.com/coccinella-labs/bitinfer) - Model inference on Apple Silicon.
 - [ml](https://github.com/coccinella-labs/ml) - Distributed machine learning framework.
 - [mlapi](https://github.com/coccinella-labs/mlapi) - FastAPI service for model inference.
 - [benchmark](https://github.com/coccinella-labs/benchmark) - Compares Whisper and Wav2Vec2 transcription quality.
