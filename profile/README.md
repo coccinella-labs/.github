@@ -53,6 +53,28 @@ Versioning, tagging, CI checks, and delivery that ship every other project.
 - [bot](https://github.com/coccinella-labs/bot) - GitHub Actions workflows that manage repositories across this org.
 - [auto-label](https://github.com/coccinella-labs/auto-label) - Labels pull requests and issues from commits and files.
 
+## Models and datasets
+
+Small verified models and the data behind them, published on Hugging Face. No install commands; load with `transformers`, `datasets`, or plain HTTP.
+
+- [quiz](https://huggingface.co/harpertoken/quiz) - DistilBERT extractive QA on SQuAD.
+- [clue](https://huggingface.co/harpertoken/clue) - Continued QA fine-tune, 1k examples.
+- [name](https://huggingface.co/harpertoken/name) - BERT named entity recognition on CoNLL-2003.
+- [talk](https://huggingface.co/harpertoken/talk) - Whisper speech recognition.
+- [word](https://huggingface.co/harpertoken/word) - From-scratch GPT-2, generation collapses to end-of-text, kept as a documented artifact.
+- [chat](https://huggingface.co/harpertoken/chat) - GPT-2 conversational fine-tune.
+- [tiny](https://huggingface.co/harpertoken/tiny) - SmolLM 4-bit quant, MLX only.
+- [pole](https://huggingface.co/harpertoken/pole) - CMA-ES linear CartPole policy, scores 500.
+- [mark](https://huggingface.co/harpertoken/mark) - IsolationForest telemetry anomaly detection.
+- [wear](https://huggingface.co/harpertoken/wear) - CNN clothing classifier, 0.9073 on Fashion-MNIST.
+- [tone](https://huggingface.co/harpertoken/tone) - CNN spoken-command classifier, 0.9116 on Speech Commands.
+- [fuse](https://huggingface.co/harpertoken/fuse) - Image-caption matcher, 0.6933 on Flickr8k.
+- [flow](https://huggingface.co/harpertoken/flow) - GRU sandbox-event classifier, 1.0000 where fields sit at chance.
+- [stat](https://huggingface.co/datasets/harpertoken/stat) - macOS system telemetry, 6,190 rows.
+- [sandbox-lifecycle](https://huggingface.co/datasets/coccinella-labs/sandbox-lifecycle) - Controlled sandbox event sequences, v0 and v1ord configs.
+
+Training sources live in [harpertoken](https://github.com/coccinella-labs/harpertoken) (QA), [rl](https://github.com/coccinella-labs/rl) (CartPole), and the private `mark`, `wear`, `tone`, `fuse`, `move`, and `flow` preservation repos.
+
 ## Apps and utilities
 
 Standalone tools outside the four systems.
