@@ -15,7 +15,7 @@ test = [
     "pytest-asyncio",
     "pytest-cov",
     "bandit",
-    "ruff==0.16.9",
+    "ruff==0.16.10",
 ]
 postgres = [
     "psycopg2-binary",
