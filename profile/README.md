@@ -20,14 +20,15 @@ Harnesses, runtimes, and bots that plan work, execute it, and ship results.
 
 Apple Silicon kernels, Metal runtimes, and inference for local and serverless machine learning.
 
-- [core](https://github.com/coccinella-labs/core) - Metal-based GPU compute runtime for Apple Silicon.
-- [kernels](https://github.com/coccinella-labs/kernels) - Metal compute kernels written in Swift.
+- [core](https://github.com/coccinella-labs/core) - Metal GPU compute runtime focused on memory, synchronization, and data movement on Apple Silicon.
+- [kernels](https://github.com/coccinella-labs/kernels) - Metal compute kernels in Swift and Metal, with a runnable CUDA translation demo.
 - [gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) - Content-addressed store for GPU artifacts, with verified retrieval and automatic deduplication.
 - [gpucomm-bot](https://github.com/coccinella-labs/gpucomm-bot) - GPU-aware GitHub App and CI automation.
 - [bitinfer](https://github.com/coccinella-labs/bitinfer) - Hugging Face encoder inference for Apple Silicon. Halves memory with float16 weights; slower than plain transformers on CPU.
-- [ml](https://github.com/coccinella-labs/ml) - Distributed machine learning framework.
+- [ml](https://github.com/coccinella-labs/ml) - MPI coordination scaffold for distributed training in C++, with a REST monitoring dashboard. The learning itself is not implemented.
 - [mlapi](https://github.com/coccinella-labs/mlapi) - FastAPI service for model inference.
-- [benchmark](https://github.com/coccinella-labs/benchmark) - Compares Whisper and Wav2Vec2 transcription quality.
+- [rl](https://github.com/coccinella-labs/rl) - CMA-ES reinforcement learning for CartPole-v1 with a linear policy.
+- [benchmark](https://github.com/coccinella-labs/benchmark) - Whisper and Wav2Vec2 speech models with WER and CER evaluation implemented, not yet wired into a comparison run.
 
 ## Runtimes and developer tooling
 
