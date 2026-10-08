@@ -24,7 +24,7 @@ Apple Silicon kernels, Metal runtimes, and inference for local and serverless ma
 - [kernels](https://github.com/coccinella-labs/kernels) - Metal compute kernels written in Swift.
 - [gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) - Content-addressed store for GPU artifacts, with verified retrieval and automatic deduplication.
 - [gpucomm-bot](https://github.com/coccinella-labs/gpucomm-bot) - GPU-aware GitHub App and CI automation.
-- [bitinfer](https://github.com/coccinella-labs/bitinfer) - Model inference on Apple Silicon.
+- [bitinfer](https://github.com/coccinella-labs/bitinfer) - Hugging Face encoder inference for Apple Silicon. Halves memory with float16 weights; slower than plain transformers on CPU.
 - [ml](https://github.com/coccinella-labs/ml) - Distributed machine learning framework.
 - [mlapi](https://github.com/coccinella-labs/mlapi) - FastAPI service for model inference.
 - [benchmark](https://github.com/coccinella-labs/benchmark) - Compares Whisper and Wav2Vec2 transcription quality.
