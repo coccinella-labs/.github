@@ -22,7 +22,7 @@ Apple Silicon kernels, Metal runtimes, and inference for local and serverless ma
 
 - [core](https://github.com/coccinella-labs/core) - Metal-based GPU compute runtime for Apple Silicon.
 - [kernels](https://github.com/coccinella-labs/kernels) - Metal compute kernels written in Swift.
-- [gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) - Binary-aware artifact store for GPU artifacts, datasets, and weights.
+- [gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) - Content-addressed store for GPU artifacts, with verified retrieval and automatic deduplication.
 - [gpucomm-bot](https://github.com/coccinella-labs/gpucomm-bot) - GPU-aware GitHub App and CI automation.
 - [bitinfer](https://github.com/coccinella-labs/bitinfer) - Model inference on Apple Silicon.
 - [ml](https://github.com/coccinella-labs/ml) - Distributed machine learning framework.
