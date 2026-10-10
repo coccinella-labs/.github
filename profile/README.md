@@ -88,24 +88,24 @@ Standalone tools, outside the five systems above.
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-10 10:52 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/e0db453860fbcc0fc435af9b087a2f4a0f619aea...2344c7ae532f9b6f343174fff51d98296f646371)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:52 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harper/compare/51f83193e734ed6ab28f9a2ce02e1838b0848566...50fd537097f390d7e5fa650ad0334477131dae9d)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:52 UTC | @bniladridas | merged PR [#928](https://github.com/coccinella-labs/harper/pull/928) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:51 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:51 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:31 UTC | @coccinella-labs-harper[bot] | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:31 UTC | @coccinella-labs-harper[bot] | PullRequestReviewCommentEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:31 UTC | @coccinella-labs-harper[bot] | labeled PR [#928](https://github.com/coccinella-labs/harper/pull/928) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:30 UTC | @bniladridas | opened PR [#928](https://github.com/coccinella-labs/harper/pull/928) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:24 UTC | @coccinella-labs-harper[bot] | labeled PR [#927](https://github.com/coccinella-labs/harper/pull/927) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:24 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/927) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:24 UTC | @bniladridas | opened PR [#927](https://github.com/coccinella-labs/harper/pull/927) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-10 10:00 UTC | @github-actions[bot] | published a release nightly-20261010 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261010)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-10-10 06:25 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/924) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-10 06:02 UTC | @coccinella-labs-harper[bot] | labeled issue [#926: sandbox-exec narrow deny profiles abort on macOS 27; cause…](https://github.com/coccinella-labs/harper/issues/926) (×3) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-10 06:02 UTC | @bniladridas | opened issue [#926: sandbox-exec narrow deny profiles abort on macOS 27; cause…](https://github.com/coccinella-labs/harper/issues/926) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-10 05:31 UTC | @coccinella-labs-harper[bot] | labeled issue [#925: Sandbox-exec profile omits ARM Homebrew prefix](https://github.com/coccinella-labs/harper/issues/925) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-10 05:31 UTC | @bniladridas | opened issue [#925: Sandbox-exec profile omits ARM Homebrew prefix](https://github.com/coccinella-labs/harper/issues/925) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-10 03:27 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/04c5317745bb95b4bb312286ddf4babbf1c79fa0...46da8c3f4a5d6f6e0523276d332ae7d9632c5f42)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
-| 2026-10-10 03:11 UTC | @github-actions[bot] | published a release nightly-51f83193e734ed6ab28f9a2ce02e1838b0848566-288.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-51f83193e734ed6ab28f9a2ce02e1838b0848566-288.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-10 02:03 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/7782e4a22e268f7a39bac8a69b0bc0937478b98e...00342dabb5caa4fd94286a0997ee25b4aaefec4d)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-10-10 00:10 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/caff550e071912ba715a618e94640eeca2f2e70f...88dcd6bf3db6e242e32b6cdadf18ae04087f9638)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-10-09 23:17 UTC | @github-actions[bot] | published a release nightly-20261009-2316-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261009-2316-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-10-09 22:13 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/b8130e8c9a4703c8a51b70ad2ea4745579d90a46...7782e4a22e268f7a39bac8a69b0bc0937478b98e)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-10-09 17:17 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/bc354c002df57bcb22f4b1b7045e5af68dbab365...b8130e8c9a4703c8a51b70ad2ea4745579d90a46)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-10-09 15:26 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/e164287f7c81c4f3323839c03a7c3a34de8dbad3...4c8c3325d154b758d4e2f14513b1792581edbe30)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-10-09 15:22 UTC | @bniladridas | closed issue [#1: Decide next track: GitHub App auth vs real GPU CI](https://github.com/coccinella-labs/gpucomm-bot/issues/1) | [coccinella-labs/gpucomm-bot](https://github.com/coccinella-labs/gpucomm-bot) |
-| 2026-10-09 15:22 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/gpucomm-bot/issues/1) | [coccinella-labs/gpucomm-bot](https://github.com/coccinella-labs/gpucomm-bot) |
-| 2026-10-09 15:21 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/gpucomm-bot/compare/fe0798cf535431bb24eb86b631e5f6ca6f55c5e4...c98db32d9e3374a0a243e5600bb17038fa251855)) | [coccinella-labs/gpucomm-bot](https://github.com/coccinella-labs/gpucomm-bot) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-10T06:09:11.516Z • IST: 10/10/2026, 11:39:11 (11:39:11 am)_
+_Last updated: 2026-10-10T12:49:26.676Z • IST: 10/10/2026, 18:19:26 (6:19:26 pm) 🌙_
