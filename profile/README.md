@@ -12,7 +12,7 @@ Harnesses, runtimes, and bots that plan work, execute it, and ship results.
 
 - [harper](https://github.com/coccinella-labs/harper) - Rust agent runtime with a TUI, an HTTP API, and a sandbox.
 - [agent-sdk](https://github.com/coccinella-labs/agent-sdk) - Reusable agent runtime extracted from Harper.
-- [agentware](https://github.com/coccinella-labs/agentware) - AI-assisted coding tools and developer workflows.
+- [agentware](https://github.com/coccinella-labs/agentware) - A C++20 AI coding agent for the terminal. Talks to hosted and local models, reads and edits code through MCP filesystem and git servers, and works offline.
 - [harperbot](https://github.com/coccinella-labs/harperbot) - GitHub App bot for automated code review.
 - [swe-agent](https://github.com/coccinella-labs/swe-agent) - Software engineering agent for this organization.
 
