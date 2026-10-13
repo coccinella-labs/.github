@@ -106,6 +106,10 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-13 23:16 UTC | @github-actions[bot] | published a release nightly-20261013-2316-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261013-2316-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-10-13 20:04 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/db3ec8dade75a3da815d94ba09df6bff6e107b16...6f375e4e5f281c599bab015ef2d1f2f0609627a4)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-13 20:04 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/4fc611ad164bbdc5aa662c868f8661e9d8d2bba1...ba112a69c94c8e3a13e54a6e02f517ab94c8a97d)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-13 19:57 UTC | @bniladridas | labeled issue [#77: Fix libpqxx compatibility across platforms (macOS/Ubuntu)](https://github.com/coccinella-labs/agentware/issues/77) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#5: Filesystem layer: read-only FUSE mount (optional)](https://github.com/coccinella-labs/gpucomm-fs/issues/5) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#4: Sharing and transport: pack/unpack or push/pull](https://github.com/coccinella-labs/gpucomm-fs/issues/4) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#3: Integrity and lifecycle: verify, gc, prune](https://github.com/coccinella-labs/gpucomm-fs/issues/3) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
@@ -117,13 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#2: Kernel suite v0.1: scan, matmul, and bandwidth kernels](https://github.com/coccinella-labs/core/issues/2) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
 | 2026-10-13 15:44 UTC | @bniladridas | labeled issue [#160: Add optional Vim-style editing to the interactive REPL](https://github.com/coccinella-labs/agentware/issues/160) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-13 15:39 UTC | @bniladridas | labeled issue [#75: Add PostgreSQL database support](https://github.com/coccinella-labs/agentware/issues/75) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-13 15:39 UTC | @bniladridas | labeled issue [#77: Fix libpqxx compatibility across platforms (macOS/Ubuntu)](https://github.com/coccinella-labs/agentware/issues/77) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-13 15:38 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/pull/52) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-13 15:37 UTC | @bniladridas | unlabeled PR [#24](https://github.com/coccinella-labs/agentware/pull/24) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-13 15:37 UTC | @bniladridas | unlabeled issue [#36: Add missing package structure folders](https://github.com/coccinella-labs/agentware/issues/36) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-13T19:41:56.900Z • IST: 14/10/2026, 01:11:56 (1:11:56 am) 🌙_
+_Last updated: 2026-10-13T23:33:14.650Z • IST: 14/10/2026, 05:03:14 (5:03:14 am) 🌙_
