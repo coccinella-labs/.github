@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-13 12:33 UTC | @dependabot[bot] | deleted branch `dependabot/cargo/cargo-5d06b26ee7` | [coccinella-labs/simengine](https://github.com/coccinella-labs/simengine) |
-| 2026-10-13 12:33 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/simengine/pull/22) | [coccinella-labs/simengine](https://github.com/coccinella-labs/simengine) |
-| 2026-10-13 12:33 UTC | @dependabot[bot] | labeled PR [#23](https://github.com/coccinella-labs/simengine/pull/23) (×2) | [coccinella-labs/simengine](https://github.com/coccinella-labs/simengine) |
-| 2026-10-13 12:33 UTC | @dependabot[bot] | opened PR [#23](https://github.com/coccinella-labs/simengine/pull/23) | [coccinella-labs/simengine](https://github.com/coccinella-labs/simengine) |
-| 2026-10-13 10:47 UTC | @github-actions[bot] | published a release nightly-20261013 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261013)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-10-13 10:35 UTC | @bniladridas | unlabeled issue [#19: database configuration error: database directory does not e…](https://github.com/coccinella-labs/harper/issues/19) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-13 08:16 UTC | @bniladridas | labeled issue [#40: add commitlint check on main branch pushes](https://github.com/coccinella-labs/harper/issues/40) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-13 08:12 UTC | @bniladridas | unlabeled issue [#39: add automatic changelog generation with release-drafter](https://github.com/coccinella-labs/harper/issues/39) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-13 08:12 UTC | @bniladridas | labeled issue [#19: database configuration error: database directory does not e…](https://github.com/coccinella-labs/harper/issues/19) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-13 08:03 UTC | @bniladridas | labeled issue [#39: add automatic changelog generation with release-drafter](https://github.com/coccinella-labs/harper/issues/39) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-13 08:01 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/.github/compare/f03d0719abb7e3572f377134443576b7f7df23e5...b620c64f6ee05f97df4a4ea743f9e9bad93244b4)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-10-13 08:00 UTC | @bniladridas | unlabeled issue [#40: add commitlint check on main branch pushes](https://github.com/coccinella-labs/harper/issues/40) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-13 08:00 UTC | @bniladridas | labeled PR [#38](https://github.com/coccinella-labs/harper/pull/38) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-13 07:19 UTC | @coccinella-labs-harper[bot] | labeled PR [#258](https://github.com/coccinella-labs/harper/pull/258) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-13 07:19 UTC | @coccinella-labs-harper[bot] | labeled PR [#252](https://github.com/coccinella-labs/harper/pull/252) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#5: Filesystem layer: read-only FUSE mount (optional)](https://github.com/coccinella-labs/gpucomm-fs/issues/5) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
+| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#4: Sharing and transport: pack/unpack or push/pull](https://github.com/coccinella-labs/gpucomm-fs/issues/4) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
+| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#3: Integrity and lifecycle: verify, gc, prune](https://github.com/coccinella-labs/gpucomm-fs/issues/3) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
+| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#2: Artifact metadata schema and show command v0.2](https://github.com/coccinella-labs/gpucomm-fs/issues/2) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
+| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#6: CI and benchmark methodology docs v0.5](https://github.com/coccinella-labs/core/issues/6) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
+| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#5: Synchronization and threadgroup experiments v0.4](https://github.com/coccinella-labs/core/issues/5) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
+| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#4: CPU/GPU transfer and residency benchmarks v0.3](https://github.com/coccinella-labs/core/issues/4) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
+| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#3: Benchmark harness v0.2: warmup, repetitions, percentile sta…](https://github.com/coccinella-labs/core/issues/3) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
+| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#2: Kernel suite v0.1: scan, matmul, and bandwidth kernels](https://github.com/coccinella-labs/core/issues/2) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
+| 2026-10-13 15:44 UTC | @bniladridas | labeled issue [#160: Add optional Vim-style editing to the interactive REPL](https://github.com/coccinella-labs/agentware/issues/160) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-13 15:39 UTC | @bniladridas | labeled issue [#75: Add PostgreSQL database support](https://github.com/coccinella-labs/agentware/issues/75) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-13 15:39 UTC | @bniladridas | labeled issue [#77: Fix libpqxx compatibility across platforms (macOS/Ubuntu)](https://github.com/coccinella-labs/agentware/issues/77) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-13 15:38 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/pull/52) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-13 15:37 UTC | @bniladridas | unlabeled PR [#24](https://github.com/coccinella-labs/agentware/pull/24) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-13 15:37 UTC | @bniladridas | unlabeled issue [#36: Add missing package structure folders](https://github.com/coccinella-labs/agentware/issues/36) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-13T12:50:29.213Z • IST: 13/10/2026, 18:20:29 (6:20:29 pm) 🌙_
+_Last updated: 2026-10-13T19:41:56.900Z • IST: 14/10/2026, 01:11:56 (1:11:56 am) 🌙_
