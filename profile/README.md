@@ -83,6 +83,24 @@ Standalone tools, outside the five systems above.
 - [clipb](https://github.com/coccinella-labs/clipb) - A lightweight clipboard utility for developers.
 - [license](https://github.com/coccinella-labs/license) - Shared legal and license documents for the organization.
 
+## Start here
+
+Discussion threads worth reading before filing anything, in the
+[.github discussions](https://github.com/coccinella-labs/.github/discussions).
+
+| Discussion | What it answers |
+| --- | --- |
+| [About coccinella-labs](https://github.com/coccinella-labs/.github/discussions/3) | What the organization is and what it builds. |
+| [Organization defaults and how to change them](https://github.com/coccinella-labs/.github/discussions/42) | What `.github/` applies org-wide, and the blast radius of editing it. |
+| [Running the Git GUI locally](https://github.com/coccinella-labs/.github/discussions/29) | How to install and run `git-gui`, and why `pip install git-gui` fails. |
+| [What lives in this repository](https://github.com/coccinella-labs/.github/discussions/2) | Reference for the shared workflows, health files, and release history. |
+
+> [!NOTE]
+> Pin state lives in GitHub's interface, not in this file. GitHub allows four
+> global pins and four per category; these four are the intended global set.
+> They have to be applied in the web UI and are not recorded anywhere in git,
+> so this list is the only durable record of the intent.
+
 ## Org activity
 
 <!-- ORG_ACTIVITY:START -->
