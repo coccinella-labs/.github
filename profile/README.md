@@ -106,6 +106,8 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-14 08:51 UTC | @github-actions[bot] | published a release nightly-20261014 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261014)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-10-14 05:47 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/a485a06b17146e5c9f2f10f0de3275a298635af6...a2d0e981cb31818d9fdd3c54fc4b98b8d7a6bed7)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-10-14 02:47 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/f80bbef6b9740d941b4b6d8fe9f10f1ef9389c07...ac53f52b8fcdc0dcf55d93f71c5ffd6e4b1d6178)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
 | 2026-10-14 02:33 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-292.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-292.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-14 00:07 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/6f375e4e5f281c599bab015ef2d1f2f0609627a4...a485a06b17146e5c9f2f10f0de3275a298635af6)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
@@ -119,11 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#4: Sharing and transport: pack/unpack or push/pull](https://github.com/coccinella-labs/gpucomm-fs/issues/4) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#3: Integrity and lifecycle: verify, gc, prune](https://github.com/coccinella-labs/gpucomm-fs/issues/3) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#2: Artifact metadata schema and show command v0.2](https://github.com/coccinella-labs/gpucomm-fs/issues/2) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
-| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#6: CI and benchmark methodology docs v0.5](https://github.com/coccinella-labs/core/issues/6) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
-| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#5: Synchronization and threadgroup experiments v0.4](https://github.com/coccinella-labs/core/issues/5) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-14T03:10:25.815Z • IST: 14/10/2026, 08:40:25 (8:40:25 am)_
+_Last updated: 2026-10-14T08:54:38.023Z • IST: 14/10/2026, 14:24:38 (2:24:38 pm)_
