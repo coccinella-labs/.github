@@ -106,6 +106,11 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-14 02:47 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/f80bbef6b9740d941b4b6d8fe9f10f1ef9389c07...ac53f52b8fcdc0dcf55d93f71c5ffd6e4b1d6178)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
+| 2026-10-14 02:33 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-292.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-292.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-14 00:07 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/6f375e4e5f281c599bab015ef2d1f2f0609627a4...a485a06b17146e5c9f2f10f0de3275a298635af6)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-14 00:07 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/ba112a69c94c8e3a13e54a6e02f517ab94c8a97d...93f0f27bc19008dbdb10b041d05ac34766fb80e7)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-13 23:33 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/35cc3eb89989fa468d36b72a4d26cc54becaf097...e991d1e26181d21f6bbc140d95b7e3d81f71227a)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-13 23:16 UTC | @github-actions[bot] | published a release nightly-20261013-2316-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261013-2316-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-10-13 20:04 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/db3ec8dade75a3da815d94ba09df6bff6e107b16...6f375e4e5f281c599bab015ef2d1f2f0609627a4)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-10-13 20:04 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/4fc611ad164bbdc5aa662c868f8661e9d8d2bba1...ba112a69c94c8e3a13e54a6e02f517ab94c8a97d)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
@@ -116,14 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#2: Artifact metadata schema and show command v0.2](https://github.com/coccinella-labs/gpucomm-fs/issues/2) | [coccinella-labs/gpucomm-fs](https://github.com/coccinella-labs/gpucomm-fs) |
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#6: CI and benchmark methodology docs v0.5](https://github.com/coccinella-labs/core/issues/6) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
 | 2026-10-13 15:49 UTC | @bniladridas | opened issue [#5: Synchronization and threadgroup experiments v0.4](https://github.com/coccinella-labs/core/issues/5) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
-| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#4: CPU/GPU transfer and residency benchmarks v0.3](https://github.com/coccinella-labs/core/issues/4) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
-| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#3: Benchmark harness v0.2: warmup, repetitions, percentile sta…](https://github.com/coccinella-labs/core/issues/3) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
-| 2026-10-13 15:49 UTC | @bniladridas | opened issue [#2: Kernel suite v0.1: scan, matmul, and bandwidth kernels](https://github.com/coccinella-labs/core/issues/2) | [coccinella-labs/core](https://github.com/coccinella-labs/core) |
-| 2026-10-13 15:44 UTC | @bniladridas | labeled issue [#160: Add optional Vim-style editing to the interactive REPL](https://github.com/coccinella-labs/agentware/issues/160) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-13 15:39 UTC | @bniladridas | labeled issue [#75: Add PostgreSQL database support](https://github.com/coccinella-labs/agentware/issues/75) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-13T23:33:14.650Z • IST: 14/10/2026, 05:03:14 (5:03:14 am) 🌙_
+_Last updated: 2026-10-14T03:10:25.815Z • IST: 14/10/2026, 08:40:25 (8:40:25 am)_
