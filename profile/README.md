@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-15 09:23 UTC | @harperbot-knows[bot] | created [a thread](https://github.com/coccinella-labs/harperbot/pull/8) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:27 UTC | @github-actions[bot] | published a release nightly-20261015 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261015)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-10-15 08:14 UTC | @harperbot-knows[bot] | created [a thread](https://github.com/coccinella-labs/harperbot/pull/5) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:13 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harperbot/pull/1) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:13 UTC | @bniladridas | opened PR [#5](https://github.com/coccinella-labs/harperbot/pull/5) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:12 UTC | @bniladridas | closed PR [#4](https://github.com/coccinella-labs/harperbot/pull/4) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:12 UTC | @harperbot-knows[bot] | created [a thread](https://github.com/coccinella-labs/harperbot/pull/4) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:11 UTC | @bniladridas | opened PR [#4](https://github.com/coccinella-labs/harperbot/pull/4) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:09 UTC | @bniladridas | closed PR [#3](https://github.com/coccinella-labs/harperbot/pull/3) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:09 UTC | @bniladridas | opened PR [#3](https://github.com/coccinella-labs/harperbot/pull/3) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:01 UTC | @bniladridas | closed PR [#2](https://github.com/coccinella-labs/harperbot/pull/2) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 08:00 UTC | @bniladridas | opened PR [#2](https://github.com/coccinella-labs/harperbot/pull/2) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 07:56 UTC | @bniladridas | closed PR [#1](https://github.com/coccinella-labs/harperbot/pull/1) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 07:56 UTC | @harperbot-knows[bot] | created [a thread](https://github.com/coccinella-labs/harperbot/pull/1) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 07:29 UTC | @bniladridas | opened PR [#1](https://github.com/coccinella-labs/harperbot/pull/1) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 14:29 UTC | @harperbot-knows[bot] | created [a thread](https://github.com/coccinella-labs/harperbot/pull/18) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 14:04 UTC | @bniladridas | opened PR [#16](https://github.com/coccinella-labs/harperbot/pull/16) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 13:57 UTC | @bniladridas | merged PR [#15](https://github.com/coccinella-labs/harperbot/pull/15) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 13:54 UTC | @bniladridas | opened PR [#15](https://github.com/coccinella-labs/harperbot/pull/15) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 13:45 UTC | @bniladridas | merged PR [#14](https://github.com/coccinella-labs/harperbot/pull/14) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 13:31 UTC | @harperbot-knows[bot] | created [a thread](https://github.com/coccinella-labs/harperbot/pull/14) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 13:30 UTC | @bniladridas | opened PR [#14](https://github.com/coccinella-labs/harperbot/pull/14) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 13:19 UTC | @bniladridas | closed issue [#6: Installer broken on main: git archive fails, fallback never…](https://github.com/coccinella-labs/harperbot/issues/6) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 13:16 UTC | @bniladridas | opened PR [#13](https://github.com/coccinella-labs/harperbot/pull/13) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 13:10 UTC | @bniladridas | closed issue [#7: Secret names mismatch between docs and workflow](https://github.com/coccinella-labs/harperbot/issues/7) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 11:16 UTC | @bniladridas | opened issue [#10: Sticky comment protocol and review output formatting](https://github.com/coccinella-labs/harperbot/issues/10) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-15 11:14 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/release-notes/pull/11) | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
+| 2026-10-15 11:14 UTC | @dependabot[bot] | labeled PR [#12](https://github.com/coccinella-labs/release-notes/pull/12) (×2) | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
+| 2026-10-15 11:14 UTC | @dependabot[bot] | opened PR [#12](https://github.com/coccinella-labs/release-notes/pull/12) | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
+| 2026-10-15 10:57 UTC | @bniladridas | opened issue [#7: Secret names mismatch between docs and workflow](https://github.com/coccinella-labs/harperbot/issues/7) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-15T09:39:28.111Z • IST: 15/10/2026, 15:09:28 (3:09:28 pm)_
+_Last updated: 2026-10-15T14:36:52.470Z • IST: 15/10/2026, 20:06:52 (8:06:52 pm) 🌙_
