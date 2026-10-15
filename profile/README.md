@@ -106,6 +106,8 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-14 22:18 UTC | @github-actions[bot] | published a release nightly-20261014-2218-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261014-2218-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-10-14 20:26 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/db57d034862541e02cffbf4db7fde3dfeda2d924...70f65c37ba1e723182b4fc10e710735466f5a244)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-10-14 18:58 UTC | @dependabot[bot] | deleted branch `dependabot/pip/ruff-0.17.0` | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-14 18:58 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/59) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-14 18:58 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/59) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
@@ -119,11 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-14 16:12 UTC | @dependabot[bot] | opened PR [#932](https://github.com/coccinella-labs/harper/pull/932) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-14 16:11 UTC | @dependabot[bot] | deleted branch `dependabot/cargo/cargo-minor-patch-3292aed311` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-14 16:11 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/930) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-14 16:08 UTC | @dependabot[bot] | closed PR [#930](https://github.com/coccinella-labs/harper/pull/930) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-14 08:51 UTC | @github-actions[bot] | published a release nightly-20261014 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261014)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-14T22:00:00.738Z • IST: 15/10/2026, 03:30:00 (3:30:00 am) 🌙_
+_Last updated: 2026-10-15T00:24:12.801Z • IST: 15/10/2026, 05:54:12 (5:54:12 am) 🌙_
