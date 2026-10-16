@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-16 08:18 UTC | @github-actions[bot] | published a release nightly-20261016 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261016)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-10-16 05:56 UTC | @dependabot[bot] | labeled PR [#933](https://github.com/coccinella-labs/harper/pull/933) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-16 05:56 UTC | @dependabot[bot] | opened PR [#933](https://github.com/coccinella-labs/harper/pull/933) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-16 05:52 UTC | @dependabot[bot] | closed PR [#932](https://github.com/coccinella-labs/harper/pull/932) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-16 02:15 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-294.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-294.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-16 00:51 UTC | @gaoypChina | forked to [gaoypChina/browser](https://github.com/gaoypChina/browser) | [coccinella-labs/browser](https://github.com/coccinella-labs/browser) |
-| 2026-10-15 22:20 UTC | @github-actions[bot] | published a release nightly-20261015-2220-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261015-2220-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-10-15 18:49 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/7bc39e328a9ce1e99f3313c11844410a87c25389...496f00b1f1496dcbd8d26113fa6058795fd7bc5a)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-10-15 16:18 UTC | @bniladridas | merged PR [#24](https://github.com/coccinella-labs/harperbot/pull/24) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 16:17 UTC | @bniladridas | opened PR [#24](https://github.com/coccinella-labs/harperbot/pull/24) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 15:56 UTC | @bniladridas | closed issue [#11: Providers and model discovery (OpenRouter, auto resolution)](https://github.com/coccinella-labs/harperbot/issues/11) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 15:56 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harperbot/issues/11) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 15:56 UTC | @bniladridas | closed issue [#10: Sticky comment protocol and review output formatting](https://github.com/coccinella-labs/harperbot/issues/10) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 15:56 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harperbot/issues/10) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
-| 2026-10-15 15:53 UTC | @harperbot-knows[bot] | created [a thread](https://github.com/coccinella-labs/harperbot/pull/23) | [coccinella-labs/harperbot](https://github.com/coccinella-labs/harperbot) |
+| 2026-10-16 14:01 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 14:01 UTC | @bniladridas | closed issue [#160: Add optional Vim-style editing to the interactive REPL](https://github.com/coccinella-labs/agentware/issues/160) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 13:13 UTC | @github-actions[bot] | opened PR [#163](https://github.com/coccinella-labs/agentware/pull/163) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 13:11 UTC | @bniladridas | labeled PR [#162](https://github.com/coccinella-labs/agentware/pull/162) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 13:11 UTC | @bniladridas | opened PR [#162](https://github.com/coccinella-labs/agentware/pull/162) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 12:47 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-16 12:47 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-16 12:08 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 12:08 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 12:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 12:03 UTC | @bniladridas | labeled PR [#161](https://github.com/coccinella-labs/agentware/pull/161) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 12:03 UTC | @bniladridas | labeled PR [#157](https://github.com/coccinella-labs/agentware/pull/157) (×3) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 11:55 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 11:55 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-16 11:55 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-16T09:26:19.750Z • IST: 16/10/2026, 14:56:19 (2:56:19 pm)_
+_Last updated: 2026-10-16T14:05:59.550Z • IST: 16/10/2026, 19:35:59 (7:35:59 pm) 🌙_
