@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-17 17:36 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/mole/issues/101) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 17:36 UTC | @bniladridas | opened PR [#102](https://github.com/coccinella-labs/mole/pull/102) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 17:24 UTC | @bniladridas | opened issue [#101: Decide whether Celery is intended functionality: the worker…](https://github.com/coccinella-labs/mole/issues/101) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 17:23 UTC | @bniladridas | merged PR [#100](https://github.com/coccinella-labs/mole/pull/100) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 16:56 UTC | @bniladridas | opened PR [#100](https://github.com/coccinella-labs/mole/pull/100) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 16:48 UTC | @bniladridas | merged PR [#99](https://github.com/coccinella-labs/mole/pull/99) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 16:37 UTC | @bniladridas | opened PR [#99](https://github.com/coccinella-labs/mole/pull/99) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 16:27 UTC | @bniladridas | merged PR [#98](https://github.com/coccinella-labs/mole/pull/98) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 16:24 UTC | @bniladridas | merged PR [#97](https://github.com/coccinella-labs/mole/pull/97) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 15:59 UTC | @bniladridas | opened PR [#98](https://github.com/coccinella-labs/mole/pull/98) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 15:48 UTC | @bniladridas | opened PR [#97](https://github.com/coccinella-labs/mole/pull/97) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 15:36 UTC | @bniladridas | merged PR [#94](https://github.com/coccinella-labs/mole/pull/94) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 15:32 UTC | @bniladridas | closed issue [#96: Merge queue is configured but unusable: allow_auto_merge is…](https://github.com/coccinella-labs/mole/issues/96) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 15:32 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/mole/issues/96) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 15:30 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/mole/issues/96) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:50 UTC | @bniladridas | closed issue [#104: RDKit logs a large volume of expected-failure warnings whil…](https://github.com/coccinella-labs/mole/issues/104) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:50 UTC | @bniladridas | merged PR [#105](https://github.com/coccinella-labs/mole/pull/105) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:32 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:32 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:32 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:32 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:24 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:24 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:24 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:24 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:20 UTC | @bniladridas | opened PR [#105](https://github.com/coccinella-labs/mole/pull/105) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:09 UTC | @bniladridas | closed issue [#103: Verify the nginx port-80 route at runtime (merged in #100 b…](https://github.com/coccinella-labs/mole/issues/103) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:09 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/mole/issues/103) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 19:09 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/mole/issues/103) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-10-17 18:02 UTC | @bniladridas | opened issue [#104: RDKit logs a large volume of expected-failure warnings whil…](https://github.com/coccinella-labs/mole/issues/104) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-17T17:42:00.122Z • IST: 17/10/2026, 23:12:00 (11:12:00 pm) 🌙_
+_Last updated: 2026-10-17T19:58:13.748Z • IST: 18/10/2026, 01:28:13 (1:28:13 am) 🌙_
