@@ -106,6 +106,7 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-17 07:56 UTC | @github-actions[bot] | published a release nightly-20261017 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261017)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-10-17 05:32 UTC | @dependabot[bot] | labeled PR [#91](https://github.com/coccinella-labs/molplatform/pull/91) (×2) | [coccinella-labs/molplatform](https://github.com/coccinella-labs/molplatform) |
 | 2026-10-17 05:32 UTC | @dependabot[bot] | opened PR [#91](https://github.com/coccinella-labs/molplatform/pull/91) | [coccinella-labs/molplatform](https://github.com/coccinella-labs/molplatform) |
 | 2026-10-17 05:32 UTC | @dependabot[bot] | labeled PR [#90](https://github.com/coccinella-labs/molplatform/pull/90) (×2) | [coccinella-labs/molplatform](https://github.com/coccinella-labs/molplatform) |
@@ -120,10 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-17 01:25 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/molplatform/pull/81) | [coccinella-labs/molplatform](https://github.com/coccinella-labs/molplatform) |
 | 2026-10-17 01:24 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/molplatform/pull/79) | [coccinella-labs/molplatform](https://github.com/coccinella-labs/molplatform) |
 | 2026-10-17 01:24 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/molplatform/pull/78) | [coccinella-labs/molplatform](https://github.com/coccinella-labs/molplatform) |
-| 2026-10-17 01:24 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/molplatform/pull/77) | [coccinella-labs/molplatform](https://github.com/coccinella-labs/molplatform) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-17T07:26:04.002Z • IST: 17/10/2026, 12:56:04 (12:56:04 pm)_
+_Last updated: 2026-10-17T11:42:02.336Z • IST: 17/10/2026, 17:12:02 (5:12:02 pm)_
