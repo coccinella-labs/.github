@@ -106,6 +106,7 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-18 01:58 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-296.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-296.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-17 22:40 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-10-17 22:40 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-10-17 22:40 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
@@ -120,10 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-17 21:43 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-10-17 21:43 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-10-17 21:43 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 21:43 UTC | @bniladridas | opened PR [#108](https://github.com/coccinella-labs/mole/pull/108) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-18T00:07:36.421Z • IST: 18/10/2026, 05:37:36 (5:37:36 am) 🌙_
+_Last updated: 2026-10-18T04:53:12.241Z • IST: 18/10/2026, 10:23:12 (10:23:12 am)_
