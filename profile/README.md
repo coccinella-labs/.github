@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-18 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/125) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-10-18 10:42 UTC | @dependabot[bot] | labeled PR [#128](https://github.com/coccinella-labs/mlapi/pull/128) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-10-18 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/123) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-10-18 10:42 UTC | @dependabot[bot] | opened PR [#128](https://github.com/coccinella-labs/mlapi/pull/128) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-10-18 10:42 UTC | @dependabot[bot] | labeled PR [#127](https://github.com/coccinella-labs/mlapi/pull/127) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-10-18 10:42 UTC | @dependabot[bot] | opened PR [#127](https://github.com/coccinella-labs/mlapi/pull/127) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-10-18 08:10 UTC | @github-actions[bot] | published a release nightly-20261018 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261018)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-10-18 02:13 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/46001fcedffb6c6144017ee717f1e9a4b7d2b72f...7d15b09656d1fbec72dd3bb5ef65464f66b47b25)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
 | 2026-10-18 01:58 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-296.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-296.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-17 22:52 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/f0495705082dce9b1e1907eaa3c0645ce1ee2a55...209a5d8bf4fb26550905d1b78458006d2c240db8)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-10-17 22:40 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-10-17 22:40 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-10-17 22:40 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-10-17 22:40 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-10-17 22:40 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 22:40 UTC | @bniladridas | opened PR [#110](https://github.com/coccinella-labs/mole/pull/110) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 22:39 UTC | @bniladridas | created branch `migrate-frontend-to-vite` | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 21:55 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 21:55 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 21:54 UTC | @bniladridas | opened PR [#109](https://github.com/coccinella-labs/mole/pull/109) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 21:43 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-10-17 21:43 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-18T09:17:07.678Z • IST: 18/10/2026, 14:47:07 (2:47:07 pm)_
+_Last updated: 2026-10-18T13:24:28.479Z • IST: 18/10/2026, 18:54:28 (6:54:28 pm) 🌙_
