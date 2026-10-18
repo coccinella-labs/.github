@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-18 19:10 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:10 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:10 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:10 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:10 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:10 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:06 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:06 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:06 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:06 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:06 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:06 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:06 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:06 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-18 19:06 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:31 UTC | @github-actions[bot] | published a release nightly-20261018-2131-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261018-2131-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-10-18 21:12 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:12 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:12 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:12 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:12 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:12 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:12 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:12 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:01 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:01 UTC | @bniladridas | labeled PR [#174](https://github.com/coccinella-labs/agentware/pull/174) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 21:01 UTC | @bniladridas | opened PR [#174](https://github.com/coccinella-labs/agentware/pull/174) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 20:47 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 20:47 UTC | @bniladridas | merged PR [#173](https://github.com/coccinella-labs/agentware/pull/173) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-18 20:28 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-18T19:11:05.051Z • IST: 19/10/2026, 00:41:05 (12:41:05 am) 🌙_
+_Last updated: 2026-10-18T21:38:10.227Z • IST: 19/10/2026, 03:08:10 (3:08:10 am) 🌙_
