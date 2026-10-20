@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-20 14:51 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 14:51 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 14:51 UTC | @bniladridas | opened PR [#184](https://github.com/coccinella-labs/agentware/pull/184) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 14:51 UTC | @github-actions[bot] | labeled PR [#183](https://github.com/coccinella-labs/agentware/pull/183) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 14:51 UTC | @bniladridas | opened PR [#183](https://github.com/coccinella-labs/agentware/pull/183) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 14:51 UTC | @bniladridas | opened PR [#182](https://github.com/coccinella-labs/agentware/pull/182) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 11:59 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 11:11 UTC | @github-actions[bot] | labeled PR [#181](https://github.com/coccinella-labs/agentware/pull/181) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 11:11 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/181) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 11:11 UTC | @github-actions[bot] | opened PR [#181](https://github.com/coccinella-labs/agentware/pull/181) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 11:11 UTC | @github-actions[bot] | created branch `maintenance/daily` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 08:42 UTC | @github-actions[bot] | published a release nightly-20261020 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261020)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-10-20 07:08 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/8906cbae2eb2a26d305b51a7eb358150121a67bf...85e7ee59cf151665304fb88d703b7963fd2e8bf4)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-10-20 02:55 UTC | @github-actions[bot] | unlabeled issue [#2: half() in tests/test_seed_bug.py is off by one](https://github.com/coccinella-labs/swe-agent/issues/2) (×6) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:55 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/swe-agent/issues/2) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 19:23 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/7e8e9590ebcf55807d95c9f9f0a466e0c4cd90cc...256f8741080bede10bd44ad15d6f53186371378e)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-20 19:18 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/.github/compare/68be40f0da6be8805068a4e689727f6cb06353ac...30ad2dd1ca805ad66c0e1f86930402621c884eb9)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-10-20 19:18 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/clabot/compare/55601e703503be02a75c874b3b6291aa7c73a1f4...b8ecf39269a5aa927a549588380af03256fce214)) | [coccinella-labs/clabot](https://github.com/coccinella-labs/clabot) |
+| 2026-10-20 19:18 UTC | @github-actions[bot] | labeled PR [#189](https://github.com/coccinella-labs/agentware/pull/189) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:13 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:13 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/189) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:10 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:08 UTC | @github-actions[bot] | labeled PR [#190](https://github.com/coccinella-labs/agentware/pull/190) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:08 UTC | @github-actions[bot] | deleted branch `agentware/cla-signers` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:07 UTC | @bniladridas | merged PR [#190](https://github.com/coccinella-labs/agentware/pull/190) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:06 UTC | @bniladridas | opened PR [#190](https://github.com/coccinella-labs/agentware/pull/190) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:06 UTC | @bniladridas | created branch `agentware/cla-signers` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:05 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:03 UTC | @coccinella-admin | opened PR [#189](https://github.com/coccinella-labs/agentware/pull/189) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 19:02 UTC | @coccinella-admin | created branch `agentware/tool-registry` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-20T15:14:36.562Z • IST: 20/10/2026, 20:44:36 (8:44:36 pm) 🌙_
+_Last updated: 2026-10-20T19:24:34.237Z • IST: 21/10/2026, 00:54:34 (12:54:34 am) 🌙_
