@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-20 00:00 UTC | @bniladridas | opened PR [#5](https://github.com/coccinella-labs/swe-agent/pull/5) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:59 UTC | @bniladridas | created branch `feat/sandbox-executor` | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:55 UTC | @bniladridas | merged PR [#4](https://github.com/coccinella-labs/swe-agent/pull/4) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:52 UTC | @github-actions[bot] | labeled PR [#4](https://github.com/coccinella-labs/swe-agent/pull/4) (×2) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:51 UTC | @bniladridas | opened PR [#4](https://github.com/coccinella-labs/swe-agent/pull/4) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:49 UTC | @github-actions[bot] | published a release v1.8.0 ([link](https://github.com/coccinella-labs/swe-agent/releases/tag/v1.8.0)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:49 UTC | @bniladridas | merged PR [#3](https://github.com/coccinella-labs/swe-agent/pull/3) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:45 UTC | @github-actions[bot] | labeled PR [#3](https://github.com/coccinella-labs/swe-agent/pull/3) (×2) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:45 UTC | @bniladridas | opened PR [#3](https://github.com/coccinella-labs/swe-agent/pull/3) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:35 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/dotfiles/pull/24) | [coccinella-labs/dotfiles](https://github.com/coccinella-labs/dotfiles) |
-| 2026-10-19 23:34 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/dotfiles/issues/5) | [coccinella-labs/dotfiles](https://github.com/coccinella-labs/dotfiles) |
-| 2026-10-19 23:34 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/dotfiles/pull/20) | [coccinella-labs/dotfiles](https://github.com/coccinella-labs/dotfiles) |
-| 2026-10-19 23:32 UTC | @github-actions[bot] | published a release v1.7.0 ([link](https://github.com/coccinella-labs/swe-agent/releases/tag/v1.7.0)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:32 UTC | @bniladridas | merged PR [#1](https://github.com/coccinella-labs/swe-agent/pull/1) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-19 23:32 UTC | @bniladridas | closed PR [#24](https://github.com/coccinella-labs/dotfiles/pull/24) | [coccinella-labs/dotfiles](https://github.com/coccinella-labs/dotfiles) |
+| 2026-10-20 02:55 UTC | @github-actions[bot] | unlabeled issue [#2: half() in tests/test_seed_bug.py is off by one](https://github.com/coccinella-labs/swe-agent/issues/2) (×6) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:53 UTC | @bniladridas | labeled issue [#2: half() in tests/test_seed_bug.py is off by one](https://github.com/coccinella-labs/swe-agent/issues/2) (×7) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:53 UTC | @bniladridas | unlabeled issue [#2: half() in tests/test_seed_bug.py is off by one](https://github.com/coccinella-labs/swe-agent/issues/2) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:52 UTC | @github-actions[bot] | published a release v1.14.1 ([link](https://github.com/coccinella-labs/swe-agent/releases/tag/v1.14.1)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:52 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/swe-agent/compare/ccebdf56ebba63c657d93ce35110c73f7fa6f0c2...4df823ad78bdfb6260cbfdf56aecbc31138ad791)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:52 UTC | @bniladridas | merged PR [#19](https://github.com/coccinella-labs/swe-agent/pull/19) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:50 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/swe-agent/compare/856da8189dfc9b3476c0203637aa36982da2d487...e45618b6046674107f55f20dbbfb600fea336701)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:47 UTC | @github-actions[bot] | labeled PR [#19](https://github.com/coccinella-labs/swe-agent/pull/19) (×3) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:47 UTC | @bniladridas | opened PR [#19](https://github.com/coccinella-labs/swe-agent/pull/19) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:42 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-298.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-298.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-20 02:40 UTC | @github-actions[bot] | published a release v1.14.0 ([link](https://github.com/coccinella-labs/swe-agent/releases/tag/v1.14.0)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:40 UTC | @bniladridas | merged PR [#18](https://github.com/coccinella-labs/swe-agent/pull/18) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:39 UTC | @github-actions[bot] | labeled PR [#18](https://github.com/coccinella-labs/swe-agent/pull/18) (×4) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:38 UTC | @bniladridas | opened PR [#18](https://github.com/coccinella-labs/swe-agent/pull/18) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-20 02:34 UTC | @bniladridas | deleted branch `feat/openrouter-provider` | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-20T00:03:47.447Z • IST: 20/10/2026, 05:33:47 (5:33:47 am) 🌙_
+_Last updated: 2026-10-20T05:04:44.252Z • IST: 20/10/2026, 10:34:44 (10:34:44 am)_
