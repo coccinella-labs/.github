@@ -17,16 +17,16 @@ jobs:
       - name: Checkout private cla-bot
         uses: actions/checkout@v6
         with:
-          repository: bniladridas/cla-bot
-          token: ${{ secrets.YOUR_TOKEN_HERE }}
-          path: cla-bot
+          repository: coccinella-labs/clabot
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: clabot
 
       - name: Copy signed.json to cla-signers.json
         run: |
           cp signed.json cla-signers.json
-          cp signed.json cla-bot/cla-signers.json
+          cp signed.json clabot/cla-signers.json
 
       - name: Run CLA bot
-        uses: ./cla-bot/
+        uses: ./clabot/
         with:
-          github-token: ${{ secrets.YOUR_TOKEN_HERE }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
