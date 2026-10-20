@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-20 14:51 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 14:51 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 14:51 UTC | @bniladridas | opened PR [#184](https://github.com/coccinella-labs/agentware/pull/184) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 14:51 UTC | @github-actions[bot] | labeled PR [#183](https://github.com/coccinella-labs/agentware/pull/183) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 14:51 UTC | @bniladridas | opened PR [#183](https://github.com/coccinella-labs/agentware/pull/183) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 14:51 UTC | @bniladridas | opened PR [#182](https://github.com/coccinella-labs/agentware/pull/182) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 11:59 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 11:11 UTC | @github-actions[bot] | labeled PR [#181](https://github.com/coccinella-labs/agentware/pull/181) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 11:11 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/181) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 11:11 UTC | @github-actions[bot] | opened PR [#181](https://github.com/coccinella-labs/agentware/pull/181) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 11:11 UTC | @github-actions[bot] | created branch `maintenance/daily` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-20 08:42 UTC | @github-actions[bot] | published a release nightly-20261020 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261020)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-10-20 07:08 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/8906cbae2eb2a26d305b51a7eb358150121a67bf...85e7ee59cf151665304fb88d703b7963fd2e8bf4)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-10-20 02:55 UTC | @github-actions[bot] | unlabeled issue [#2: half() in tests/test_seed_bug.py is off by one](https://github.com/coccinella-labs/swe-agent/issues/2) (×6) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
 | 2026-10-20 02:55 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/swe-agent/issues/2) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:53 UTC | @bniladridas | labeled issue [#2: half() in tests/test_seed_bug.py is off by one](https://github.com/coccinella-labs/swe-agent/issues/2) (×7) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:53 UTC | @bniladridas | unlabeled issue [#2: half() in tests/test_seed_bug.py is off by one](https://github.com/coccinella-labs/swe-agent/issues/2) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:52 UTC | @github-actions[bot] | published a release v1.14.1 ([link](https://github.com/coccinella-labs/swe-agent/releases/tag/v1.14.1)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:52 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/swe-agent/compare/ccebdf56ebba63c657d93ce35110c73f7fa6f0c2...4df823ad78bdfb6260cbfdf56aecbc31138ad791)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:52 UTC | @bniladridas | merged PR [#19](https://github.com/coccinella-labs/swe-agent/pull/19) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:50 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/swe-agent/compare/856da8189dfc9b3476c0203637aa36982da2d487...e45618b6046674107f55f20dbbfb600fea336701)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:47 UTC | @github-actions[bot] | labeled PR [#19](https://github.com/coccinella-labs/swe-agent/pull/19) (×3) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:47 UTC | @bniladridas | opened PR [#19](https://github.com/coccinella-labs/swe-agent/pull/19) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:42 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-298.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-298.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-20 02:40 UTC | @github-actions[bot] | published a release v1.14.0 ([link](https://github.com/coccinella-labs/swe-agent/releases/tag/v1.14.0)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-10-20 02:40 UTC | @bniladridas | merged PR [#18](https://github.com/coccinella-labs/swe-agent/pull/18) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-20T10:14:52.751Z • IST: 20/10/2026, 15:44:52 (3:44:52 pm)_
+_Last updated: 2026-10-20T15:14:36.562Z • IST: 20/10/2026, 20:44:36 (8:44:36 pm) 🌙_
