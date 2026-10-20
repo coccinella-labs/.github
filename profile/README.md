@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-19 20:36 UTC | @dependabot[bot] | labeled PR [#5](https://github.com/coccinella-labs/vertex/pull/5) (×2) | [coccinella-labs/vertex](https://github.com/coccinella-labs/vertex) |
-| 2026-10-19 20:36 UTC | @dependabot[bot] | opened PR [#5](https://github.com/coccinella-labs/vertex/pull/5) | [coccinella-labs/vertex](https://github.com/coccinella-labs/vertex) |
-| 2026-10-19 20:36 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/npm_and_yarn-cb24140fdc` | [coccinella-labs/vertex](https://github.com/coccinella-labs/vertex) |
-| 2026-10-19 15:09 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 15:03 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 15:02 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/pull/179) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 15:02 UTC | @bniladridas | closed PR [#179](https://github.com/coccinella-labs/agentware/pull/179) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 14:54 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 14:52 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/issues/175) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 14:49 UTC | @github-actions[bot] | deleted branch `maintenance/daily` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 14:49 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 14:47 UTC | @github-merge-queue[bot] | deleted branch `gh-readonly-queue/main/pr-178-8a4a063cb4500e739cc…` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 14:47 UTC | @github-actions[bot] | merged PR [#178](https://github.com/coccinella-labs/agentware/pull/178) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 14:47 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-19 14:46 UTC | @bniladridas | merged PR [#180](https://github.com/coccinella-labs/agentware/pull/180) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 00:00 UTC | @bniladridas | opened PR [#5](https://github.com/coccinella-labs/swe-agent/pull/5) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:59 UTC | @bniladridas | created branch `feat/sandbox-executor` | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:55 UTC | @bniladridas | merged PR [#4](https://github.com/coccinella-labs/swe-agent/pull/4) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:52 UTC | @github-actions[bot] | labeled PR [#4](https://github.com/coccinella-labs/swe-agent/pull/4) (×2) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:51 UTC | @bniladridas | opened PR [#4](https://github.com/coccinella-labs/swe-agent/pull/4) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:49 UTC | @github-actions[bot] | published a release v1.8.0 ([link](https://github.com/coccinella-labs/swe-agent/releases/tag/v1.8.0)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:49 UTC | @bniladridas | merged PR [#3](https://github.com/coccinella-labs/swe-agent/pull/3) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:45 UTC | @github-actions[bot] | labeled PR [#3](https://github.com/coccinella-labs/swe-agent/pull/3) (×2) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:45 UTC | @bniladridas | opened PR [#3](https://github.com/coccinella-labs/swe-agent/pull/3) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:35 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/dotfiles/pull/24) | [coccinella-labs/dotfiles](https://github.com/coccinella-labs/dotfiles) |
+| 2026-10-19 23:34 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/dotfiles/issues/5) | [coccinella-labs/dotfiles](https://github.com/coccinella-labs/dotfiles) |
+| 2026-10-19 23:34 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/dotfiles/pull/20) | [coccinella-labs/dotfiles](https://github.com/coccinella-labs/dotfiles) |
+| 2026-10-19 23:32 UTC | @github-actions[bot] | published a release v1.7.0 ([link](https://github.com/coccinella-labs/swe-agent/releases/tag/v1.7.0)) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:32 UTC | @bniladridas | merged PR [#1](https://github.com/coccinella-labs/swe-agent/pull/1) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
+| 2026-10-19 23:32 UTC | @bniladridas | closed PR [#24](https://github.com/coccinella-labs/dotfiles/pull/24) | [coccinella-labs/dotfiles](https://github.com/coccinella-labs/dotfiles) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-19T20:49:47.838Z • IST: 20/10/2026, 02:19:47 (2:19:47 am) 🌙_
+_Last updated: 2026-10-20T00:03:47.447Z • IST: 20/10/2026, 05:33:47 (5:33:47 am) 🌙_
