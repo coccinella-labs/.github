@@ -106,6 +106,13 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-21 02:25 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-299.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-299.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-21 02:02 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 02:02 UTC | @bniladridas | labeled PR [#205](https://github.com/coccinella-labs/agentware/pull/205) (×4) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 02:02 UTC | @bniladridas | opened PR [#205](https://github.com/coccinella-labs/agentware/pull/205) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 01:16 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/1895427d72133f478493671754e6e1ae33b6f1aa...59fd765d5e2fa29f0534d63bcb6bc5ad53068425)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-21 01:15 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/issues/201) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 00:48 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/2ad6ba63d0f630e7073c6c15ede83c39a61e432d...4357f6553934df42397f3f19fd95a5e7085ba1d3)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-21 00:33 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/60) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-21 00:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/60) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-21 00:33 UTC | @github-actions[bot] | closed PR [#60](https://github.com/coccinella-labs/.github/pull/60) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
@@ -114,16 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-21 00:25 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-21 00:25 UTC | @bniladridas | labeled PR [#204](https://github.com/coccinella-labs/agentware/pull/204) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-21 00:25 UTC | @bniladridas | opened PR [#204](https://github.com/coccinella-labs/agentware/pull/204) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 00:23 UTC | @bniladridas | deleted branch `fix/tool-loop-multi-call-detect` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 23:52 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 23:51 UTC | @bniladridas | merged PR [#199](https://github.com/coccinella-labs/agentware/pull/199) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 23:49 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/issues/201) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 23:47 UTC | @github-code-quality[bot] | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 23:47 UTC | @github-code-quality[bot] | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 23:36 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-21T00:48:32.799Z • IST: 21/10/2026, 06:18:32 (6:18:32 am)_
+_Last updated: 2026-10-21T05:39:02.789Z • IST: 21/10/2026, 11:09:02 (11:09:02 am)_
