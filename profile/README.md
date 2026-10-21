@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-20 22:26 UTC | @github-merge-queue[bot] | created branch `gh-readonly-queue/main/pr-181-2887ae8aa901af6e62f…` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 22:25 UTC | @github-merge-queue[bot] | created branch `gh-readonly-queue/main/pr-195-db4446003c77cf7bdf9…` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 22:18 UTC | @github-actions[bot] | published a release nightly-20261020-2218-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261020-2218-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-10-20 22:01 UTC | @bniladridas | labeled PR [#195](https://github.com/coccinella-labs/agentware/pull/195) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:49 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:49 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:49 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:49 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:49 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:22 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:19 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/b6fcd4ac2d40e482a9451582baf88988e1a478e6...4e0a0ebeeae36bb6e9e8c2c0a31c3d20c7055cba)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:19 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/7323911d9fee1a03eccf5733ee071bbf145a6a35...db4446003c77cf7bdf9d42261f892001730f5dc3)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:19 UTC | @bniladridas | merged PR [#196](https://github.com/coccinella-labs/agentware/pull/196) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:16 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-20 21:12 UTC | @bniladridas | opened PR [#196](https://github.com/coccinella-labs/agentware/pull/196) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 00:33 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/60) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-10-21 00:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/60) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-10-21 00:33 UTC | @github-actions[bot] | closed PR [#60](https://github.com/coccinella-labs/.github/pull/60) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-10-21 00:33 UTC | @dependabot[bot] | labeled PR [#60](https://github.com/coccinella-labs/.github/pull/60) (×2) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-10-21 00:33 UTC | @dependabot[bot] | opened PR [#60](https://github.com/coccinella-labs/.github/pull/60) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-10-21 00:25 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 00:25 UTC | @bniladridas | labeled PR [#204](https://github.com/coccinella-labs/agentware/pull/204) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 00:25 UTC | @bniladridas | opened PR [#204](https://github.com/coccinella-labs/agentware/pull/204) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 00:23 UTC | @bniladridas | deleted branch `fix/tool-loop-multi-call-detect` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 23:52 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 23:51 UTC | @bniladridas | merged PR [#199](https://github.com/coccinella-labs/agentware/pull/199) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 23:49 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/issues/201) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 23:47 UTC | @github-code-quality[bot] | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 23:47 UTC | @github-code-quality[bot] | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-20 23:36 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-20T22:29:50.543Z • IST: 21/10/2026, 03:59:50 (3:59:50 am) 🌙_
+_Last updated: 2026-10-21T00:48:32.799Z • IST: 21/10/2026, 06:18:32 (6:18:32 am)_
