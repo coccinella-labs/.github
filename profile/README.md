@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-21 15:06 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 15:02 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 15:01 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 15:00 UTC | @bniladridas | merged PR [#214](https://github.com/coccinella-labs/agentware/pull/214) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:59 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:58 UTC | @bniladridas | labeled PR [#214](https://github.com/coccinella-labs/agentware/pull/214) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:58 UTC | @bniladridas | opened PR [#214](https://github.com/coccinella-labs/agentware/pull/214) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:55 UTC | @bniladridas | deleted branch `docs/readme-refresh` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:54 UTC | @bniladridas | merged PR [#213](https://github.com/coccinella-labs/agentware/pull/213) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:53 UTC | @bniladridas | labeled PR [#213](https://github.com/coccinella-labs/agentware/pull/213) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:53 UTC | @bniladridas | opened PR [#213](https://github.com/coccinella-labs/agentware/pull/213) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:41 UTC | @bniladridas | deleted branch `docs/per-run-budget-removed-v2` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:40 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:39 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/bf88aee6bff7e37fcf4892494c480b73801dacaa...23195431b5fae43e5fb49396ea4a867bbc7a546b)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-21 14:39 UTC | @bniladridas | merged PR [#210](https://github.com/coccinella-labs/agentware/pull/210) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:24 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:24 UTC | @bniladridas | labeled issue [#220: tool loop: no real-model coverage of the consent and denyli…](https://github.com/coccinella-labs/agentware/issues/220) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:24 UTC | @bniladridas | opened issue [#220: tool loop: no real-model coverage of the consent and denyli…](https://github.com/coccinella-labs/agentware/issues/220) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:24 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:24 UTC | @bniladridas | labeled issue [#219: tool loop: a refusal reaches the user raw instead of going…](https://github.com/coccinella-labs/agentware/issues/219) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:24 UTC | @bniladridas | opened issue [#219: tool loop: a refusal reaches the user raw instead of going…](https://github.com/coccinella-labs/agentware/issues/219) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:24 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:23 UTC | @bniladridas | labeled issue [#218: tool loop: a network timeout is a terminal answer instead o…](https://github.com/coccinella-labs/agentware/issues/218) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:23 UTC | @bniladridas | opened issue [#218: tool loop: a network timeout is a terminal answer instead o…](https://github.com/coccinella-labs/agentware/issues/218) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:23 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:23 UTC | @bniladridas | labeled issue [#217: tool loop: the model can fabricate an observation in prose](https://github.com/coccinella-labs/agentware/issues/217) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:23 UTC | @bniladridas | opened issue [#217: tool loop: the model can fabricate an observation in prose](https://github.com/coccinella-labs/agentware/issues/217) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:23 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:23 UTC | @bniladridas | labeled issue [#216: tool loop: the model can claim an action it never performed](https://github.com/coccinella-labs/agentware/issues/216) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-21 19:23 UTC | @bniladridas | opened issue [#216: tool loop: the model can claim an action it never performed](https://github.com/coccinella-labs/agentware/issues/216) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-21T16:00:49.900Z • IST: 21/10/2026, 21:30:49 (9:30:49 pm) 🌙_
+_Last updated: 2026-10-21T20:15:50.669Z • IST: 22/10/2026, 01:45:50 (1:45:50 am) 🌙_
