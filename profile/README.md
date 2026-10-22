@@ -106,8 +106,12 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-22 02:33 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/eb9a1635db7c7b9ad4f70e6d453ce5b2c483b9a7...410779d186e4d3a249d1f7d6a4408ab674a9a44f)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
+| 2026-10-22 02:18 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-300.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-300.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-22 01:43 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/367d0d43bf95190da6aa3da8318e20917e954634...975881d289736f536cf75aec140dc631cae22928)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-22 01:22 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/509a94b38b289644f9ad6eac3ce3bc126080d2d4...6ddb71601e6ea97510fe6aa59b5817430bf1039b)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-22 01:12 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/9f38c792c504801e9e2838962e8917b6eab101e5...7787756aceed5d2e4aced932b7cf0ccbf6a344dc)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 01:11 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/c802dc5615cf702d40c679b492d815ed3e8245fe...63d718de2de7719d38709da3209b78a4797f0e8b)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-10-22 01:09 UTC | @github-actions[bot] | labeled issue [#235: TODO: update documentation](https://github.com/coccinella-labs/agentware/issues/235) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-22 01:07 UTC | @github-actions[bot] | opened issue [#235: TODO: update documentation](https://github.com/coccinella-labs/agentware/issues/235) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-22 01:07 UTC | @github-actions[bot] | opened issue [#234: TODO: add unit tests](https://github.com/coccinella-labs/agentware/issues/234) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
@@ -117,13 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-22 01:07 UTC | @github-actions[bot] | labeled issue [#233: TODO: implement feature X](https://github.com/coccinella-labs/agentware/issues/233) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-22 01:03 UTC | @bniladridas | labeled issue [#86: Automated release infrastructure](https://github.com/coccinella-labs/agentware/issues/86) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-22 01:03 UTC | @bniladridas | labeled issue [#83: Fix Windows build error](https://github.com/coccinella-labs/agentware/issues/83) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 01:03 UTC | @bniladridas | labeled issue [#79: CMake fails to find libpqxx on systems without it installed](https://github.com/coccinella-labs/agentware/issues/79) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 01:03 UTC | @bniladridas | labeled issue [#73: Add release workflow for publishing binaries](https://github.com/coccinella-labs/agentware/issues/73) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 01:03 UTC | @bniladridas | labeled issue [#70: Add clang-tidy linting workflow](https://github.com/coccinella-labs/agentware/issues/70) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 01:03 UTC | @bniladridas | labeled issue [#68: Add Docker build and push workflow](https://github.com/coccinella-labs/agentware/issues/68) (×3) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-22T01:43:04.167Z • IST: 22/10/2026, 07:13:04 (7:13:04 am)_
+_Last updated: 2026-10-22T06:58:36.547Z • IST: 22/10/2026, 12:28:36 (12:28:36 pm)_
