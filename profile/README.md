@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-22 18:25 UTC | @bniladridas | closed issue [#228: The native search fallback silently finds nothing for a pat…](https://github.com/coccinella-labs/agentware/issues/228) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:15 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/b502cf53d3dbbdc6cf76afb7816ebb9e7cc88437...287b508f59712f961a45bfb240ec083bfd9553c6)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-22 18:14 UTC | @bniladridas | deleted branch `exp/macos-runner-trial` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:13 UTC | @github-actions[bot] | deleted branch `ci/coverage-depends-cli-tests` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:12 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/520508bee30a56bbf1688cb481bebf9d3d342daf...40274fbbebd06ee52295a9585c9718776e4180ad)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:11 UTC | @bniladridas | merged PR [#239](https://github.com/coccinella-labs/agentware/pull/239) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:09 UTC | @bniladridas | merged PR [#238](https://github.com/coccinella-labs/agentware/pull/238) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:08 UTC | @bniladridas | opened PR [#240](https://github.com/coccinella-labs/agentware/pull/240) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:08 UTC | @bniladridas | labeled PR [#240](https://github.com/coccinella-labs/agentware/pull/240) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:05 UTC | @bniladridas | closed issue [#235: TODO: update documentation](https://github.com/coccinella-labs/agentware/issues/235) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:05 UTC | @bniladridas | closed issue [#234: TODO: add unit tests](https://github.com/coccinella-labs/agentware/issues/234) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 18:05 UTC | @bniladridas | closed issue [#233: TODO: implement feature X](https://github.com/coccinella-labs/agentware/issues/233) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-22 17:49 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/ccb46c8bca3bc05481cb7e9f3268c669eb533eed...e88d38c339785d46609f933e0023f309e96fe87d)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-22 17:12 UTC | @github-actions[bot] | labeled PR [#239](https://github.com/coccinella-labs/agentware/pull/239) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-22 17:12 UTC | @bniladridas | opened PR [#239](https://github.com/coccinella-labs/agentware/pull/239) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:58 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:28 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:28 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:28 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:28 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:28 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:28 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:18 UTC | @github-actions[bot] | labeled PR [#238](https://github.com/coccinella-labs/agentware/pull/238) (×3) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:18 UTC | @bniladridas | opened PR [#238](https://github.com/coccinella-labs/agentware/pull/238) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:13 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/48661f459a00edf1260a8d22784cdbd0d6ea1cdc...b419342c66c905f98706bc343472d0ab0017ac06)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 16:12 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/f75f325a28fd7866a0df228b2142ba78abeef4ad...48661f459a00edf1260a8d22784cdbd0d6ea1cdc)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 13:56 UTC | @bniladridas | merged PR [#237](https://github.com/coccinella-labs/agentware/pull/237) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-22 13:56 UTC | @bniladridas | opened PR [#237](https://github.com/coccinella-labs/agentware/pull/237) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-22T17:49:09.668Z • IST: 22/10/2026, 23:19:09 (11:19:09 pm) 🌙_
+_Last updated: 2026-10-22T21:06:26.104Z • IST: 23/10/2026, 02:36:26 (2:36:26 am) 🌙_
