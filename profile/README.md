@@ -106,6 +106,8 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-23 11:17 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/247) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-23 11:17 UTC | @github-actions[bot] | opened PR [#247](https://github.com/coccinella-labs/agentware/pull/247) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-23 08:41 UTC | @github-actions[bot] | published a release nightly-20261023 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261023)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-10-23 07:10 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/5c4e993f9ae0f687b314e3295cee797a46bc3f07...25633363109121d11ce5c622e808a5ce86cc0f38)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-23 07:06 UTC | @bniladridas | reopened PR [#246](https://github.com/coccinella-labs/agentware/pull/246) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
@@ -116,14 +118,12 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-23 07:05 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/f2fe6dc02578e3f579fcbc6efb365b351aa73d66...5e02e28bb8bced5e7cfa6264ec0e0d084668058c)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-23 07:05 UTC | @bniladridas | closed issue [#216: tool loop: the model can claim an action it never performed](https://github.com/coccinella-labs/agentware/issues/216) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-23 06:54 UTC | @github-actions[bot] | closed PR [#246](https://github.com/coccinella-labs/agentware/pull/246) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-23 06:54 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/43e435f09724e1c05c5e3c4be8440eb5d691fcf3...5c4e993f9ae0f687b314e3295cee797a46bc3f07)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-23 06:52 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/pull/245) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-23 06:44 UTC | @github-actions[bot] | deleted branch `fix/makefile-e2e-binary-path` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-23 06:44 UTC | @bniladridas | merged PR [#242](https://github.com/coccinella-labs/agentware/pull/242) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-23 06:43 UTC | @bniladridas | closed issue [#232: make test-e2e is broken: the expect script needs BINARY_PAT…](https://github.com/coccinella-labs/agentware/issues/232) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-23 06:43 UTC | @bniladridas | merged PR [#241](https://github.com/coccinella-labs/agentware/pull/241) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-23T10:20:26.481Z • IST: 23/10/2026, 15:50:26 (3:50:26 pm)_
+_Last updated: 2026-10-23T15:18:54.809Z • IST: 23/10/2026, 20:48:54 (8:48:54 pm) 🌙_
