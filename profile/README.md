@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-24 10:36 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/252) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-24 10:36 UTC | @github-actions[bot] | opened PR [#252](https://github.com/coccinella-labs/agentware/pull/252) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-24 09:42 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/4f27bd7c321d77f1edc9f5007ce1046d600425a9...7750c3c3b37aedbb7c5985a0cd7d3575557c99c4)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-10-24 08:16 UTC | @github-actions[bot] | published a release nightly-20261024 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261024)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-10-24 03:14 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/d980254097df9580e8246882e2b5c8f9489cccb6...5a8f6400c41270fdd4bd6b47cff9023b586db634)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-10-24 02:35 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/65ee566bc9d6d96d42448127d6612d6313249ffa...0d9b89bb2bed3e122c6e36149b45cda8c7908c1f)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
-| 2026-10-24 02:33 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-302.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-302.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-24 00:47 UTC | @dependabot[bot] | labeled PR [#4](https://github.com/coccinella-labs/rl/pull/4) (×2) | [coccinella-labs/rl](https://github.com/coccinella-labs/rl) |
-| 2026-10-24 00:47 UTC | @dependabot[bot] | created branch `dependabot/uv/uv-5b18fe017b` | [coccinella-labs/rl](https://github.com/coccinella-labs/rl) |
-| 2026-10-24 00:47 UTC | @dependabot[bot] | opened PR [#4](https://github.com/coccinella-labs/rl/pull/4) | [coccinella-labs/rl](https://github.com/coccinella-labs/rl) |
-| 2026-10-24 00:03 UTC | @github-actions[bot] | deleted branch `feat/xoi-ollama-adapter-ci` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-24 00:03 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-24 00:03 UTC | @bniladridas | merged PR [#251](https://github.com/coccinella-labs/agentware/pull/251) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-23 23:48 UTC | @github-merge-queue[bot] | created branch `gh-readonly-queue/main/pr-251-cd0539031f94c2b984c…` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-23 23:47 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/03ec99e65c90ee9dd07fe08c633e4da8328194d2...d980254097df9580e8246882e2b5c8f9489cccb6)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-24 16:55 UTC | @bniladridas | opened PR [#70](https://github.com/coccinella-labs/xoi/pull/70) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:52 UTC | @bniladridas | opened issue [#69: Return resumable conversation history when agent runs are c…](https://github.com/coccinella-labs/xoi/issues/69) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:51 UTC | @bniladridas | opened issue [#68: Interrupt retry backoff when a request is cancelled](https://github.com/coccinella-labs/xoi/issues/68) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:47 UTC | @bniladridas | closed issue [#66: Require co-author trailers in commit checks](https://github.com/coccinella-labs/xoi/issues/66) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:47 UTC | @bniladridas | merged PR [#67](https://github.com/coccinella-labs/xoi/pull/67) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:46 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:40 UTC | @bniladridas | opened PR [#67](https://github.com/coccinella-labs/xoi/pull/67) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:40 UTC | @bniladridas | created branch `chore/require-coauthor-trailers-66` | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:39 UTC | @bniladridas | opened issue [#66: Require co-author trailers in commit checks](https://github.com/coccinella-labs/xoi/issues/66) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:39 UTC | @bniladridas | closed issue [#64: Reject contradictory tool schema bounds](https://github.com/coccinella-labs/xoi/issues/64) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:39 UTC | @bniladridas | closed issue [#63: Report token usage for provider and agent responses](https://github.com/coccinella-labs/xoi/issues/63) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:39 UTC | @bniladridas | merged PR [#65](https://github.com/coccinella-labs/xoi/pull/65) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:32 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/xoi/compare/c1323b465bba612e460c35edd20b1b773a5cdda1...6f0490ee09a3e69bb49e067e5c2a4dd84b0183ff)) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:31 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/xoi/compare/1a3b91ea86be4dd423f8a1b644f11d26ea24e02f...c1323b465bba612e460c35edd20b1b773a5cdda1)) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:09 UTC | @bniladridas | opened PR [#65](https://github.com/coccinella-labs/xoi/pull/65) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-24T13:47:20.922Z • IST: 24/10/2026, 19:17:20 (7:17:20 pm) 🌙_
+_Last updated: 2026-10-24T17:08:43.562Z • IST: 24/10/2026, 22:38:43 (10:38:43 pm) 🌙_
