@@ -106,7 +106,9 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-24 21:37 UTC | @github-actions[bot] | published a release nightly-20261024-2137-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261024-2137-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-10-24 18:35 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/issues/231) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 17:56 UTC | @bniladridas | created branch `ci/clang-tidy-analyzer-gate` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-24 17:48 UTC | @bniladridas | published a release v0.2.0 ([link](https://github.com/coccinella-labs/xoi/releases/tag/v0.2.0)) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 17:45 UTC | @bniladridas | closed issue [#71: Bump version to 0.2.0](https://github.com/coccinella-labs/xoi/issues/71) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 17:45 UTC | @bniladridas | merged PR [#72](https://github.com/coccinella-labs/xoi/pull/72) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
@@ -115,15 +117,13 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-24 17:20 UTC | @bniladridas | closed issue [#69: Return resumable conversation history when agent runs are c…](https://github.com/coccinella-labs/xoi/issues/69) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 17:20 UTC | @bniladridas | closed issue [#68: Interrupt retry backoff when a request is cancelled](https://github.com/coccinella-labs/xoi/issues/68) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 17:20 UTC | @bniladridas | merged PR [#70](https://github.com/coccinella-labs/xoi/pull/70) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 17:11 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/a35547f829aa296702b299b9df8f1f0e89a4c187...118d88629f2ee229bed36c057d926081350a031e)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-10-24 16:55 UTC | @bniladridas | opened PR [#70](https://github.com/coccinella-labs/xoi/pull/70) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:54 UTC | @bniladridas | created branch `fix/resumable-agent-cancellation-69` | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 16:52 UTC | @bniladridas | opened issue [#69: Return resumable conversation history when agent runs are c…](https://github.com/coccinella-labs/xoi/issues/69) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:51 UTC | @bniladridas | opened issue [#68: Interrupt retry backoff when a request is cancelled](https://github.com/coccinella-labs/xoi/issues/68) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:47 UTC | @bniladridas | closed issue [#66: Require co-author trailers in commit checks](https://github.com/coccinella-labs/xoi/issues/66) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:47 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/xoi/compare/56f5f7b9228b5e6fbe3efa366d577d16525b6090...fd55f2b3656ca3716740c87883d3bf8460db1756)) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:47 UTC | @bniladridas | merged PR [#67](https://github.com/coccinella-labs/xoi/pull/67) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-24T19:37:56.096Z • IST: 25/10/2026, 01:07:56 (1:07:56 am) 🌙_
+_Last updated: 2026-10-24T22:11:18.859Z • IST: 25/10/2026, 03:41:18 (3:41:18 am) 🌙_
