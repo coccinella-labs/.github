@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-24 18:35 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/issues/231) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 17:48 UTC | @bniladridas | published a release v0.2.0 ([link](https://github.com/coccinella-labs/xoi/releases/tag/v0.2.0)) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 17:45 UTC | @bniladridas | closed issue [#71: Bump version to 0.2.0](https://github.com/coccinella-labs/xoi/issues/71) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 17:45 UTC | @bniladridas | merged PR [#72](https://github.com/coccinella-labs/xoi/pull/72) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 17:30 UTC | @bniladridas | opened PR [#72](https://github.com/coccinella-labs/xoi/pull/72) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 17:29 UTC | @bniladridas | opened issue [#71: Bump version to 0.2.0](https://github.com/coccinella-labs/xoi/issues/71) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 17:20 UTC | @bniladridas | closed issue [#69: Return resumable conversation history when agent runs are c…](https://github.com/coccinella-labs/xoi/issues/69) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 17:20 UTC | @bniladridas | closed issue [#68: Interrupt retry backoff when a request is cancelled](https://github.com/coccinella-labs/xoi/issues/68) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 17:20 UTC | @bniladridas | merged PR [#70](https://github.com/coccinella-labs/xoi/pull/70) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 16:55 UTC | @bniladridas | opened PR [#70](https://github.com/coccinella-labs/xoi/pull/70) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 16:52 UTC | @bniladridas | opened issue [#69: Return resumable conversation history when agent runs are c…](https://github.com/coccinella-labs/xoi/issues/69) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 16:51 UTC | @bniladridas | opened issue [#68: Interrupt retry backoff when a request is cancelled](https://github.com/coccinella-labs/xoi/issues/68) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 16:47 UTC | @bniladridas | closed issue [#66: Require co-author trailers in commit checks](https://github.com/coccinella-labs/xoi/issues/66) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 16:47 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/xoi/compare/56f5f7b9228b5e6fbe3efa366d577d16525b6090...fd55f2b3656ca3716740c87883d3bf8460db1756)) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-24 16:47 UTC | @bniladridas | merged PR [#67](https://github.com/coccinella-labs/xoi/pull/67) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:46 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:40 UTC | @bniladridas | opened PR [#67](https://github.com/coccinella-labs/xoi/pull/67) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:40 UTC | @bniladridas | created branch `chore/require-coauthor-trailers-66` | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:39 UTC | @bniladridas | opened issue [#66: Require co-author trailers in commit checks](https://github.com/coccinella-labs/xoi/issues/66) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:39 UTC | @bniladridas | closed issue [#64: Reject contradictory tool schema bounds](https://github.com/coccinella-labs/xoi/issues/64) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:39 UTC | @bniladridas | closed issue [#63: Report token usage for provider and agent responses](https://github.com/coccinella-labs/xoi/issues/63) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:39 UTC | @bniladridas | merged PR [#65](https://github.com/coccinella-labs/xoi/pull/65) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:32 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/xoi/compare/c1323b465bba612e460c35edd20b1b773a5cdda1...6f0490ee09a3e69bb49e067e5c2a4dd84b0183ff)) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:31 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/xoi/compare/1a3b91ea86be4dd423f8a1b644f11d26ea24e02f...c1323b465bba612e460c35edd20b1b773a5cdda1)) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:09 UTC | @bniladridas | opened PR [#65](https://github.com/coccinella-labs/xoi/pull/65) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-24T17:08:43.562Z • IST: 24/10/2026, 22:38:43 (10:38:43 pm) 🌙_
+_Last updated: 2026-10-24T19:37:56.096Z • IST: 25/10/2026, 01:07:56 (1:07:56 am) 🌙_
