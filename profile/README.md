@@ -106,6 +106,9 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-25 21:48 UTC | @github-actions[bot] | published a release nightly-20261025-2148-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261025-2148-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-10-25 21:24 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/2fcb0aec49d4d01e867618e17b6a97e3a5db5a5a...0a070f82e172bea30278f759483e1d1fa80b9955)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-25 20:16 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/a09bae1297d7436c89ee15f9238f4e154ae6aea0...f7fb6836282186205588b99daf46a2e9b1e85864)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-25 17:48 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/xoi/issues/71) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
 | 2026-10-25 15:24 UTC | @github-actions[bot] | opened PR [#255](https://github.com/coccinella-labs/agentware/pull/255) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-25 15:24 UTC | @github-actions[bot] | created branch `version-bump-0.1.9` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
@@ -118,12 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-25 11:02 UTC | @github-actions[bot] | labeled PR [#254](https://github.com/coccinella-labs/agentware/pull/254) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-25 11:02 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/254) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-25 11:02 UTC | @github-actions[bot] | opened PR [#254](https://github.com/coccinella-labs/agentware/pull/254) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-25 11:02 UTC | @github-actions[bot] | created branch `maintenance/daily` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-25 10:43 UTC | @dependabot[bot] | deleted branch `dependabot/pip/fastapi-0.143.1` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-10-25 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/128) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-25T20:16:56.658Z • IST: 26/10/2026, 01:46:56 (1:46:56 am) 🌙_
+_Last updated: 2026-10-25T22:42:55.864Z • IST: 26/10/2026, 04:12:55 (4:12:55 am) 🌙_
