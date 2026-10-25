@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-24 21:37 UTC | @github-actions[bot] | published a release nightly-20261024-2137-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261024-2137-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-10-24 18:35 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/agentware/issues/231) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-24 17:56 UTC | @bniladridas | created branch `ci/clang-tidy-analyzer-gate` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-24 17:48 UTC | @bniladridas | published a release v0.2.0 ([link](https://github.com/coccinella-labs/xoi/releases/tag/v0.2.0)) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 17:45 UTC | @bniladridas | closed issue [#71: Bump version to 0.2.0](https://github.com/coccinella-labs/xoi/issues/71) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 17:45 UTC | @bniladridas | merged PR [#72](https://github.com/coccinella-labs/xoi/pull/72) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 17:30 UTC | @bniladridas | opened PR [#72](https://github.com/coccinella-labs/xoi/pull/72) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 17:29 UTC | @bniladridas | opened issue [#71: Bump version to 0.2.0](https://github.com/coccinella-labs/xoi/issues/71) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 17:20 UTC | @bniladridas | closed issue [#69: Return resumable conversation history when agent runs are c…](https://github.com/coccinella-labs/xoi/issues/69) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 17:20 UTC | @bniladridas | closed issue [#68: Interrupt retry backoff when a request is cancelled](https://github.com/coccinella-labs/xoi/issues/68) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 17:20 UTC | @bniladridas | merged PR [#70](https://github.com/coccinella-labs/xoi/pull/70) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 17:11 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/a35547f829aa296702b299b9df8f1f0e89a4c187...118d88629f2ee229bed36c057d926081350a031e)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-10-24 16:55 UTC | @bniladridas | opened PR [#70](https://github.com/coccinella-labs/xoi/pull/70) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:54 UTC | @bniladridas | created branch `fix/resumable-agent-cancellation-69` | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
-| 2026-10-24 16:52 UTC | @bniladridas | opened issue [#69: Return resumable conversation history when agent runs are c…](https://github.com/coccinella-labs/xoi/issues/69) | [coccinella-labs/xoi](https://github.com/coccinella-labs/xoi) |
+| 2026-10-24 23:45 UTC | @github-actions[bot] | published a release v0.1.8 ([link](https://github.com/coccinella-labs/agentware/releases/tag/v0.1.8)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 23:45 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 23:45 UTC | @github-actions[bot] | merged PR [#165](https://github.com/coccinella-labs/agentware/pull/165) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 23:45 UTC | @github-merge-queue[bot] | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/2c62eb2403701de3041a0c78ed63da650545f412...05e3f982089cb7401824c4db6d94ec07b2a3fe4a)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 23:22 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 23:21 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 23:19 UTC | @github-actions[bot] | labeled PR [#165](https://github.com/coccinella-labs/agentware/pull/165) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 23:10 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 23:10 UTC | @bniladridas | merged PR [#253](https://github.com/coccinella-labs/agentware/pull/253) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 23:10 UTC | @github-merge-queue[bot] | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/2454ed196ffde074b169025003b6ccb1ca923c59...2c62eb2403701de3041a0c78ed63da650545f412)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 22:52 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/358e3f65d88ca95439256b5cce8bc5f336929cb0...5706b7b7ac64b3b7e888c25bbc80a1c2b3e14d29)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-24 22:52 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/2b52f570b6c3ed16d4a50443c3041348473a3419...4f58c2b4879b3e62801c45889c58e4b5e5dafa84)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-24 22:38 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 22:38 UTC | @github-actions[bot] | labeled PR [#253](https://github.com/coccinella-labs/agentware/pull/253) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-24 22:38 UTC | @bniladridas | opened PR [#253](https://github.com/coccinella-labs/agentware/pull/253) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-24T22:11:18.859Z • IST: 25/10/2026, 03:41:18 (3:41:18 am) 🌙_
+_Last updated: 2026-10-25T00:25:38.789Z • IST: 25/10/2026, 05:55:38 (5:55:38 am) 🌙_
