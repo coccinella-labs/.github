@@ -106,6 +106,9 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-26 03:10 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/32d1f2f2548ba2abb24b9d28c4574db7e9e2ad00...421a599c85df10aa01dbce4a24fd1d4914756724)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-10-26 02:23 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/c3873dc5e71fe8f8a9eafbf32cec1b719d97a23f...304b7b70d9d3eebf58e9e8f1687cbe36d2637273)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
+| 2026-10-26 02:17 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-304.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-304.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-25 23:47 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/e5acb3682dd44ccf033f00a86b316e3a99deabda...e99314d8a0bdea7eb8b451d1d94806a286677104)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-10-25 23:47 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/0a070f82e172bea30278f759483e1d1fa80b9955...32d1f2f2548ba2abb24b9d28c4574db7e9e2ad00)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-10-25 22:42 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/f7fb6836282186205588b99daf46a2e9b1e85864...72ee8a0a67c08d6a9523a69bd5a90413065529f6)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
@@ -118,12 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-25 17:44 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/416800be7633b2b7e06966c124981ca0321d92d2...a09bae1297d7436c89ee15f9238f4e154ae6aea0)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-10-25 15:24 UTC | @github-actions[bot] | opened PR [#255](https://github.com/coccinella-labs/agentware/pull/255) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-25 15:24 UTC | @github-actions[bot] | created branch `version-bump-0.1.9` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-25 15:24 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-25 15:23 UTC | @github-merge-queue[bot] | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/05e3f982089cb7401824c4db6d94ec07b2a3fe4a...ff3a554088e2db831f5c43b777dd3bd8e89a7032)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-25 15:23 UTC | @github-actions[bot] | merged PR [#254](https://github.com/coccinella-labs/agentware/pull/254) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-26T00:56:21.411Z • IST: 26/10/2026, 06:26:21 (6:26:21 am)_
+_Last updated: 2026-10-26T05:45:32.701Z • IST: 26/10/2026, 11:15:32 (11:15:32 am)_
