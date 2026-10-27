@@ -106,6 +106,12 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-27 22:09 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 22:09 UTC | @bniladridas | labeled issue [#265: interactive input history (Up/Down recall) at the chat prom…](https://github.com/coccinella-labs/agentware/issues/265) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 22:09 UTC | @bniladridas | opened issue [#265: interactive input history (Up/Down recall) at the chat prom…](https://github.com/coccinella-labs/agentware/issues/265) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 22:09 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 22:09 UTC | @bniladridas | labeled issue [#264: boot and CLI surface: argument parsing, prompt-free startup…](https://github.com/coccinella-labs/agentware/issues/264) (×3) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 22:09 UTC | @bniladridas | opened issue [#264: boot and CLI surface: argument parsing, prompt-free startup…](https://github.com/coccinella-labs/agentware/issues/264) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-27 16:44 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
@@ -115,15 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-27 16:41 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-27 16:38 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-27 16:36 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:35 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:32 UTC | @github-actions[bot] | labeled PR [#263](https://github.com/coccinella-labs/agentware/pull/263) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:31 UTC | @bniladridas | closed issue [#262: Feature request template references a nonexistent label](https://github.com/coccinella-labs/agentware/issues/262) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:31 UTC | @bniladridas | merged PR [#263](https://github.com/coccinella-labs/agentware/pull/263) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:31 UTC | @bniladridas | opened PR [#263](https://github.com/coccinella-labs/agentware/pull/263) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:31 UTC | @bniladridas | labeled issue [#262: Feature request template references a nonexistent label](https://github.com/coccinella-labs/agentware/issues/262) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-27T18:50:36.377Z • IST: 28/10/2026, 00:20:36 (12:20:36 am) 🌙_
+_Last updated: 2026-10-27T22:48:41.802Z • IST: 28/10/2026, 04:18:41 (4:18:41 am) 🌙_
