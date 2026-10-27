@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-27 11:52 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/257) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 11:52 UTC | @github-actions[bot] | opened PR [#257](https://github.com/coccinella-labs/agentware/pull/257) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 09:09 UTC | @github-actions[bot] | published a release nightly-20261027 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261027)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-10-27 03:18 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/345) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-27 03:18 UTC | @coccinella-labs-harper[bot] | labeled issue [#345: Tracked roadmap](https://github.com/coccinella-labs/harper/issues/345) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-27 03:18 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/907) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-27 03:18 UTC | @coccinella-labs-harper[bot] | labeled issue [#907: read_file resolves relative paths against the process worki…](https://github.com/coccinella-labs/harper/issues/907) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-27 03:06 UTC | @browser-dart[bot] | published a release desktop/nightly-20261027 ([link](https://github.com/coccinella-labs/browser/releases/tag/desktop/nightly-20261027)) | [coccinella-labs/browser](https://github.com/coccinella-labs/browser) |
-| 2026-10-27 02:58 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/304b7b70d9d3eebf58e9e8f1687cbe36d2637273...a6224ceb976a3d2768210c268e134cd11ee4c809)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
-| 2026-10-27 02:47 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-305.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-305.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-27 01:06 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/c89bb86db34aef9a145af1a8163c4ab7cce92c69...e88d81fd05d34175a36861bc3fa4a2e9eec05225)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-10-26 23:08 UTC | @github-actions[bot] | published a release nightly-20261026-2308-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261026-2308-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-10-26 22:59 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/19414e8ea86181d3ad0efe84865007868784c6f6...3cdab5cf373f7e9c488309303aea79363cdc2de4)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-10-26 21:19 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/81de70813dffddb93124e0c017b5de1ef11495ab...0c84afd65df3baa5584d6f6512c34c8b6fb00cb9)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-10-26 18:45 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/9039a9119b40f3abc0ddbc04f62827323d28b028...19414e8ea86181d3ad0efe84865007868784c6f6)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-10-27 16:44 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:41 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:41 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:38 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:36 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:35 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:32 UTC | @github-actions[bot] | labeled PR [#263](https://github.com/coccinella-labs/agentware/pull/263) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:31 UTC | @bniladridas | closed issue [#262: Feature request template references a nonexistent label](https://github.com/coccinella-labs/agentware/issues/262) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:31 UTC | @bniladridas | merged PR [#263](https://github.com/coccinella-labs/agentware/pull/263) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:31 UTC | @bniladridas | opened PR [#263](https://github.com/coccinella-labs/agentware/pull/263) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-27 16:31 UTC | @bniladridas | labeled issue [#262: Feature request template references a nonexistent label](https://github.com/coccinella-labs/agentware/issues/262) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-27T13:27:12.396Z • IST: 27/10/2026, 18:57:12 (6:57:12 pm) 🌙_
+_Last updated: 2026-10-27T18:50:36.377Z • IST: 28/10/2026, 00:20:36 (12:20:36 am) 🌙_
