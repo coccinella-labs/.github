@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-27 22:09 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 22:09 UTC | @bniladridas | labeled issue [#265: interactive input history (Up/Down recall) at the chat prom…](https://github.com/coccinella-labs/agentware/issues/265) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 22:09 UTC | @bniladridas | opened issue [#265: interactive input history (Up/Down recall) at the chat prom…](https://github.com/coccinella-labs/agentware/issues/265) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 22:09 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 22:09 UTC | @bniladridas | labeled issue [#264: boot and CLI surface: argument parsing, prompt-free startup…](https://github.com/coccinella-labs/agentware/issues/264) (×3) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 22:09 UTC | @bniladridas | opened issue [#264: boot and CLI surface: argument parsing, prompt-free startup…](https://github.com/coccinella-labs/agentware/issues/264) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:44 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:41 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:41 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:38 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-27 16:36 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-28 01:51 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/943) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 01:48 UTC | @coccinella-labs-harper[bot] | labeled issue [#943: \[chore\] Enable merge queue and consolidate workflow docs](https://github.com/coccinella-labs/harper/issues/943) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 01:46 UTC | @bniladridas | opened issue [#943: \[chore\] Enable merge queue and consolidate workflow docs](https://github.com/coccinella-labs/harper/issues/943) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 01:39 UTC | @coccinella-labs-harper[bot] | labeled PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 01:39 UTC | @bniladridas | opened PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 01:25 UTC | @coccinella-labs-harper[bot] | labeled PR [#941](https://github.com/coccinella-labs/harper/pull/941) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 01:25 UTC | @bniladridas | opened PR [#941](https://github.com/coccinella-labs/harper/pull/941) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 01:01 UTC | @coccinella-labs-harper[bot] | labeled PR [#940](https://github.com/coccinella-labs/harper/pull/940) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 01:01 UTC | @bniladridas | opened PR [#940](https://github.com/coccinella-labs/harper/pull/940) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 00:50 UTC | @coccinella-labs-harper[bot] | unlabeled issue [#345: Tracked roadmap](https://github.com/coccinella-labs/harper/issues/345) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 00:50 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/345) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 00:42 UTC | @coccinella-labs-harper[bot] | unlabeled issue [#907: read_file resolves relative paths against the process worki…](https://github.com/coccinella-labs/harper/issues/907) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 00:42 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/907) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 00:33 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/61) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-10-28 00:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/61) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-27T22:48:41.802Z • IST: 28/10/2026, 04:18:41 (4:18:41 am) 🌙_
+_Last updated: 2026-10-28T01:58:35.595Z • IST: 28/10/2026, 07:28:35 (7:28:35 am)_
