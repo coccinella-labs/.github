@@ -106,6 +106,9 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-28 12:26 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/266) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-28 12:26 UTC | @github-actions[bot] | opened PR [#266](https://github.com/coccinella-labs/agentware/pull/266) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-28 09:50 UTC | @github-actions[bot] | published a release nightly-20261028 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261028)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-10-28 03:47 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-28 03:45 UTC | @bniladridas | unlabeled issue [#917: \[packaging\] both Homebrew formula surfaces are behind; th…](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-28 03:45 UTC | @coccinella-labs-harper[bot] | unlabeled issue [#914: website/server.html /health example shows version 0.20.1 bu…](https://github.com/coccinella-labs/harper/issues/914) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
@@ -118,12 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-28 03:33 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-28 03:33 UTC | @coccinella-labs-harper[bot] | labeled issue [#917: \[packaging\] both Homebrew formula surfaces are behind; th…](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-28 03:33 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/914) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:33 UTC | @coccinella-labs-harper[bot] | labeled issue [#914: website/server.html /health example shows version 0.20.1 bu…](https://github.com/coccinella-labs/harper/issues/914) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:03 UTC | @github-actions[bot] | published a release nightly-50fd537097f390d7e5fa650ad0334477131dae9d-306.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-50fd537097f390d7e5fa650ad0334477131dae9d-306.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 01:51 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/943) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-28T08:03:23.459Z • IST: 28/10/2026, 13:33:23 (1:33:23 pm)_
+_Last updated: 2026-10-28T15:16:35.229Z • IST: 28/10/2026, 20:46:35 (8:46:35 pm) 🌙_
