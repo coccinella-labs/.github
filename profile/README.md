@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-28 18:03 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 17:54 UTC | @coccinella-admin | reopened PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 16:06 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 16:06 UTC | @coccinella-admin | closed PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 16:02 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/issues/943) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 16:01 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/issues/943) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 15:58 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 15:50 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 15:49 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 15:49 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 15:46 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 15:38 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 15:38 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-28 12:26 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/266) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-28 12:26 UTC | @github-actions[bot] | opened PR [#266](https://github.com/coccinella-labs/agentware/pull/266) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-28 09:50 UTC | @github-actions[bot] | published a release nightly-20261028 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261028)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-10-28 03:47 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:45 UTC | @bniladridas | unlabeled issue [#917: \[packaging\] both Homebrew formula surfaces are behind; th…](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:45 UTC | @coccinella-labs-harper[bot] | unlabeled issue [#914: website/server.html /health example shows version 0.20.1 bu…](https://github.com/coccinella-labs/harper/issues/914) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:44 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/914) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:44 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/945) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:44 UTC | @bniladridas | opened PR [#945](https://github.com/coccinella-labs/harper/pull/945) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:43 UTC | @coccinella-labs-harper[bot] | labeled PR [#944](https://github.com/coccinella-labs/harper/pull/944) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:43 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/944) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:42 UTC | @bniladridas | opened PR [#944](https://github.com/coccinella-labs/harper/pull/944) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:33 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:33 UTC | @coccinella-labs-harper[bot] | labeled issue [#917: \[packaging\] both Homebrew formula surfaces are behind; th…](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 03:33 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/914) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-28T15:16:35.229Z • IST: 28/10/2026, 20:46:35 (8:46:35 pm) 🌙_
+_Last updated: 2026-10-28T20:25:37.449Z • IST: 29/10/2026, 01:55:37 (1:55:37 am) 🌙_
