@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-29 03:30 UTC | @github-actions[bot] | published a release nightly-8cddb2f6cdbce229abf61847bfb1e5e70439c3a6-307.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-8cddb2f6cdbce229abf61847bfb1e5e70439c3a6-307.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 03:02 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 03:02 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 02:44 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 02:44 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 02:44 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 02:44 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 02:44 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 02:44 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 02:10 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 02:10 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 01:45 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 01:22 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
-| 2026-10-29 01:11 UTC | @coccinella-admin | closed issue [#925: Sandbox-exec profile omits ARM Homebrew prefix](https://github.com/coccinella-labs/harper/issues/925) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 01:11 UTC | @bniladridas | merged PR [#927](https://github.com/coccinella-labs/harper/pull/927) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 12:35 UTC | @github-actions[bot] | opened PR [#267](https://github.com/coccinella-labs/agentware/pull/267) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-29 10:10 UTC | @github-actions[bot] | published a release nightly-20261029 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261029)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-10-29 09:47 UTC | @bniladridas | merged PR [#945](https://github.com/coccinella-labs/harper/pull/945) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 09:01 UTC | @github-actions[bot] | published a release harper-0.24.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:46 UTC | @coccinella-labs-harper[bot] | labeled PR [#950](https://github.com/coccinella-labs/harper/pull/950) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:46 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/950) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:39 UTC | @coccinella-labs-harper[bot] | labeled PR [#949](https://github.com/coccinella-labs/harper/pull/949) (×6) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:34 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/949) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:21 UTC | @coccinella-admin | opened PR [#950](https://github.com/coccinella-labs/harper/pull/950) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:21 UTC | @github-actions[bot] | published a release harper-sandbox-0.3.5 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-sandbox-0.3.5)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:20 UTC | @github-actions[bot] | published a release harper-mcp-server-0.1.9 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-mcp-server-0.1.9)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:20 UTC | @github-actions[bot] | published a release harper-firmware-0.1.6 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-firmware-0.1.6)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:20 UTC | @github-actions[bot] | published a release harper-ui-0.22.5 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-ui-0.22.5)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:20 UTC | @github-actions[bot] | published a release harper-core-0.24.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-core-0.24.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 08:20 UTC | @github-actions[bot] | published a release harper-workspace-0.25.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/harper-workspace-0.25.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-29T06:08:49.832Z • IST: 29/10/2026, 11:38:49 (11:38:49 am)_
+_Last updated: 2026-10-29T13:28:05.955Z • IST: 29/10/2026, 18:58:05 (6:58:05 pm) 🌙_
