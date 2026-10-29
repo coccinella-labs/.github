@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-28 23:58 UTC | @dependabot[bot] | labeled PR [#948](https://github.com/coccinella-labs/harper/pull/948) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 23:58 UTC | @dependabot[bot] | opened PR [#948](https://github.com/coccinella-labs/harper/pull/948) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 23:56 UTC | @coccinella-admin | closed issue [#946: CI validation: split validate.sh into local and CI modes to…](https://github.com/coccinella-labs/harper/issues/946) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 23:56 UTC | @bniladridas | merged PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 23:14 UTC | @github-actions[bot] | published a release nightly-20261028-2314-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261028-2314-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-10-28 22:50 UTC | @coccinella-labs-harper[bot] | labeled issue [#947: \[follow-up\] re-enable security audit action (CVSS 4.0 iss…](https://github.com/coccinella-labs/harper/issues/947) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 22:50 UTC | @coccinella-admin | opened issue [#947: \[follow-up\] re-enable security audit action (CVSS 4.0 iss…](https://github.com/coccinella-labs/harper/issues/947) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 22:39 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 22:09 UTC | @github-advanced-security[bot] | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 22:07 UTC | @coccinella-labs-harper[bot] | labeled issue [#946: CI validation: split validate.sh into local and CI modes to…](https://github.com/coccinella-labs/harper/issues/946) (×3) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 22:07 UTC | @coccinella-admin | opened issue [#946: CI validation: split validate.sh into local and CI modes to…](https://github.com/coccinella-labs/harper/issues/946) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 22:02 UTC | @coccinella-admin | reopened PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 22:01 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 20:28 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 20:28 UTC | @coccinella-admin | closed PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 03:30 UTC | @github-actions[bot] | published a release nightly-8cddb2f6cdbce229abf61847bfb1e5e70439c3a6-307.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-8cddb2f6cdbce229abf61847bfb1e5e70439c3a6-307.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 03:02 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 03:02 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 02:44 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 02:44 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 02:44 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 02:44 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 02:44 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 02:44 UTC | @bniladridas | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 02:10 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 02:10 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 01:45 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 01:22 UTC | @coccinella-admin | DiscussionEvent | [coccinella-labs/discussions](https://github.com/coccinella-labs/discussions) |
+| 2026-10-29 01:11 UTC | @coccinella-admin | closed issue [#925: Sandbox-exec profile omits ARM Homebrew prefix](https://github.com/coccinella-labs/harper/issues/925) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 01:11 UTC | @bniladridas | merged PR [#927](https://github.com/coccinella-labs/harper/pull/927) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-29T00:12:24.894Z • IST: 29/10/2026, 05:42:24 (5:42:24 am) 🌙_
+_Last updated: 2026-10-29T06:08:49.832Z • IST: 29/10/2026, 11:38:49 (11:38:49 am)_
