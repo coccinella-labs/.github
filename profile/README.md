@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-10-28 18:03 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 17:54 UTC | @coccinella-admin | reopened PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 16:06 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 16:06 UTC | @coccinella-admin | closed PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 16:02 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/issues/943) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 16:01 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/issues/943) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 15:58 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 15:50 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 15:49 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 15:49 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 15:46 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 15:38 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 15:38 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-28 12:26 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/266) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-10-28 12:26 UTC | @github-actions[bot] | opened PR [#266](https://github.com/coccinella-labs/agentware/pull/266) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-28 23:58 UTC | @dependabot[bot] | labeled PR [#948](https://github.com/coccinella-labs/harper/pull/948) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 23:58 UTC | @dependabot[bot] | opened PR [#948](https://github.com/coccinella-labs/harper/pull/948) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 23:56 UTC | @coccinella-admin | closed issue [#946: CI validation: split validate.sh into local and CI modes to…](https://github.com/coccinella-labs/harper/issues/946) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 23:56 UTC | @bniladridas | merged PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 23:14 UTC | @github-actions[bot] | published a release nightly-20261028-2314-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261028-2314-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-10-28 22:50 UTC | @coccinella-labs-harper[bot] | labeled issue [#947: \[follow-up\] re-enable security audit action (CVSS 4.0 iss…](https://github.com/coccinella-labs/harper/issues/947) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 22:50 UTC | @coccinella-admin | opened issue [#947: \[follow-up\] re-enable security audit action (CVSS 4.0 iss…](https://github.com/coccinella-labs/harper/issues/947) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 22:39 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 22:09 UTC | @github-advanced-security[bot] | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 22:07 UTC | @coccinella-labs-harper[bot] | labeled issue [#946: CI validation: split validate.sh into local and CI modes to…](https://github.com/coccinella-labs/harper/issues/946) (×3) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 22:07 UTC | @coccinella-admin | opened issue [#946: CI validation: split validate.sh into local and CI modes to…](https://github.com/coccinella-labs/harper/issues/946) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 22:02 UTC | @coccinella-admin | reopened PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 22:01 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 20:28 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-28 20:28 UTC | @coccinella-admin | closed PR [#942](https://github.com/coccinella-labs/harper/pull/942) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-28T20:25:37.449Z • IST: 29/10/2026, 01:55:37 (1:55:37 am) 🌙_
+_Last updated: 2026-10-29T00:12:24.894Z • IST: 29/10/2026, 05:42:24 (5:42:24 am) 🌙_
