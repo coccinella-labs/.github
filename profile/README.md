@@ -117,13 +117,13 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-29 17:13 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-29 17:12 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/pull/931) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-29 17:10 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 17:05 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/pull/951) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 17:04 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/pull/952) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-29 16:58 UTC | @github-advanced-security[bot] | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 16:58 UTC | @coccinella-admin | closed PR [#951](https://github.com/coccinella-labs/harper/pull/951) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 16:55 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/951) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 16:53 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/951) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-10-29 16:58 UTC | @github-advanced-security[bot] | PullRequestReviewCommentEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-29T23:28:03.250Z • IST: 30/10/2026, 04:58:03 (4:58:03 am) 🌙_
+_Last updated: 2026-10-30T02:48:18.283Z • IST: 30/10/2026, 08:18:18 (8:18:18 am)_
