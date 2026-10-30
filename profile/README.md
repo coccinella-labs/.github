@@ -106,6 +106,14 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-30 14:26 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-30 14:26 UTC | @github-actions[bot] | merged PR [#268](https://github.com/coccinella-labs/agentware/pull/268) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-30 14:15 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-30 13:54 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-30 12:27 UTC | @github-actions[bot] | labeled PR [#268](https://github.com/coccinella-labs/agentware/pull/268) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-30 12:27 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/268) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-30 12:27 UTC | @github-actions[bot] | opened PR [#268](https://github.com/coccinella-labs/agentware/pull/268) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-10-30 10:12 UTC | @github-actions[bot] | published a release nightly-20261030 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261030)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-10-30 05:56 UTC | @coccinella-labs-harper[bot] | labeled PR [#954](https://github.com/coccinella-labs/harper/pull/954) (×3) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-30 05:55 UTC | @dependabot[bot] | labeled PR [#954](https://github.com/coccinella-labs/harper/pull/954) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-30 05:55 UTC | @dependabot[bot] | opened PR [#954](https://github.com/coccinella-labs/harper/pull/954) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
@@ -113,17 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-29 23:18 UTC | @github-actions[bot] | published a release nightly-20261029-2318-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261029-2318-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-10-29 18:56 UTC | @coccinella-labs-harper[bot] | labeled PR [#953](https://github.com/coccinella-labs/harper/pull/953) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-29 18:50 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/953) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 18:49 UTC | @coccinella-labs-harper[bot] | opened PR [#953](https://github.com/coccinella-labs/harper/pull/953) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 18:49 UTC | @dependabot[bot] | merged PR [#931](https://github.com/coccinella-labs/harper/pull/931) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 17:55 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 17:42 UTC | @coccinella-admin | closed issue [#914: website/server.html /health example shows version 0.20.1 bu…](https://github.com/coccinella-labs/harper/issues/914) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 17:42 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/issues/914) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 17:13 UTC | @coccinella-admin | PullRequestReviewEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 17:13 UTC | @coccinella-admin | PullRequestReviewCommentEvent | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 17:12 UTC | @coccinella-admin | created [a thread](https://github.com/coccinella-labs/harper/pull/931) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-30T09:27:37.229Z • IST: 30/10/2026, 14:57:37 (2:57:37 pm)_
+_Last updated: 2026-10-30T16:08:18.073Z • IST: 30/10/2026, 21:38:18 (9:38:18 pm) 🌙_
