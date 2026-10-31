@@ -106,6 +106,7 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-10-30 22:59 UTC | @github-actions[bot] | published a release nightly-20261030-2258-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261030-2258-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-10-30 14:26 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-30 14:26 UTC | @github-actions[bot] | merged PR [#268](https://github.com/coccinella-labs/agentware/pull/268) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-10-30 14:15 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
@@ -120,10 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-10-30 03:29 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-308.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-308.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-10-29 23:18 UTC | @github-actions[bot] | published a release nightly-20261029-2318-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261029-2318-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-10-29 18:56 UTC | @coccinella-labs-harper[bot] | labeled PR [#953](https://github.com/coccinella-labs/harper/pull/953) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-10-29 18:50 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/953) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-10-30T20:57:15.044Z • IST: 31/10/2026, 02:27:15 (2:27:15 am) 🌙_
+_Last updated: 2026-10-31T00:26:25.616Z • IST: 31/10/2026, 05:56:25 (5:56:25 am) 🌙_
