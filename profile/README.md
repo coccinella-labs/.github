@@ -106,6 +106,12 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-01 16:24 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-01 16:24 UTC | @github-actions[bot] | merged PR [#270](https://github.com/coccinella-labs/agentware/pull/270) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-01 15:59 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-01 12:56 UTC | @github-actions[bot] | labeled PR [#270](https://github.com/coccinella-labs/agentware/pull/270) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-01 12:56 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/270) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-01 12:56 UTC | @github-actions[bot] | opened PR [#270](https://github.com/coccinella-labs/agentware/pull/270) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-01 10:45 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/127) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-01 10:45 UTC | @dependabot[bot] | labeled PR [#134](https://github.com/coccinella-labs/mlapi/pull/134) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-01 10:45 UTC | @dependabot[bot] | opened PR [#134](https://github.com/coccinella-labs/mlapi/pull/134) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
@@ -115,15 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-11-01 10:45 UTC | @dependabot[bot] | opened PR [#133](https://github.com/coccinella-labs/mlapi/pull/133) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-01 10:45 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/path/pull/2) | [coccinella-labs/path](https://github.com/coccinella-labs/path) |
 | 2026-11-01 10:45 UTC | @dependabot[bot] | labeled PR [#132](https://github.com/coccinella-labs/mlapi/pull/132) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/path/pull/40) | [coccinella-labs/path](https://github.com/coccinella-labs/path) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/122) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | opened PR [#132](https://github.com/coccinella-labs/mlapi/pull/132) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | labeled PR [#131](https://github.com/coccinella-labs/mlapi/pull/131) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | opened PR [#40](https://github.com/coccinella-labs/path/pull/40) | [coccinella-labs/path](https://github.com/coccinella-labs/path) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | opened PR [#131](https://github.com/coccinella-labs/mlapi/pull/131) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-01T10:58:23.653Z • IST: 1/11/2026, 16:28:23 (4:28:23 pm)_
+_Last updated: 2026-11-01T17:01:15.854Z • IST: 1/11/2026, 22:31:15 (10:31:15 pm) 🌙_
