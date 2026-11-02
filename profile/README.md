@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-11-01 22:50 UTC | @github-actions[bot] | published a release nightly-20261101-2250-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261101-2250-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-11-01 16:24 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-01 16:24 UTC | @github-actions[bot] | merged PR [#270](https://github.com/coccinella-labs/agentware/pull/270) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-01 15:59 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-01 12:56 UTC | @github-actions[bot] | labeled PR [#270](https://github.com/coccinella-labs/agentware/pull/270) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-01 12:56 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/270) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-01 12:56 UTC | @github-actions[bot] | opened PR [#270](https://github.com/coccinella-labs/agentware/pull/270) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/127) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | labeled PR [#134](https://github.com/coccinella-labs/mlapi/pull/134) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | opened PR [#134](https://github.com/coccinella-labs/mlapi/pull/134) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/130) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | labeled PR [#133](https://github.com/coccinella-labs/mlapi/pull/133) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/129) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | opened PR [#133](https://github.com/coccinella-labs/mlapi/pull/133) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-01 10:45 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/path/pull/2) | [coccinella-labs/path](https://github.com/coccinella-labs/path) |
+| 2026-11-02 06:03 UTC | @dependabot[bot] | labeled PR [#956](https://github.com/coccinella-labs/harper/pull/956) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-02 06:03 UTC | @dependabot[bot] | opened PR [#956](https://github.com/coccinella-labs/harper/pull/956) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-02 03:21 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-311.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-311.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-02 01:39 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:39 UTC | @bniladridas | labeled issue [#272: Feature: native GraphQL support for Agentware](https://github.com/coccinella-labs/agentware/issues/272) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:39 UTC | @bniladridas | opened issue [#272: Feature: native GraphQL support for Agentware](https://github.com/coccinella-labs/agentware/issues/272) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:31 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:31 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:31 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:31 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:31 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:31 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:31 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:31 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-02 01:31 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-02T00:56:25.935Z • IST: 2/11/2026, 06:26:25 (6:26:25 am)_
+_Last updated: 2026-11-02T07:12:31.123Z • IST: 2/11/2026, 12:42:31 (12:42:31 pm)_
