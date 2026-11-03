@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-11-03 05:41 UTC | @coccinella-labs-harper[bot] | labeled issue [#958: \[audit\] Verify agent runtime, tools, approvals, coding wo…](https://github.com/coccinella-labs/harper/issues/958) (×5) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:41 UTC | @bniladridas | opened issue [#958: \[audit\] Verify agent runtime, tools, approvals, coding wo…](https://github.com/coccinella-labs/harper/issues/958) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:41 UTC | @bniladridas | labeled issue [#958: \[audit\] Verify agent runtime, tools, approvals, coding wo…](https://github.com/coccinella-labs/harper/issues/958) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:32 UTC | @coccinella-labs-harper[bot] | labeled issue [#852: \[feature\] Expose Harper runtime tools and agent-assisted…](https://github.com/coccinella-labs/harper/issues/852) (×5) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:32 UTC | @bniladridas | reopened issue [#852: \[feature\] Expose Harper runtime tools and agent-assisted…](https://github.com/coccinella-labs/harper/issues/852) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 04:39 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-312.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-312.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 04:18 UTC | @coccinella-labs-harper[bot] | labeled issue [#957: Add a native, optional GraphQL API](https://github.com/coccinella-labs/harper/issues/957) (×3) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 04:17 UTC | @bniladridas | opened issue [#957: Add a native, optional GraphQL API](https://github.com/coccinella-labs/harper/issues/957) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 01:59 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/0e13ddbb594d3ba9ca1aefd18681d43300fd716e...4a3faeb48c7a77ef1a8f332ba94707a20a59a779)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-11-03 01:35 UTC | @github-actions[bot] | published a release nightly-20261103-0135-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261103-0135-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-11-03 01:09 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/ellis/compare/71be54365dc912ab45ff7b92727cfbc95905c685...b53c41e07c4e25f183cdd4c2f0342cfb0942a0d8)) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-02 23:57 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/ellis/compare/565fd921cd7f8f7ab8afd97c86a9a755da8dd4d1...bfcd2bb9b185035f530e0f384a236468673d6e3e)) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-02 23:57 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/ellis/compare/89694365507733f5b2f7790fd4aa8c9a584e6e80...d2499cfbfe0ebd8a8ea8504e77bc540e81af3115)) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-02 23:56 UTC | @bniladridas | unlabeled PR [#65](https://github.com/coccinella-labs/ellis/pull/65) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-02 23:55 UTC | @bniladridas | closed issue [#68: Test duplicate issue for bot verification](https://github.com/coccinella-labs/ellis/issues/68) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
+| 2026-11-03 11:02 UTC | @github-actions[bot] | published a release nightly-20261103 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261103)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-03 05:56 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/960) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:56 UTC | @coccinella-labs-harper[bot] | labeled issue [#967: \[feature\] Add a deterministic reliability profile for sma…](https://github.com/coccinella-labs/harper/issues/967) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:56 UTC | @bniladridas | labeled issue [#967: \[feature\] Add a deterministic reliability profile for sma…](https://github.com/coccinella-labs/harper/issues/967) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:56 UTC | @bniladridas | opened issue [#967: \[feature\] Add a deterministic reliability profile for sma…](https://github.com/coccinella-labs/harper/issues/967) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:55 UTC | @dependabot[bot] | labeled PR [#966](https://github.com/coccinella-labs/harper/pull/966) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:55 UTC | @dependabot[bot] | opened PR [#966](https://github.com/coccinella-labs/harper/pull/966) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:55 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/956) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:52 UTC | @dependabot[bot] | closed PR [#956](https://github.com/coccinella-labs/harper/pull/956) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:50 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/958) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:50 UTC | @coccinella-labs-harper[bot] | labeled issue [#965: \[audit\] Review Harper security boundaries and agent execu…](https://github.com/coccinella-labs/harper/issues/965) (×3) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:50 UTC | @coccinella-labs-harper[bot] | labeled issue [#963: \[audit\] Verify Harper's search and repository investigati…](https://github.com/coccinella-labs/harper/issues/963) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:50 UTC | @bniladridas | labeled issue [#965: \[audit\] Review Harper security boundaries and agent execu…](https://github.com/coccinella-labs/harper/issues/965) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:50 UTC | @bniladridas | opened issue [#965: \[audit\] Review Harper security boundaries and agent execu…](https://github.com/coccinella-labs/harper/issues/965) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 05:50 UTC | @coccinella-labs-harper[bot] | labeled issue [#962: \[audit\] Verify approval profiles and safe autonomy enforc…](https://github.com/coccinella-labs/harper/issues/962) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-03T05:44:25.961Z • IST: 3/11/2026, 11:14:25 (11:14:25 am)_
+_Last updated: 2026-11-03T13:28:22.513Z • IST: 3/11/2026, 18:58:22 (6:58:22 pm) 🌙_
