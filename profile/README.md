@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-11-03 11:02 UTC | @github-actions[bot] | published a release nightly-20261103 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261103)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-11-03 05:56 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/960) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:56 UTC | @coccinella-labs-harper[bot] | labeled issue [#967: \[feature\] Add a deterministic reliability profile for sma…](https://github.com/coccinella-labs/harper/issues/967) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:56 UTC | @bniladridas | labeled issue [#967: \[feature\] Add a deterministic reliability profile for sma…](https://github.com/coccinella-labs/harper/issues/967) (×4) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:56 UTC | @bniladridas | opened issue [#967: \[feature\] Add a deterministic reliability profile for sma…](https://github.com/coccinella-labs/harper/issues/967) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:55 UTC | @dependabot[bot] | labeled PR [#966](https://github.com/coccinella-labs/harper/pull/966) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:55 UTC | @dependabot[bot] | opened PR [#966](https://github.com/coccinella-labs/harper/pull/966) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:55 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/956) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:52 UTC | @dependabot[bot] | closed PR [#956](https://github.com/coccinella-labs/harper/pull/956) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:50 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/harper/issues/958) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:50 UTC | @coccinella-labs-harper[bot] | labeled issue [#965: \[audit\] Review Harper security boundaries and agent execu…](https://github.com/coccinella-labs/harper/issues/965) (×3) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:50 UTC | @coccinella-labs-harper[bot] | labeled issue [#963: \[audit\] Verify Harper's search and repository investigati…](https://github.com/coccinella-labs/harper/issues/963) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:50 UTC | @bniladridas | labeled issue [#965: \[audit\] Review Harper security boundaries and agent execu…](https://github.com/coccinella-labs/harper/issues/965) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:50 UTC | @bniladridas | opened issue [#965: \[audit\] Review Harper security boundaries and agent execu…](https://github.com/coccinella-labs/harper/issues/965) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-03 05:50 UTC | @coccinella-labs-harper[bot] | labeled issue [#962: \[audit\] Verify approval profiles and safe autonomy enforc…](https://github.com/coccinella-labs/harper/issues/962) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-03 20:13 UTC | @bniladridas | merged PR [#271](https://github.com/coccinella-labs/agentware/pull/271) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:39 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:38 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:38 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:38 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-03 19:38 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-03T13:28:22.513Z • IST: 3/11/2026, 18:58:22 (6:58:22 pm) 🌙_
+_Last updated: 2026-11-03T20:15:30.285Z • IST: 4/11/2026, 01:45:30 (1:45:30 am) 🌙_
