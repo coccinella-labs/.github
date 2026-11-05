@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-05 14:23 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/275) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-05 14:23 UTC | @github-actions[bot] | opened PR [#275](https://github.com/coccinella-labs/agentware/pull/275) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-05 14:23 UTC | @github-actions[bot] | created branch `maintenance/daily` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-05 11:14 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/release-notes/pull/12) | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
+| 2026-11-05 11:14 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/types/node-26.6.6` | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
+| 2026-11-05 11:14 UTC | @dependabot[bot] | labeled PR [#13](https://github.com/coccinella-labs/release-notes/pull/13) (×2) | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
+| 2026-11-05 11:14 UTC | @dependabot[bot] | opened PR [#13](https://github.com/coccinella-labs/release-notes/pull/13) | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
+| 2026-11-05 11:10 UTC | @github-actions[bot] | published a release nightly-20261105 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261105)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-05 09:13 UTC | @crystal89echo | closed PR [#72](https://github.com/coccinella-labs/ellis/pull/72) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
+| 2026-11-05 09:13 UTC | @vercel[bot] | created [a thread](https://github.com/coccinella-labs/ellis/pull/72) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
+| 2026-11-05 09:13 UTC | @crystal89echo | opened PR [#72](https://github.com/coccinella-labs/ellis/pull/72) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
+| 2026-11-05 09:13 UTC | @vercel[bot] | created [a thread](https://github.com/coccinella-labs/ellis/pull/71) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
+| 2026-11-05 09:13 UTC | @crystal89echo | closed PR [#71](https://github.com/coccinella-labs/ellis/pull/71) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
+| 2026-11-05 09:13 UTC | @crystal89echo | opened PR [#71](https://github.com/coccinella-labs/ellis/pull/71) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
 | 2026-11-05 07:41 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/ae0e96b1224e2c70b98dbf44f4e3bfb5edc34e73...069554cbef49aeac1d41f536f78381078d1142a4)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-11-05 06:46 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/ellis/pull/65) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 06:46 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/ellis/pull/64) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 06:46 UTC | @bniladridas | created [a thread](https://github.com/coccinella-labs/ellis/pull/63) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 04:27 UTC | @bniladridas | closed PR [#63](https://github.com/coccinella-labs/ellis/pull/63) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 04:26 UTC | @bniladridas | closed PR [#64](https://github.com/coccinella-labs/ellis/pull/64) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 04:23 UTC | @vercel[bot] | created [a thread](https://github.com/coccinella-labs/ellis/pull/64) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 04:23 UTC | @bniladridas | closed PR [#65](https://github.com/coccinella-labs/ellis/pull/65) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 04:12 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/ellis/compare/a1738ec1053ec67b07edd6413fa66a7f29328901...81a4df016ea0c7e756b764ab8df5c5fb85c8820d)) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 04:09 UTC | @coccinella-labs-ellis[bot] | labeled PR [#65](https://github.com/coccinella-labs/ellis/pull/65) (×2) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 04:07 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/gh-tag/pull/11) | [coccinella-labs/gh-tag](https://github.com/coccinella-labs/gh-tag) |
-| 2026-11-05 04:07 UTC | @dependabot[bot] | labeled PR [#12](https://github.com/coccinella-labs/gh-tag/pull/12) (×2) | [coccinella-labs/gh-tag](https://github.com/coccinella-labs/gh-tag) |
-| 2026-11-05 04:07 UTC | @dependabot[bot] | opened PR [#12](https://github.com/coccinella-labs/gh-tag/pull/12) | [coccinella-labs/gh-tag](https://github.com/coccinella-labs/gh-tag) |
-| 2026-11-05 04:07 UTC | @coccinella-labs-ellis[bot] | unlabeled PR [#65](https://github.com/coccinella-labs/ellis/pull/65) (×2) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 04:07 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/ellis/compare/81a4df016ea0c7e756b764ab8df5c5fb85c8820d...7ad4941c6c01b4d21af6eebdeb2d517fd31a97bb)) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-05T08:58:22.618Z • IST: 5/11/2026, 14:28:22 (2:28:22 pm)_
+_Last updated: 2026-11-05T17:10:56.468Z • IST: 5/11/2026, 22:40:56 (10:40:56 pm) 🌙_
