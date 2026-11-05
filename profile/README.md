@@ -106,6 +106,7 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-05 00:23 UTC | @github-actions[bot] | published a release nightly-20261105-0022-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261105-0022-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-04 14:56 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-04 14:02 UTC | @github-actions[bot] | labeled PR [#274](https://github.com/coccinella-labs/agentware/pull/274) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-04 14:02 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/274) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
@@ -120,10 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-11-04 03:57 UTC | @bniladridas | pushed ([diff](https://github.com/coccinella-labs/ellis/compare/1ed806ffb0c60776558ffbf24442ada989388d3d...3161887913a36450d1f6dd2a53beb64fff398f58)) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
 | 2026-11-04 02:53 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/e749df86c40d70fa56b9d9587ab5cd9f36ee65b3...0dccff0fc4e2ae7e98214cda1249bdee3d0c45e0)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-04 00:33 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/63) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-04 00:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/63) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-04T21:40:34.776Z • IST: 5/11/2026, 03:10:34 (3:10:34 am) 🌙_
+_Last updated: 2026-11-05T01:56:44.636Z • IST: 5/11/2026, 07:26:44 (7:26:44 am)_
