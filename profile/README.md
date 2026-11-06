@@ -106,24 +106,24 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-06 11:07 UTC | @github-actions[bot] | published a release nightly-20261106 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261106)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-06 07:04 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-06 07:03 UTC | @github-actions[bot] | merged PR [#275](https://github.com/coccinella-labs/agentware/pull/275) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-06 06:42 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-06 06:42 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-06 06:42 UTC | @github-actions[bot] | labeled PR [#275](https://github.com/coccinella-labs/agentware/pull/275) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-06 04:03 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-315.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-315.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-06 03:08 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/545d1dea744ce3d459c52b54652d1d4f3e5a62ed...8773900aea72cd67c7126568a3bf5b55a7ef4e9e)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-11-06 03:07 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/5f50f327d16552bd3a7b8df79eff5412e5478bc2...28a8c28a7d63daf4892aa64d01441050d757e66e)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-06 00:17 UTC | @github-actions[bot] | published a release nightly-20261106-0017-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261106-0017-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-05 22:44 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/ed1cc50987c432b43cc607f3938b7404d75c73b2...6bfbcc3af356ee739af7bc7ec72071a7faab1065)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-11-05 22:30 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/b47e34ef70f3d63f28f43014e7ba165cfe9a1cd1...5f50f327d16552bd3a7b8df79eff5412e5478bc2)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-05 16:06 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/069554cbef49aeac1d41f536f78381078d1142a4...73585e58237655a200eb31d9c849ddb924b8b0eb)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-05 16:06 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/219bcd6f31ba00bfd4e6fb04756b4e3b88f6ba99...b47e34ef70f3d63f28f43014e7ba165cfe9a1cd1)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-05 14:23 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/275) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-05 14:23 UTC | @github-actions[bot] | opened PR [#275](https://github.com/coccinella-labs/agentware/pull/275) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-05 14:23 UTC | @github-actions[bot] | created branch `maintenance/daily` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-05 11:14 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/release-notes/pull/12) | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
-| 2026-11-05 11:14 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/types/node-26.6.6` | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
-| 2026-11-05 11:14 UTC | @dependabot[bot] | labeled PR [#13](https://github.com/coccinella-labs/release-notes/pull/13) (×2) | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
-| 2026-11-05 11:14 UTC | @dependabot[bot] | opened PR [#13](https://github.com/coccinella-labs/release-notes/pull/13) | [coccinella-labs/release-notes](https://github.com/coccinella-labs/release-notes) |
-| 2026-11-05 11:10 UTC | @github-actions[bot] | published a release nightly-20261105 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261105)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-11-05 09:13 UTC | @crystal89echo | closed PR [#72](https://github.com/coccinella-labs/ellis/pull/72) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 09:13 UTC | @vercel[bot] | created [a thread](https://github.com/coccinella-labs/ellis/pull/72) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
-| 2026-11-05 09:13 UTC | @crystal89echo | opened PR [#72](https://github.com/coccinella-labs/ellis/pull/72) | [coccinella-labs/ellis](https://github.com/coccinella-labs/ellis) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-06T03:02:34.862Z • IST: 6/11/2026, 08:32:34 (8:32:34 am)_
+_Last updated: 2026-11-06T11:16:12.260Z • IST: 6/11/2026, 16:46:12 (4:46:12 pm)_
