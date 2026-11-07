@@ -112,18 +112,18 @@ Discussion threads worth reading before filing anything, in the
 | 2026-11-07 12:44 UTC | @github-actions[bot] | labeled PR [#277](https://github.com/coccinella-labs/agentware/pull/277) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-07 12:44 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/277) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-07 12:44 UTC | @github-actions[bot] | opened PR [#277](https://github.com/coccinella-labs/agentware/pull/277) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-07 12:44 UTC | @github-actions[bot] | created branch `maintenance/daily` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-07 10:26 UTC | @github-actions[bot] | published a release nightly-20261107 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261107)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-07 05:32 UTC | @dependabot[bot] | labeled PR [#134](https://github.com/coccinella-labs/mole/pull/134) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-11-07 05:32 UTC | @dependabot[bot] | opened PR [#134](https://github.com/coccinella-labs/mole/pull/134) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-11-07 05:32 UTC | @dependabot[bot] | labeled PR [#133](https://github.com/coccinella-labs/mole/pull/133) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-11-07 05:32 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/frontend/tailwindcss-4.3.4` | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-11-07 05:32 UTC | @dependabot[bot] | opened PR [#133](https://github.com/coccinella-labs/mole/pull/133) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-11-07 05:32 UTC | @dependabot[bot] | created branch `dependabot/pip/backend/python-multipart-0.0.33` | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-11-07 05:32 UTC | @dependabot[bot] | labeled PR [#132](https://github.com/coccinella-labs/mole/pull/132) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-07 05:32 UTC | @dependabot[bot] | opened PR [#132](https://github.com/coccinella-labs/mole/pull/132) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-07 03:37 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-316.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-316.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-06 23:43 UTC | @github-actions[bot] | published a release nightly-20261106-2343-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261106-2343-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-07T16:01:31.242Z • IST: 7/11/2026, 21:31:31 (9:31:31 pm) 🌙_
+_Last updated: 2026-11-07T20:22:43.710Z • IST: 8/11/2026, 01:52:43 (1:52:43 am) 🌙_
