@@ -106,9 +106,12 @@ Discussion threads worth reading before filing anything, in the
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-06 23:43 UTC | @github-actions[bot] | published a release nightly-20261106-2343-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261106-2343-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-11-06 18:10 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/e9170236c7a10af49122ab6c8c1a3f9b9dd9a14a...03f4635d5989814ec13522e177d981c4f4240263)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-06 14:38 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-06 14:38 UTC | @github-merge-queue[bot] | deleted branch `gh-readonly-queue/main/pr-276-2c7c14edabc08e2df6b…` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-06 14:38 UTC | @github-actions[bot] | merged PR [#276](https://github.com/coccinella-labs/agentware/pull/276) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-06 14:25 UTC | @github-merge-queue[bot] | created branch `gh-readonly-queue/main/pr-276-2c7c14edabc08e2df6b…` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-06 14:13 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-06 14:06 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/276) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-06 14:06 UTC | @github-actions[bot] | labeled PR [#276](https://github.com/coccinella-labs/agentware/pull/276) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
@@ -118,12 +121,9 @@ Discussion threads worth reading before filing anything, in the
 | 2026-11-06 11:47 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/28a8c28a7d63daf4892aa64d01441050d757e66e...b0d5f99b02d8c06359b54c18fa838c8382a0746d)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-06 11:16 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/e360abe585641d5f8db61756e333cd0eacf70575...e9170236c7a10af49122ab6c8c1a3f9b9dd9a14a)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-06 11:07 UTC | @github-actions[bot] | published a release nightly-20261106 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261106)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-11-06 07:04 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-06 07:03 UTC | @github-merge-queue[bot] | deleted branch `gh-readonly-queue/main/pr-275-2a63b89d388fd189c38…` | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-06 07:03 UTC | @github-merge-queue[bot] | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/2a63b89d388fd189c381e4e948641b317a784538...2c7c14edabc08e2df6b43ab538f749202c920717)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-06T23:21:49.523Z • IST: 7/11/2026, 04:51:49 (4:51:49 am) 🌙_
+_Last updated: 2026-11-07T02:59:01.225Z • IST: 7/11/2026, 08:29:01 (8:29:01 am)_
