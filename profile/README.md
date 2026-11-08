@@ -116,14 +116,14 @@ Discussion threads worth reading before filing anything, in the
 | 2026-11-08 10:42 UTC | @dependabot[bot] | opened PR [#135](https://github.com/coccinella-labs/mlapi/pull/135) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-08 10:42 UTC | @dependabot[bot] | created branch `dependabot/pip/huggingface-hub-gte-2.4.0` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-08 10:34 UTC | @github-actions[bot] | published a release nightly-20261108 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261108)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-08 08:34 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/1ff6a8da97575fdc785234c7b07407329f3d42c8...f7cbdb58c3aeb19d4a8f52e95c71970ef657ad47)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-08 06:44 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/coccinella-labs.github.io/compare/1172e66a4294b1bc8ee831f2608d3b597babc951...15cf15d84e31b4b51b54981a57ffc630780d151c)) | [coccinella-labs/coccinella-labs.github.io](https://github.com/coccinella-labs/coccinella-labs.github.io) |
 | 2026-11-08 04:20 UTC | @coccinella-labs-harper[bot] | pushed ([diff](https://github.com/coccinella-labs/harper/compare/c66ccfe3e85315ead50a4128a408fbbc16276185...fc3f2d3393dcdff46a002858019da6c76731ff99)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-08 03:56 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/a0d0f06bcd7572729aedb1f98b67a47d4870690f...da8d60fd1ddb27e33010e3213940d48607629941)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-08 03:29 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/e4381251b85a03251a68d5ef9b7e60a3a57f8652...102de2593b167fa9232a9b1ed0dd64f41f0707ea)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
-| 2026-11-08 03:06 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-317.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-317.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 [View all repositories](https://github.com/orgs/coccinella-labs/repositories) · [Project catalog](https://coccinella-labs.github.io)
 
 
-_Last updated: 2026-11-08T17:09:16.881Z • IST: 8/11/2026, 22:39:16 (10:39:16 pm) 🌙_
+_Last updated: 2026-11-08T21:16:14.578Z • IST: 9/11/2026, 02:46:14 (2:46:14 am) 🌙_
