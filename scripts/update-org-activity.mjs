@@ -136,6 +136,14 @@ function eventToLine(event) {
     return activityRow(date, actor, `${action} PR [${prNumber}${title}](${url})`, repoLink);
   }
 
+  if (type === "PullRequestReviewEvent" && payload.pull_request) {
+    const pr = payload.pull_request;
+    const prNumber = pr.number ? `#${pr.number}` : "";
+    const title = pr.title ? `: ${escapeMarkdown(pr.title)}` : "";
+    const url = pullRequestUrl(repoFullName, pr);
+    return activityRow(date, actor, `reviewed PR [${prNumber}${title}](${url})`, repoLink);
+  }
+
   if (type === "IssuesEvent" && payload.issue) {
     const action = payload.action || "updated";
     const issue = payload.issue;
