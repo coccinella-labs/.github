@@ -160,8 +160,13 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
 | 2026-11-11 17:27 UTC | @bniladridas | reviewed PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 17:27 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 17:27 UTC | @github-actions[bot] | labeled PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 17:27 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 17:27 UTC | @bniladridas | opened PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 15:51 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 | 2026-11-11 15:51 UTC | @bniladridas | closed issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
@@ -169,11 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-11 15:49 UTC | @bniladridas | opened PR [#27](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 | 2026-11-11 15:47 UTC | @bniladridas | opened issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 | 2026-11-11 15:46 UTC | @bniladridas | labeled issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:38 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/buildanywhere/pull/25) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:38 UTC | @bniladridas | merged PR [#25](https://github.com/coccinella-labs/buildanywhere/pull/25) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:36 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/buildanywhere/pull/23) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:36 UTC | @bniladridas | merged PR [#24](https://github.com/coccinella-labs/buildanywhere/pull/24) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:36 UTC | @bniladridas | closed issue [#22: Fix missing dependencies in GitLab and CircleCI jobs](https://github.com/coccinella-labs/buildanywhere/issues/22) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
