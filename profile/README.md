@@ -159,21 +159,21 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-11-11 09:46 UTC | @bniladridas | reviewed PR [#280](https://github.com/coccinella-labs/agentware/pull/280) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 09:46 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/280) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 09:45 UTC | @github-actions[bot] | labeled PR [#280](https://github.com/coccinella-labs/agentware/pull/280) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 09:45 UTC | @bniladridas | opened PR [#280](https://github.com/coccinella-labs/agentware/pull/280) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 03:37 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-320.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-320.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-11 00:33 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/64) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-11 00:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/64) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-11 00:33 UTC | @github-actions[bot] | closed PR [#64](https://github.com/coccinella-labs/.github/pull/64) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-11 00:33 UTC | @dependabot[bot] | labeled PR [#64](https://github.com/coccinella-labs/.github/pull/64) (×2) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-11 00:33 UTC | @dependabot[bot] | opened PR [#64](https://github.com/coccinella-labs/.github/pull/64) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-11 00:03 UTC | @github-actions[bot] | published a release nightly-20261111-0003-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261111-0003-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-11-10 22:25 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-10 22:25 UTC | @github-actions[bot] | merged PR [#279](https://github.com/coccinella-labs/agentware/pull/279) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-10 22:07 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-10 14:37 UTC | @github-actions[bot] | labeled PR [#279](https://github.com/coccinella-labs/agentware/pull/279) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 17:27 UTC | @bniladridas | reviewed PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 17:27 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 17:27 UTC | @github-actions[bot] | labeled PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 17:27 UTC | @bniladridas | opened PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 15:51 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:51 UTC | @bniladridas | closed issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:51 UTC | @bniladridas | merged PR [#27](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:49 UTC | @bniladridas | opened PR [#27](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:47 UTC | @bniladridas | opened issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:46 UTC | @bniladridas | labeled issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:38 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/buildanywhere/pull/25) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:38 UTC | @bniladridas | merged PR [#25](https://github.com/coccinella-labs/buildanywhere/pull/25) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:36 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/buildanywhere/pull/23) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:36 UTC | @bniladridas | merged PR [#24](https://github.com/coccinella-labs/buildanywhere/pull/24) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
+| 2026-11-11 15:36 UTC | @bniladridas | closed issue [#22: Fix missing dependencies in GitLab and CircleCI jobs](https://github.com/coccinella-labs/buildanywhere/issues/22) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
