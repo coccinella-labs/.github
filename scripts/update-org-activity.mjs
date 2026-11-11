@@ -217,21 +217,26 @@ function updateReadme(original, activityLines) {
   const start = "<!-- ORG_ACTIVITY:START -->";
   const end = "<!-- ORG_ACTIVITY:END -->";
   const updatedTag = "<!-- ORG_ACTIVITY_UPDATED -->";
+  const stampStart = "<!-- LAST_UPDATED:START -->";
+  const stampEnd = "<!-- LAST_UPDATED:END -->";
   const now = new Date();
   const updatedAt = now.toISOString();
-  const updatedAtIST = now.toLocaleString("en-IN", { timeZone: "Asia/Kolkata", hour12: false });
-  const updatedAtIST12 = now.toLocaleString("en-IN", { timeZone: "Asia/Kolkata", hour12: true, hour: "numeric", minute: "2-digit", second: "2-digit" });
-  const hourIST = now.toLocaleString("en-IN", { timeZone: "Asia/Kolkata", hour: "numeric", hour12: false }).padStart(2, "0");
-  const hourNum = Number.parseInt(hourIST, 10);
-  const emoji = hourNum >= 18 || hourNum < 6 ? " 🌙" : "";
-  const istLine = `_Last updated: ${updatedAt} • IST: ${updatedAtIST} (${updatedAtIST12})${emoji}_`;
+  // Date only: the README only changes when activity changes or the day rolls over.
+  const updatedDate = updatedAt.slice(0, 10);
+  const stamp = `${stampStart}<sub>Last updated: ${updatedDate}</sub>${stampEnd}`;
+  const stampBlock = `<p align="center">\n  ${stamp}\n</p>`;
+  const stampPattern = new RegExp(
+    `${stampStart}[\\s\\S]*?${stampEnd}`,
+  );
   const updateTimestamp = (text) => {
     if (text.includes(updatedTag)) return text.replace(updatedTag, updatedAt);
-    return text
-      .replace(
-        /(_Last updated:.*?\d{4}-\d{2}-\d{2}T[0-9:.]+Z.*?_)/g,
-        istLine,
-      );
+    if (stampPattern.test(text)) return text.replace(stampPattern, stamp);
+    // One-time migration: swap the old italic "_Last updated: ...Z • IST: ..._"
+    // line for the clean, marker-wrapped one.
+    return text.replace(
+      /_Last updated:.*?\d{4}-\d{2}-\d{2}T[0-9:.]+Z.*?_/g,
+      stampBlock,
+    );
   };
 
   if (!original.includes(start) || !original.includes(end)) {
@@ -242,7 +247,7 @@ function updateReadme(original, activityLines) {
       ...activityLines,
       end,
       "",
-      istLine,
+      stampBlock,
       "",
     ].join("\n");
     return updateTimestamp(`${original.trimEnd()}\n\n${section}`);
