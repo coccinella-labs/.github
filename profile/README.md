@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-  <b>Small developer tools, and the systems behind them.</b><br>
-  Agent runtimes · GPU and ML compute · developer tooling · release automation
+  <b>Developer tools, agent runtimes, and Apple Silicon compute.</b>
 </p>
 
 <p align="center">
   <a href="https://coccinella-labs.github.io">Catalog</a> &nbsp;·&nbsp;
-  <a href="https://github.com/orgs/coccinella-labs/repositories">All repositories</a> &nbsp;·&nbsp;
   <a href="https://huggingface.co/harpertoken">Hugging Face</a> &nbsp;·&nbsp;
   <a href="https://github.com/coccinella-labs/.github/discussions">Discussions</a>
 </p>
@@ -25,49 +23,14 @@
 
 <br>
 
-## Start with these
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### [harper](https://github.com/coccinella-labs/harper)
-Rust agent runtime with a TUI, an HTTP API, and a sandbox.
-
-`Rust` · agent infrastructure
-
-</td>
-<td width="33%" valign="top">
-
-### [agentware](https://github.com/coccinella-labs/agentware)
-C++20 coding agent for the terminal. Hosted or local models, MCP filesystem and git, works offline.
-
-`C++20` · agent infrastructure
-
-</td>
-<td width="33%" valign="top">
-
-### [core](https://github.com/coccinella-labs/core)
-Metal GPU compute runtime for Apple Silicon: memory, synchronization, data movement.
-
-`Swift` · GPU and ML compute
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Five systems
-
-Everything we publish belongs to one of these. The [catalog](https://coccinella-labs.github.io) lists every project with its language, license, and install command.
+## What we build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Agent infrastructure
-Harnesses, runtimes, and bots that plan work, execute it, and ship results.
+Runtimes, SDKs, and bots that plan work, run it, and ship the result.
 
 - **[harper](https://github.com/coccinella-labs/harper)**: Rust agent runtime
 - **[agentware](https://github.com/coccinella-labs/agentware)**: terminal coding agent
@@ -84,7 +47,7 @@ Harnesses, runtimes, and bots that plan work, execute it, and ship results.
 <td width="50%" valign="top">
 
 ### GPU and ML compute
-Apple Silicon kernels, Metal runtimes, and inference for local and serverless ML.
+Metal kernels and runtimes for Apple Silicon, plus inference for local and serverless ML.
 
 - **[core](https://github.com/coccinella-labs/core)**: Metal compute runtime
 - **[kernels](https://github.com/coccinella-labs/kernels)**: Metal kernels, with a CUDA translation demo
@@ -102,8 +65,8 @@ Apple Silicon kernels, Metal runtimes, and inference for local and serverless ML
 <tr>
 <td width="50%" valign="top">
 
-### Runtimes and developer tooling
-CLI foundations and code tools the rest of the collection builds on.
+### Developer tooling
+CLIs, SDKs, and code tools the rest of our work builds on.
 
 - **[cli](https://github.com/coccinella-labs/cli)**: GitHub CLI extension
 - **[vertex](https://github.com/coccinella-labs/vertex)**: understand software before you change it
@@ -120,11 +83,11 @@ CLI foundations and code tools the rest of the collection builds on.
 <td width="50%" valign="top">
 
 ### Build and release automation
-Versioning, tagging, CI checks, and delivery for every other project.
+Versioning, CI, and release tooling that ships every other project.
 
-- **[bump](https://github.com/coccinella-labs/bump)**: version bumps after merged PRs
+- **[bump](https://github.com/coccinella-labs/bump)**: automated version bumps after merged PRs
 - **[release-assets](https://github.com/coccinella-labs/release-assets)**: signed release assets
-- **[buildanywhere](https://github.com/coccinella-labs/buildanywhere)**: one CI script set for Actions, GitLab, CircleCI
+- **[buildanywhere](https://github.com/coccinella-labs/buildanywhere)**: one CI script set for Actions, GitLab, and CircleCI
 
 <details>
 <summary>More</summary>
@@ -139,22 +102,22 @@ Versioning, tagging, CI checks, and delivery for every other project.
 <td colspan="2" valign="top">
 
 ### Models and datasets
-Small, verified models and the data behind them, on [Hugging Face](https://huggingface.co/harpertoken). Load with `transformers`, `datasets`, or plain HTTP. Training sources for the Hub models are kept private.
+Small models and the datasets behind them, published on [Hugging Face](https://huggingface.co/harpertoken). Load them with `transformers`, `datasets`, or plain HTTP.
 
 <details>
 <summary>Browse all models and datasets</summary>
 
-| Name | What it is | Result |
+| Name | Description | Data or result |
 | --- | --- | --- |
-| [quiz](https://huggingface.co/harpertoken/quiz) | DistilBERT extractive QA | SQuAD |
+| [quiz](https://huggingface.co/harpertoken/quiz) | DistilBERT extractive QA | Trained on SQuAD |
 | [clue](https://huggingface.co/harpertoken/clue) | Continued QA fine-tune | 1k examples |
-| [name](https://huggingface.co/harpertoken/name) | BERT named entity recognition | CoNLL-2003 |
-| [talk](https://huggingface.co/harpertoken/talk) | Whisper speech recognition | n/a |
-| [chat](https://huggingface.co/harpertoken/chat) | GPT-2 conversational fine-tune | n/a |
+| [name](https://huggingface.co/harpertoken/name) | BERT named entity recognition | Trained on CoNLL-2003 |
+| [talk](https://huggingface.co/harpertoken/talk) | Whisper speech recognition | |
+| [chat](https://huggingface.co/harpertoken/chat) | GPT-2 conversational fine-tune | |
 | [word](https://huggingface.co/harpertoken/word) | From-scratch GPT-2 | Generation collapses to end-of-text; kept as a documented artifact |
 | [tiny](https://huggingface.co/harpertoken/tiny) | SmolLM 4-bit quant | MLX only |
 | [pole](https://huggingface.co/harpertoken/pole) | CMA-ES linear CartPole policy | Scores 500 |
-| [mark](https://huggingface.co/harpertoken/mark) | IsolationForest telemetry anomaly detection | n/a |
+| [mark](https://huggingface.co/harpertoken/mark) | IsolationForest telemetry anomaly detection | |
 | [wear](https://huggingface.co/harpertoken/wear) | CNN clothing classifier | 0.9073 on Fashion-MNIST |
 | [tone](https://huggingface.co/harpertoken/tone) | CNN spoken-command classifier | 0.9116 on Speech Commands |
 | [fuse](https://huggingface.co/harpertoken/fuse) | Image-caption matcher | 0.6933 on Flickr8k |
@@ -163,7 +126,7 @@ Small, verified models and the data behind them, on [Hugging Face](https://huggi
 | [stat](https://huggingface.co/datasets/harpertoken/stat) | Dataset: macOS system telemetry | 6,190 rows |
 | [sandbox-lifecycle](https://huggingface.co/datasets/coccinella-labs/sandbox-lifecycle) | Dataset: sandbox event sequences, temporal ordering benchmark | v0, v1ord, v2 configs |
 
-Training sources: [harpertoken](https://github.com/coccinella-labs/harpertoken) (QA), [rl](https://github.com/coccinella-labs/rl) (CartPole), and private preservation repos for the rest.
+Training sources are public for [harpertoken](https://github.com/coccinella-labs/harpertoken) (QA) and [rl](https://github.com/coccinella-labs/rl) (CartPole), and kept private for the rest.
 
 </details>
 
@@ -171,9 +134,11 @@ Training sources: [harpertoken](https://github.com/coccinella-labs/harpertoken) 
 </tr>
 </table>
 
-### Standalone apps
+### Standalone projects
 
-[browser](https://github.com/coccinella-labs/browser) (Flutter desktop browser) · [clipb](https://github.com/coccinella-labs/clipb) (clipboard utility for developers) · [license](https://github.com/coccinella-labs/license) (shared legal documents)
+- **[browser](https://github.com/coccinella-labs/browser)**: Flutter desktop browser for macOS, Windows, and Linux
+- **[clipb](https://github.com/coccinella-labs/clipb)**: clipboard utility for developers
+- **[license](https://github.com/coccinella-labs/license)**: shared legal documents
 
 <br>
 
@@ -182,20 +147,19 @@ Training sources: [harpertoken](https://github.com/coccinella-labs/harpertoken) 
 | Read this | It answers |
 | --- | --- |
 | [About coccinella-labs](https://github.com/coccinella-labs/.github/discussions/3) | What the organization is and what it builds. |
-| [Organization defaults](https://github.com/coccinella-labs/.github/discussions/42) | What `.github/` applies org-wide, and the blast radius of editing it. |
+| [Organization defaults](https://github.com/coccinella-labs/.github/discussions/42) | What `.github/` applies org-wide, and what editing it affects. |
 | [Running the Git GUI locally](https://github.com/coccinella-labs/.github/discussions/29) | How to install `git-gui`, and why `pip install git-gui` fails. |
-| [What lives in this repository](https://github.com/coccinella-labs/.github/discussions/2) | Shared workflows, health files, and release history. |
+| [What lives in this repository](https://github.com/coccinella-labs/.github/discussions/2) | Shared workflows, community health files, and release history. |
 
 <br>
 
 <details>
-<summary><b>Org activity</b> (latest, updated automatically)</summary>
+<summary><b>Recent activity</b> (updated automatically)</summary>
 
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
-| 2026-11-11 09:46 UTC | @bniladridas | reviewed PR [#280](https://github.com/coccinella-labs/agentware/pull/280) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 09:46 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/280) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-11 09:46 UTC | @bniladridas | PullRequestReviewEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 09:45 UTC | @github-actions[bot] | labeled PR [#280](https://github.com/coccinella-labs/agentware/pull/280) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 09:45 UTC | @bniladridas | opened PR [#280](https://github.com/coccinella-labs/agentware/pull/280) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 03:37 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-320.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-320.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
@@ -209,6 +173,7 @@ Training sources: [harpertoken](https://github.com/coccinella-labs/harpertoken) 
 | 2026-11-10 22:25 UTC | @github-actions[bot] | merged PR [#279](https://github.com/coccinella-labs/agentware/pull/279) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-10 22:07 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-10 14:37 UTC | @github-actions[bot] | labeled PR [#279](https://github.com/coccinella-labs/agentware/pull/279) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-10 14:37 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/279) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
@@ -222,7 +187,7 @@ Training sources: [harpertoken](https://github.com/coccinella-labs/harpertoken) 
 <!--
 Maintainer notes (not rendered):
 - Pin state lives in GitHub's web UI, not in git. Four global pins are allowed
-  and four per category; the intended global set is the four "Start here"
+  and four per category; the intended global set is the four "Before you file anything"
   discussions: #3, #42, #29, #2. This comment is the only durable record.
 - The ORG_ACTIVITY markers are written by automation. Paste the generated table
   between them; do not rename the markers.
