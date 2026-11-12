@@ -159,6 +159,14 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-12 11:29 UTC | @github-actions[bot] | published a release nightly-20261112 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261112)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-12 09:15 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/9060bb28a212e7dd9e15eb20118501e05596df0e...c0bd66d539ad6b6c3ab506daf94a18831643a32d)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-11-12 08:58 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/l2/pull/2) | [coccinella-labs/l2](https://github.com/coccinella-labs/l2) |
+| 2026-11-12 05:56 UTC | @dependabot[bot] | labeled PR [#969](https://github.com/coccinella-labs/harper/pull/969) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-12 05:56 UTC | @dependabot[bot] | created branch `dependabot/cargo/cargo-minor-patch-1ba712acfd` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-12 05:56 UTC | @dependabot[bot] | opened PR [#969](https://github.com/coccinella-labs/harper/pull/969) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-12 05:56 UTC | @dependabot[bot] | closed PR [#968](https://github.com/coccinella-labs/harper/pull/968) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-12 05:56 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/968) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-12 04:45 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-321.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-321.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-12 01:32 UTC | @github-actions[bot] | published a release nightly-20261112-0132-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261112-0132-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-11 17:27 UTC | @bniladridas | reviewed PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
@@ -166,14 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 17:27 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 17:27 UTC | @github-actions[bot] | labeled PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 17:27 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/agentware/issues/113) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 17:27 UTC | @bniladridas | opened PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 15:51 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:51 UTC | @bniladridas | closed issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:51 UTC | @bniladridas | merged PR [#27](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:49 UTC | @bniladridas | opened PR [#27](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
