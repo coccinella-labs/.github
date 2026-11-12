@@ -159,6 +159,8 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-12 04:45 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-321.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-321.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-12 01:32 UTC | @github-actions[bot] | published a release nightly-20261112-0132-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261112-0132-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-11 17:27 UTC | @bniladridas | reviewed PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
@@ -172,8 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-11 15:51 UTC | @bniladridas | closed issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 | 2026-11-11 15:51 UTC | @bniladridas | merged PR [#27](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 | 2026-11-11 15:49 UTC | @bniladridas | opened PR [#27](https://github.com/coccinella-labs/buildanywhere/pull/27) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:47 UTC | @bniladridas | opened issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-11 15:46 UTC | @bniladridas | labeled issue [#26: Bring the GitLab inputs example in line with the real pipel…](https://github.com/coccinella-labs/buildanywhere/issues/26) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
@@ -181,7 +181,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <br>
 
 <p align="center">
-  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-11</sub><!-- LAST_UPDATED:END -->
+  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-12</sub><!-- LAST_UPDATED:END -->
 </p>
 
 <!--
