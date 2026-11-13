@@ -159,6 +159,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-13 00:27 UTC | @github-actions[bot] | published a release nightly-20261113-0027-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261113-0027-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-12 21:13 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/metal/pull/20) | [coccinella-labs/metal](https://github.com/coccinella-labs/metal) |
 | 2026-11-12 21:13 UTC | @dependabot[bot] | opened PR [#20](https://github.com/coccinella-labs/metal/pull/20) | [coccinella-labs/metal](https://github.com/coccinella-labs/metal) |
 | 2026-11-12 11:29 UTC | @github-actions[bot] | published a release nightly-20261112 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261112)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
@@ -173,7 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-12 01:32 UTC | @github-actions[bot] | published a release nightly-20261112-0132-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261112-0132-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-11 17:27 UTC | @bniladridas | reviewed PR [#284](https://github.com/coccinella-labs/agentware/pull/284) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-11 17:27 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
@@ -181,7 +181,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <br>
 
 <p align="center">
-  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-12</sub><!-- LAST_UPDATED:END -->
+  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-13</sub><!-- LAST_UPDATED:END -->
 </p>
 
 <!--
