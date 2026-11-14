@@ -159,6 +159,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-14 00:20 UTC | @github-actions[bot] | published a release nightly-20261114-0020-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261114-0020-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-13 16:39 UTC | @github-actions[bot] | labeled PR [#197](https://github.com/coccinella-labs/vesper/pull/197) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
 | 2026-11-13 16:39 UTC | @dependabot[bot] | labeled PR [#197](https://github.com/coccinella-labs/vesper/pull/197) (×2) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
 | 2026-11-13 16:39 UTC | @dependabot[bot] | opened PR [#197](https://github.com/coccinella-labs/vesper/pull/197) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
@@ -173,7 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-13 08:06 UTC | @github-actions[bot] | labeled PR [#285](https://github.com/coccinella-labs/agentware/pull/285) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:06 UTC | @chatgpt-codex-connector[bot] | created [a thread](https://github.com/coccinella-labs/agentware/pull/285) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
@@ -181,7 +181,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <br>
 
 <p align="center">
-  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-13</sub><!-- LAST_UPDATED:END -->
+  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-14</sub><!-- LAST_UPDATED:END -->
 </p>
 
 <!--
