@@ -159,21 +159,21 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-14 05:32 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mole/pull/128) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-11-14 05:32 UTC | @dependabot[bot] | labeled PR [#136](https://github.com/coccinella-labs/mole/pull/136) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-11-14 05:32 UTC | @dependabot[bot] | opened PR [#136](https://github.com/coccinella-labs/mole/pull/136) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-11-14 05:32 UTC | @dependabot[bot] | labeled PR [#135](https://github.com/coccinella-labs/mole/pull/135) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-11-14 05:32 UTC | @dependabot[bot] | opened PR [#135](https://github.com/coccinella-labs/mole/pull/135) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
+| 2026-11-14 03:58 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-323.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-323.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-14 00:20 UTC | @github-actions[bot] | published a release nightly-20261114-0020-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261114-0020-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-11-13 20:45 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/e521fadf1865b1fb01e55cde86efeeb3cddd58dd...37459d49f5d1f2ac9f9e827f4f4017a040c3fc50)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-13 16:39 UTC | @github-actions[bot] | labeled PR [#197](https://github.com/coccinella-labs/vesper/pull/197) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
 | 2026-11-13 16:39 UTC | @dependabot[bot] | labeled PR [#197](https://github.com/coccinella-labs/vesper/pull/197) (×2) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
 | 2026-11-13 16:39 UTC | @dependabot[bot] | opened PR [#197](https://github.com/coccinella-labs/vesper/pull/197) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
 | 2026-11-13 08:09 UTC | @chatgpt-codex-connector[bot] | reviewed PR [#285](https://github.com/coccinella-labs/agentware/pull/285) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-13 08:09 UTC | @chatgpt-codex-connector[bot] | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-13 08:07 UTC | @bniladridas | reviewed PR [#285](https://github.com/coccinella-labs/agentware/pull/285) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:06 UTC | @github-actions[bot] | labeled PR [#285](https://github.com/coccinella-labs/agentware/pull/285) (×2) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
