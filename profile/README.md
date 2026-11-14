@@ -159,6 +159,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-14 10:40 UTC | @github-actions[bot] | published a release nightly-20261114 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261114)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-14 05:32 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mole/pull/128) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-11-14 05:32 UTC | @dependabot[bot] | labeled PR [#136](https://github.com/coccinella-labs/mole/pull/136) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-11-14 05:32 UTC | @dependabot[bot] | opened PR [#136](https://github.com/coccinella-labs/mole/pull/136) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
@@ -170,10 +171,9 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-13 16:39 UTC | @github-actions[bot] | labeled PR [#197](https://github.com/coccinella-labs/vesper/pull/197) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
 | 2026-11-13 16:39 UTC | @dependabot[bot] | labeled PR [#197](https://github.com/coccinella-labs/vesper/pull/197) (×2) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
 | 2026-11-13 16:39 UTC | @dependabot[bot] | opened PR [#197](https://github.com/coccinella-labs/vesper/pull/197) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
+| 2026-11-13 13:54 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/615462cfc2d9ae31d2bb00ce96c7ce6bf82b85e1...36604c4d44c4ea3e9d149acaf6e9a60c710b723f)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-13 08:09 UTC | @chatgpt-codex-connector[bot] | reviewed PR [#285](https://github.com/coccinella-labs/agentware/pull/285) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 | 2026-11-13 08:09 UTC | @chatgpt-codex-connector[bot] | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:07 UTC | @bniladridas | reviewed PR [#285](https://github.com/coccinella-labs/agentware/pull/285) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-13 08:07 UTC | @bniladridas | PullRequestReviewCommentEvent | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
