@@ -159,21 +159,21 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-15 11:11 UTC | @github-actions[bot] | published a release nightly-20261115 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261115)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/126) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-15 10:42 UTC | @dependabot[bot] | labeled PR [#140](https://github.com/coccinella-labs/mlapi/pull/140) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/136) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-15 10:42 UTC | @dependabot[bot] | opened PR [#140](https://github.com/coccinella-labs/mlapi/pull/140) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-15 10:42 UTC | @dependabot[bot] | labeled PR [#139](https://github.com/coccinella-labs/mlapi/pull/139) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/133) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-15 10:42 UTC | @dependabot[bot] | opened PR [#139](https://github.com/coccinella-labs/mlapi/pull/139) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-15 10:42 UTC | @dependabot[bot] | labeled PR [#138](https://github.com/coccinella-labs/mlapi/pull/138) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-15 10:42 UTC | @dependabot[bot] | opened PR [#138](https://github.com/coccinella-labs/mlapi/pull/138) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 05:06 UTC | @bniladridas | opened issue [#3: Fail the build when XNU compilation fails instead of publis…](https://github.com/coccinella-labs/xnubuild/issues/3) | [coccinella-labs/xnubuild](https://github.com/coccinella-labs/xnubuild) |
 | 2026-11-15 05:04 UTC | @bniladridas | opened issue [#1: Avoid counting environment variable mentions in comments as…](https://github.com/coccinella-labs/dotenv-keep/issues/1) | [coccinella-labs/dotenv-keep](https://github.com/coccinella-labs/dotenv-keep) |
 | 2026-11-15 05:04 UTC | @bniladridas | opened issue [#4: Keep report actions read-only instead of modifying every ma…](https://github.com/coccinella-labs/bot/issues/4) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
 | 2026-11-15 05:04 UTC | @bniladridas | opened issue [#1: Prevent release automation from force-moving existing versi…](https://github.com/coccinella-labs/hub/issues/1) | [coccinella-labs/hub](https://github.com/coccinella-labs/hub) |
 | 2026-11-15 05:01 UTC | @bniladridas | opened issue [#2: Validate task creation requests before adding dashboard tas…](https://github.com/coccinella-labs/ml/issues/2) | [coccinella-labs/ml](https://github.com/coccinella-labs/ml) |
-| 2026-11-15 05:01 UTC | @bniladridas | opened issue [#5: Make the published CartPole checkpoint loadable through CMA…](https://github.com/coccinella-labs/rl/issues/5) | [coccinella-labs/rl](https://github.com/coccinella-labs/rl) |
-| 2026-11-15 05:01 UTC | @bniladridas | opened issue [#137: Load runtime model and generation settings from config.yaml](https://github.com/coccinella-labs/mlapi/issues/137) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 04:58 UTC | @bniladridas | opened issue [#163: Calculate word error rate using word-level edit distance](https://github.com/coccinella-labs/benchmark/issues/163) | [coccinella-labs/benchmark](https://github.com/coccinella-labs/benchmark) |
-| 2026-11-15 04:58 UTC | @bniladridas | opened issue [#1: Handle empty inputs and invalid batch sizes in adaptive inf…](https://github.com/coccinella-labs/bitinfer/issues/1) | [coccinella-labs/bitinfer](https://github.com/coccinella-labs/bitinfer) |
-| 2026-11-15 04:54 UTC | @bniladridas | opened issue [#21: Keep pull-request creation inside the documented sandbox ex…](https://github.com/coccinella-labs/swe-agent/issues/21) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-11-15 04:54 UTC | @bniladridas | opened issue [#20: Constrain repository names to the configured clone root](https://github.com/coccinella-labs/swe-agent/issues/20) | [coccinella-labs/swe-agent](https://github.com/coccinella-labs/swe-agent) |
-| 2026-11-15 04:52 UTC | @bniladridas | opened issue [#13: Escape JSON strings and object keys in canonical tool-call…](https://github.com/coccinella-labs/agent-sdk/issues/13) | [coccinella-labs/agent-sdk](https://github.com/coccinella-labs/agent-sdk) |
-| 2026-11-15 04:52 UTC | @bniladridas | opened issue [#12: Serialize reconstructed tool calls instead of interpolating…](https://github.com/coccinella-labs/agent-sdk/issues/12) | [coccinella-labs/agent-sdk](https://github.com/coccinella-labs/agent-sdk) |
-| 2026-11-15 04:51 UTC | @bniladridas | opened issue [#30: Make skipped CI stages visible when no supported project ty…](https://github.com/coccinella-labs/buildanywhere/issues/30) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
-| 2026-11-15 04:51 UTC | @bniladridas | opened issue [#29: Do not treat Python lint failures as a missing flake8 insta…](https://github.com/coccinella-labs/buildanywhere/issues/29) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
