@@ -159,7 +159,13 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-16 06:07 UTC | @dependabot[bot] | labeled PR [#970](https://github.com/coccinella-labs/harper/pull/970) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-16 06:07 UTC | @dependabot[bot] | opened PR [#970](https://github.com/coccinella-labs/harper/pull/970) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-16 06:06 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/969) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-16 06:03 UTC | @dependabot[bot] | closed PR [#969](https://github.com/coccinella-labs/harper/pull/969) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-16 03:37 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-325.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-325.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-15 23:23 UTC | @github-actions[bot] | published a release nightly-20261115-2323-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261115-2323-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-11-15 15:18 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/60fc18461727b312ceef741d5dafe3d8e025b2d0...c68a86383ae37493b982c9f06b38e5bcddd9d5dc)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-15 11:11 UTC | @github-actions[bot] | published a release nightly-20261115 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261115)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-15 10:43 UTC | @dependabot[bot] | deleted branch `dependabot/pip/transformers-5.22.1` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/126) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
@@ -168,12 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-15 10:42 UTC | @dependabot[bot] | opened PR [#140](https://github.com/coccinella-labs/mlapi/pull/140) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 10:42 UTC | @dependabot[bot] | labeled PR [#139](https://github.com/coccinella-labs/mlapi/pull/139) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/133) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 10:42 UTC | @dependabot[bot] | opened PR [#139](https://github.com/coccinella-labs/mlapi/pull/139) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 10:42 UTC | @dependabot[bot] | labeled PR [#138](https://github.com/coccinella-labs/mlapi/pull/138) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 10:42 UTC | @dependabot[bot] | opened PR [#138](https://github.com/coccinella-labs/mlapi/pull/138) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 05:06 UTC | @bniladridas | opened issue [#3: Fail the build when XNU compilation fails instead of publis…](https://github.com/coccinella-labs/xnubuild/issues/3) | [coccinella-labs/xnubuild](https://github.com/coccinella-labs/xnubuild) |
-| 2026-11-15 05:04 UTC | @bniladridas | opened issue [#1: Avoid counting environment variable mentions in comments as…](https://github.com/coccinella-labs/dotenv-keep/issues/1) | [coccinella-labs/dotenv-keep](https://github.com/coccinella-labs/dotenv-keep) |
-| 2026-11-15 05:04 UTC | @bniladridas | opened issue [#4: Keep report actions read-only instead of modifying every ma…](https://github.com/coccinella-labs/bot/issues/4) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
