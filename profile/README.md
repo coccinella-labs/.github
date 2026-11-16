@@ -159,8 +159,10 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-16 11:47 UTC | @github-actions[bot] | published a release nightly-20261116 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261116)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-16 06:07 UTC | @dependabot[bot] | labeled PR [#970](https://github.com/coccinella-labs/harper/pull/970) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-16 06:07 UTC | @dependabot[bot] | opened PR [#970](https://github.com/coccinella-labs/harper/pull/970) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-16 06:07 UTC | @dependabot[bot] | deleted branch `dependabot/cargo/cargo-minor-patch-1ba712acfd` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-16 06:06 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/969) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-16 06:03 UTC | @dependabot[bot] | closed PR [#969](https://github.com/coccinella-labs/harper/pull/969) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-16 03:37 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-325.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-325.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
@@ -172,8 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-15 10:42 UTC | @dependabot[bot] | labeled PR [#140](https://github.com/coccinella-labs/mlapi/pull/140) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/136) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 10:42 UTC | @dependabot[bot] | opened PR [#140](https://github.com/coccinella-labs/mlapi/pull/140) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 10:42 UTC | @dependabot[bot] | labeled PR [#139](https://github.com/coccinella-labs/mlapi/pull/139) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/133) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
