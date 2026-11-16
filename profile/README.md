@@ -159,7 +159,9 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-15 23:23 UTC | @github-actions[bot] | published a release nightly-20261115-2323-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261115-2323-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-15 11:11 UTC | @github-actions[bot] | published a release nightly-20261115 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261115)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-15 10:43 UTC | @dependabot[bot] | deleted branch `dependabot/pip/transformers-5.22.1` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/126) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 10:42 UTC | @dependabot[bot] | labeled PR [#140](https://github.com/coccinella-labs/mlapi/pull/140) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/136) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
@@ -172,8 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-15 05:06 UTC | @bniladridas | opened issue [#3: Fail the build when XNU compilation fails instead of publis…](https://github.com/coccinella-labs/xnubuild/issues/3) | [coccinella-labs/xnubuild](https://github.com/coccinella-labs/xnubuild) |
 | 2026-11-15 05:04 UTC | @bniladridas | opened issue [#1: Avoid counting environment variable mentions in comments as…](https://github.com/coccinella-labs/dotenv-keep/issues/1) | [coccinella-labs/dotenv-keep](https://github.com/coccinella-labs/dotenv-keep) |
 | 2026-11-15 05:04 UTC | @bniladridas | opened issue [#4: Keep report actions read-only instead of modifying every ma…](https://github.com/coccinella-labs/bot/issues/4) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
-| 2026-11-15 05:04 UTC | @bniladridas | opened issue [#1: Prevent release automation from force-moving existing versi…](https://github.com/coccinella-labs/hub/issues/1) | [coccinella-labs/hub](https://github.com/coccinella-labs/hub) |
-| 2026-11-15 05:01 UTC | @bniladridas | opened issue [#2: Validate task creation requests before adding dashboard tas…](https://github.com/coccinella-labs/ml/issues/2) | [coccinella-labs/ml](https://github.com/coccinella-labs/ml) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
@@ -181,7 +181,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <br>
 
 <p align="center">
-  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-15</sub><!-- LAST_UPDATED:END -->
+  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-16</sub><!-- LAST_UPDATED:END -->
 </p>
 
 <!--
