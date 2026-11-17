@@ -159,6 +159,8 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-16 17:55 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/482fbba1ee85d1b15aeab5a709719d02eae5ff1a...4bf166670777f49e27bb7b7497c5112317af4a57)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-11-16 16:53 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/0619a6a31658c0b13824a966a7c082c659cf155b...aba3eb2fa3407e820b74384fb906634df8714409)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-16 11:47 UTC | @github-actions[bot] | published a release nightly-20261116 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261116)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-16 06:07 UTC | @dependabot[bot] | labeled PR [#970](https://github.com/coccinella-labs/harper/pull/970) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-16 06:07 UTC | @dependabot[bot] | opened PR [#970](https://github.com/coccinella-labs/harper/pull/970) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
@@ -167,13 +169,11 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-16 06:03 UTC | @dependabot[bot] | closed PR [#969](https://github.com/coccinella-labs/harper/pull/969) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-16 03:37 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-325.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-325.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-15 23:23 UTC | @github-actions[bot] | published a release nightly-20261115-2323-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261115-2323-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-11-15 15:18 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/1c30d100cef0d88bc638bdd33b26aaa1891fef5b...6180ffadbe494aa4708c1c422f2f62d2e87b1a69)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-15 15:18 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/60fc18461727b312ceef741d5dafe3d8e025b2d0...c68a86383ae37493b982c9f06b38e5bcddd9d5dc)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-15 11:11 UTC | @github-actions[bot] | published a release nightly-20261115 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261115)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-15 10:43 UTC | @dependabot[bot] | deleted branch `dependabot/pip/datasets-5.1.0` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-15 10:43 UTC | @dependabot[bot] | deleted branch `dependabot/pip/transformers-5.22.1` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/126) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 10:42 UTC | @dependabot[bot] | labeled PR [#140](https://github.com/coccinella-labs/mlapi/pull/140) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/136) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-15 10:42 UTC | @dependabot[bot] | opened PR [#140](https://github.com/coccinella-labs/mlapi/pull/140) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
@@ -181,7 +181,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <br>
 
 <p align="center">
-  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-16</sub><!-- LAST_UPDATED:END -->
+  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-17</sub><!-- LAST_UPDATED:END -->
 </p>
 
 <!--
