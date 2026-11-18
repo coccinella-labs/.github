@@ -159,6 +159,11 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-18 00:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/65) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-11-18 00:33 UTC | @github-actions[bot] | closed PR [#65](https://github.com/coccinella-labs/.github/pull/65) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-11-18 00:33 UTC | @dependabot[bot] | labeled PR [#65](https://github.com/coccinella-labs/.github/pull/65) (×2) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-11-18 00:33 UTC | @dependabot[bot] | opened PR [#65](https://github.com/coccinella-labs/.github/pull/65) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-11-17 19:35 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/c2a743c38bcacb63c397bebe69d24bd47d61aa0a...8b5f2c2513afcae25043b65659891c3c483ac06f)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-17 12:08 UTC | @github-actions[bot] | published a release nightly-20261117 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261117)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-17 05:35 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-326.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-326.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-17 02:28 UTC | @github-actions[bot] | published a release nightly-20261117-0228-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261117-0228-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
@@ -169,11 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-16 16:53 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/0619a6a31658c0b13824a966a7c082c659cf155b...aba3eb2fa3407e820b74384fb906634df8714409)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-16 11:47 UTC | @github-actions[bot] | published a release nightly-20261116 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261116)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-16 06:07 UTC | @dependabot[bot] | labeled PR [#970](https://github.com/coccinella-labs/harper/pull/970) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-16 06:07 UTC | @dependabot[bot] | opened PR [#970](https://github.com/coccinella-labs/harper/pull/970) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-16 06:07 UTC | @dependabot[bot] | deleted branch `dependabot/cargo/cargo-minor-patch-1ba712acfd` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-16 06:06 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/969) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-16 06:03 UTC | @dependabot[bot] | closed PR [#969](https://github.com/coccinella-labs/harper/pull/969) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-16 03:37 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-325.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-325.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
@@ -181,7 +181,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <br>
 
 <p align="center">
-  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-17</sub><!-- LAST_UPDATED:END -->
+  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-18</sub><!-- LAST_UPDATED:END -->
 </p>
 
 <!--
