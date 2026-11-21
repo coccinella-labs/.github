@@ -159,6 +159,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-21 11:24 UTC | @github-actions[bot] | published a release nightly-20261121 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261121)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-21 05:32 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mole/pull/132) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-11-21 05:32 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mole/pull/136) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
 | 2026-11-21 05:32 UTC | @dependabot[bot] | labeled PR [#139](https://github.com/coccinella-labs/mole/pull/139) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
@@ -173,7 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-21 01:43 UTC | @dependabot[bot] | created branch `dependabot/npm_and_yarn/prettier-3.10.1` | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 | 2026-11-21 01:43 UTC | @dependabot[bot] | opened PR [#31](https://github.com/coccinella-labs/buildanywhere/pull/31) | [coccinella-labs/buildanywhere](https://github.com/coccinella-labs/buildanywhere) |
 | 2026-11-21 00:48 UTC | @github-actions[bot] | published a release nightly-20261121-0048-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261121-0048-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-11-20 11:54 UTC | @github-actions[bot] | published a release nightly-20261120 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261120)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
