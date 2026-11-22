@@ -159,21 +159,21 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-22 11:40 UTC | @github-actions[bot] | published a release nightly-20261122 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261122)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/139) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | deleted branch `dependabot/pip/fastapi-0.162.5` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | labeled PR [#143](https://github.com/coccinella-labs/mlapi/pull/143) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/138) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | opened PR [#143](https://github.com/coccinella-labs/mlapi/pull/143) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | created branch `dependabot/pip/transformers-5.23.0` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | labeled PR [#142](https://github.com/coccinella-labs/mlapi/pull/142) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | opened PR [#142](https://github.com/coccinella-labs/mlapi/pull/142) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/113) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | labeled PR [#141](https://github.com/coccinella-labs/mlapi/pull/141) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
+| 2026-11-22 10:42 UTC | @dependabot[bot] | opened PR [#141](https://github.com/coccinella-labs/mlapi/pull/141) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 | 2026-11-22 03:55 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-331.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-331.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-21 23:48 UTC | @github-actions[bot] | published a release nightly-20261121-2348-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261121-2348-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-21 11:24 UTC | @github-actions[bot] | published a release nightly-20261121 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261121)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-11-21 07:57 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/448530140999e42167cdcd923d02ef452bcbfe24...14cc2ec02f4a79569d7a47cf880e001ae3fbb166)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-11-21 05:33 UTC | @dependabot[bot] | deleted branch `dependabot/pip/backend/python-multipart-0.0.33` | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-21 05:32 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mole/pull/132) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-21 05:32 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mole/pull/136) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-21 05:32 UTC | @dependabot[bot] | labeled PR [#139](https://github.com/coccinella-labs/mole/pull/139) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-21 05:32 UTC | @dependabot[bot] | opened PR [#139](https://github.com/coccinella-labs/mole/pull/139) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-21 05:32 UTC | @dependabot[bot] | labeled PR [#138](https://github.com/coccinella-labs/mole/pull/138) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-21 05:32 UTC | @dependabot[bot] | opened PR [#138](https://github.com/coccinella-labs/mole/pull/138) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-21 05:32 UTC | @dependabot[bot] | opened PR [#137](https://github.com/coccinella-labs/mole/pull/137) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-21 05:32 UTC | @dependabot[bot] | labeled PR [#137](https://github.com/coccinella-labs/mole/pull/137) (×2) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
-| 2026-11-21 04:52 UTC | @coccinella-labs-bot[bot] | pushed ([diff](https://github.com/coccinella-labs/bot/compare/629c079a2b1363a223fbce11a1631650b2c1fc19...aaae11c3a32b5d9fe3ef7a3c440878a20b200ba2)) | [coccinella-labs/bot](https://github.com/coccinella-labs/bot) |
-| 2026-11-21 04:43 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-330.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-330.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
