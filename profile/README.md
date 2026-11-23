@@ -159,21 +159,21 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-23 13:10 UTC | @github-actions[bot] | published a release nightly-20261123 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261123)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-23 06:10 UTC | @dependabot[bot] | labeled PR [#973](https://github.com/coccinella-labs/harper/pull/973) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-23 06:10 UTC | @dependabot[bot] | opened PR [#973](https://github.com/coccinella-labs/harper/pull/973) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-23 06:10 UTC | @dependabot[bot] | created branch `dependabot/cargo/cargo-minor-patch-d1fbb20556` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-23 06:09 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/971) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-23 06:06 UTC | @dependabot[bot] | closed PR [#971](https://github.com/coccinella-labs/harper/pull/971) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-23 05:43 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/88622e878d4b39b97fed0ab1be05498b4029ece3...5e4c9a37d76be887f6697d5780801ed4c35d5bb6)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
+| 2026-11-23 04:33 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-332.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-332.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-23 03:26 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/8bd9a8cf73d7a01fe1345fde1e5a5edc998cbcd5...d2ad85b1471f614f21232556a5bef1c50ff54a62)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-23 01:41 UTC | @coccinella-labs-harper[bot] | labeled issue [#972: 2 advisory ignore entries no longer match anything in `Carg…](https://github.com/coccinella-labs/harper/issues/972) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-23 01:41 UTC | @zyl71 | opened issue [#972: 2 advisory ignore entries no longer match anything in `Carg…](https://github.com/coccinella-labs/harper/issues/972) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-23 00:18 UTC | @github-actions[bot] | published a release nightly-20261123-0018-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261123-0018-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-22 23:12 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/dd3cd385be1b845e12d9135dff73ab3882cdb413...88622e878d4b39b97fed0ab1be05498b4029ece3)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-22 22:39 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/09784b6388ab219826b4d476d9ba301833327d58...8bd9a8cf73d7a01fe1345fde1e5a5edc998cbcd5)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-22 11:40 UTC | @github-actions[bot] | published a release nightly-20261122 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261122)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-11-22 10:42 UTC | @dependabot[bot] | deleted branch `dependabot/pip/transformers-5.22.2` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-22 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/139) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-22 10:42 UTC | @dependabot[bot] | deleted branch `dependabot/pip/fastapi-0.162.5` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-22 10:42 UTC | @dependabot[bot] | labeled PR [#143](https://github.com/coccinella-labs/mlapi/pull/143) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-22 10:42 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mlapi/pull/138) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-22 10:42 UTC | @dependabot[bot] | opened PR [#143](https://github.com/coccinella-labs/mlapi/pull/143) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-22 10:42 UTC | @dependabot[bot] | created branch `dependabot/pip/transformers-5.23.0` | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-22 10:42 UTC | @dependabot[bot] | labeled PR [#142](https://github.com/coccinella-labs/mlapi/pull/142) (×2) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
-| 2026-11-22 10:42 UTC | @dependabot[bot] | opened PR [#142](https://github.com/coccinella-labs/mlapi/pull/142) | [coccinella-labs/mlapi](https://github.com/coccinella-labs/mlapi) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
