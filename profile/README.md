@@ -159,21 +159,21 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-24 07:56 UTC | @coccinella-labs-harper[bot] | closed issue [#926: sandbox-exec narrow deny profiles abort on macOS 27; cause…](https://github.com/coccinella-labs/harper/issues/926) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-24 07:56 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/926) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-24 07:28 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-333.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-333.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-24 05:56 UTC | @dependabot[bot] | labeled PR [#974](https://github.com/coccinella-labs/harper/pull/974) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-24 05:56 UTC | @dependabot[bot] | opened PR [#974](https://github.com/coccinella-labs/harper/pull/974) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-24 05:56 UTC | @dependabot[bot] | deleted branch `dependabot/cargo/cargo-minor-patch-d1fbb20556` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-24 05:56 UTC | @dependabot[bot] | closed PR [#973](https://github.com/coccinella-labs/harper/pull/973) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-24 05:56 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/973) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-24 04:17 UTC | @github-actions[bot] | published a release nightly-20261124-0417-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261124-0417-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-23 20:54 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/vesper/compare/c14ffcb87d1e424f9c907668821a743e9d98ec8c...fd29bf0536e5203c663cbe1b192dded4254391a2)) | [coccinella-labs/vesper](https://github.com/coccinella-labs/vesper) |
+| 2026-11-23 20:46 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/l2/compare/b0ab7284f2df7dd43673127a04538175d6a53827...6ac5bdeaac0cd32adb78d741bacc426ced60f436)) | [coccinella-labs/l2](https://github.com/coccinella-labs/l2) |
 | 2026-11-23 20:46 UTC | @github-actions[bot] | opened PR [#3](https://github.com/coccinella-labs/l2/pull/3) | [coccinella-labs/l2](https://github.com/coccinella-labs/l2) |
+| 2026-11-23 17:44 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/172836d1e005787206af712ec7b9d2c543572339...4bc35d33b65b1df7ce2592a27837dbbe79c456a2)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-23 17:22 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/8b1e8f451fb99ccd552c2d5ed7f51965d9619caa...1d9d7e3391dddb0e0147da517181950f8fb5ad1e)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 | 2026-11-23 17:21 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/5e4c9a37d76be887f6697d5780801ed4c35d5bb6...7b0877a2ef51910b425d0f81c8cdcff85ad20eae)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-11-23 13:27 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/d2ad85b1471f614f21232556a5bef1c50ff54a62...e7749c6ad3838aec651c77cf060df461e6e4c57d)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-23 13:10 UTC | @github-actions[bot] | published a release nightly-20261123 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261123)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
-| 2026-11-23 06:10 UTC | @dependabot[bot] | labeled PR [#973](https://github.com/coccinella-labs/harper/pull/973) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-23 06:10 UTC | @dependabot[bot] | opened PR [#973](https://github.com/coccinella-labs/harper/pull/973) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-23 06:10 UTC | @dependabot[bot] | created branch `dependabot/cargo/cargo-minor-patch-d1fbb20556` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-23 06:09 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/971) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-23 06:06 UTC | @dependabot[bot] | closed PR [#971](https://github.com/coccinella-labs/harper/pull/971) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-23 05:43 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/88622e878d4b39b97fed0ab1be05498b4029ece3...5e4c9a37d76be887f6697d5780801ed4c35d5bb6)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-11-23 04:33 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-332.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-332.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-23 03:26 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/8bd9a8cf73d7a01fe1345fde1e5a5edc998cbcd5...d2ad85b1471f614f21232556a5bef1c50ff54a62)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-23 01:41 UTC | @coccinella-labs-harper[bot] | labeled issue [#972: 2 advisory ignore entries no longer match anything in `Carg…](https://github.com/coccinella-labs/harper/issues/972) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-23 01:41 UTC | @zyl71 | opened issue [#972: 2 advisory ignore entries no longer match anything in `Carg…](https://github.com/coccinella-labs/harper/issues/972) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
