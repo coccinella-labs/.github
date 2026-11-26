@@ -159,6 +159,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-26 02:13 UTC | @github-actions[bot] | published a release nightly-20261126-0213-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261126-0213-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
 | 2026-11-25 13:20 UTC | @github-actions[bot] | published a release nightly-20261125 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261125)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-25 08:24 UTC | @bniladridas | reopened issue [#926: sandbox-exec narrow deny profiles abort on macOS 27; cause…](https://github.com/coccinella-labs/harper/issues/926) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-25 06:00 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-334.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-334.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
@@ -171,9 +172,8 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-25 00:33 UTC | @github-actions[bot] | closed PR [#66](https://github.com/coccinella-labs/.github/pull/66) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-25 00:33 UTC | @dependabot[bot] | labeled PR [#66](https://github.com/coccinella-labs/.github/pull/66) (×2) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-25 00:33 UTC | @dependabot[bot] | opened PR [#66](https://github.com/coccinella-labs/.github/pull/66) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
+| 2026-11-24 21:26 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/4251bdf40d314752e7db1a171c274203b5589020...131d73da26aadb009e520802a3eff77fcc2d98d2)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-24 17:16 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/4bc35d33b65b1df7ce2592a27837dbbe79c456a2...3f5a8cbe2b37086a4c0c871312c84826bbd87bf3)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
-| 2026-11-24 14:31 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/9d79afb2728290fd49e195b2a9c5e16c407cb80f...e42e5f1f1b584d66a947fc0860c86b0d39bdc5f4)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
-| 2026-11-24 13:56 UTC | @github-actions[bot] | published a release nightly-20261124 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261124)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
@@ -181,7 +181,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <br>
 
 <p align="center">
-  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-25</sub><!-- LAST_UPDATED:END -->
+  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-26</sub><!-- LAST_UPDATED:END -->
 </p>
 
 <!--
