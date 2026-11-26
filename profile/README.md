@@ -159,21 +159,21 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-26 13:34 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/clipb/pull/1) | [coccinella-labs/clipb](https://github.com/coccinella-labs/clipb) |
+| 2026-11-26 13:34 UTC | @dependabot[bot] | opened PR [#3](https://github.com/coccinella-labs/clipb/pull/3) | [coccinella-labs/clipb](https://github.com/coccinella-labs/clipb) |
+| 2026-11-26 13:34 UTC | @dependabot[bot] | labeled PR [#3](https://github.com/coccinella-labs/clipb/pull/3) (×2) | [coccinella-labs/clipb](https://github.com/coccinella-labs/clipb) |
+| 2026-11-26 12:50 UTC | @github-actions[bot] | published a release nightly-20261126 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261126)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
+| 2026-11-26 10:14 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/craft/pull/1) | [coccinella-labs/craft](https://github.com/coccinella-labs/craft) |
+| 2026-11-26 10:14 UTC | @dependabot[bot] | labeled PR [#2](https://github.com/coccinella-labs/craft/pull/2) (×2) | [coccinella-labs/craft](https://github.com/coccinella-labs/craft) |
+| 2026-11-26 10:14 UTC | @dependabot[bot] | opened PR [#2](https://github.com/coccinella-labs/craft/pull/2) | [coccinella-labs/craft](https://github.com/coccinella-labs/craft) |
+| 2026-11-26 06:23 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/924) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-26 06:23 UTC | @coccinella-labs-harper[bot] | labeled issue [#924: Cancellation can be lost when a new command is queued withi…](https://github.com/coccinella-labs/harper/issues/924) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
+| 2026-11-26 05:50 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-335.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-335.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-26 02:13 UTC | @github-actions[bot] | published a release nightly-20261126-0213-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261126-0213-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
+| 2026-11-25 14:46 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/69f3bd361aae1006fdf2e89372b7b419d74d5737...f7e46260f3dce36a56935c28447cc25af6342115)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
 | 2026-11-25 13:20 UTC | @github-actions[bot] | published a release nightly-20261125 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261125)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-25 08:24 UTC | @bniladridas | reopened issue [#926: sandbox-exec narrow deny profiles abort on macOS 27; cause…](https://github.com/coccinella-labs/harper/issues/926) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-25 06:00 UTC | @github-actions[bot] | published a release nightly-c220e923415860999ebe71127ffe11c5573da97a-334.1 ([link](https://github.com/coccinella-labs/harper/releases/tag/nightly-c220e923415860999ebe71127ffe11c5573da97a-334.1)) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-25 05:56 UTC | @dependabot[bot] | labeled PR [#975](https://github.com/coccinella-labs/harper/pull/975) (×2) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-25 05:56 UTC | @dependabot[bot] | opened PR [#975](https://github.com/coccinella-labs/harper/pull/975) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-25 05:55 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/974) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-25 05:52 UTC | @dependabot[bot] | closed PR [#974](https://github.com/coccinella-labs/harper/pull/974) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-25 03:02 UTC | @github-actions[bot] | published a release nightly-20261125-0302-e2916be ([link](https://github.com/coccinella-labs/diff/releases/tag/nightly-20261125-0302-e2916be)) | [coccinella-labs/diff](https://github.com/coccinella-labs/diff) |
-| 2026-11-25 00:33 UTC | @github-actions[bot] | created [a thread](https://github.com/coccinella-labs/.github/pull/66) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-25 00:33 UTC | @github-actions[bot] | closed PR [#66](https://github.com/coccinella-labs/.github/pull/66) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-25 00:33 UTC | @dependabot[bot] | labeled PR [#66](https://github.com/coccinella-labs/.github/pull/66) (×2) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-25 00:33 UTC | @dependabot[bot] | opened PR [#66](https://github.com/coccinella-labs/.github/pull/66) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-24 21:26 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/.github/compare/4251bdf40d314752e7db1a171c274203b5589020...131d73da26aadb009e520802a3eff77fcc2d98d2)) | [coccinella-labs/.github](https://github.com/coccinella-labs/.github) |
-| 2026-11-24 17:16 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/agentware/compare/4bc35d33b65b1df7ce2592a27837dbbe79c456a2...3f5a8cbe2b37086a4c0c871312c84826bbd87bf3)) | [coccinella-labs/agentware](https://github.com/coccinella-labs/agentware) |
+| 2026-11-25 06:57 UTC | @github-actions[bot] | pushed ([diff](https://github.com/coccinella-labs/harpertoken.github.io/compare/52b36b4205d269a7bad06fb57e529e8f036895a7...e6027bd1fb4196e81d9b2d7e12e1a6eeaa83823d)) | [coccinella-labs/harpertoken.github.io](https://github.com/coccinella-labs/harpertoken.github.io) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
