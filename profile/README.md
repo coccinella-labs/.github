@@ -159,6 +159,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-27 12:44 UTC | @github-actions[bot] | published a release nightly-20261127 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261127)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-27 06:13 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-27 06:13 UTC | @coccinella-labs-harper[bot] | labeled issue [#917: \[packaging\] both Homebrew formula surfaces are behind; th…](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-27 06:13 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/345) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
@@ -173,7 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-27 05:57 UTC | @dependabot[bot] | opened PR [#976](https://github.com/coccinella-labs/harper/pull/976) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-27 05:56 UTC | @dependabot[bot] | deleted branch `dependabot/cargo/cargo-minor-patch-36e10cb2e1` | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-27 05:56 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/harper/pull/975) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-27 05:52 UTC | @dependabot[bot] | closed PR [#975](https://github.com/coccinella-labs/harper/pull/975) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
