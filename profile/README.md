@@ -159,6 +159,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <!-- ORG_ACTIVITY:START -->
 | Date | Actor | Activity | Repo |
 | --- | --- | --- | --- |
+| 2026-11-28 11:59 UTC | @github-actions[bot] | published a release nightly-20261128 ([link](https://github.com/coccinella-labs/diff-mac/releases/tag/nightly-20261128)) | [coccinella-labs/diff-mac](https://github.com/coccinella-labs/diff-mac) |
 | 2026-11-28 05:53 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/947) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-28 05:53 UTC | @coccinella-labs-harper[bot] | labeled issue [#947: \[follow-up\] re-enable security audit action (CVSS 4.0 iss…](https://github.com/coccinella-labs/harper/issues/947) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-28 05:32 UTC | @dependabot[bot] | created [a thread](https://github.com/coccinella-labs/mole/pull/138) | [coccinella-labs/mole](https://github.com/coccinella-labs/mole) |
@@ -173,7 +174,6 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 | 2026-11-27 06:13 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-27 06:13 UTC | @coccinella-labs-harper[bot] | labeled issue [#917: \[packaging\] both Homebrew formula surfaces are behind; th…](https://github.com/coccinella-labs/harper/issues/917) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 | 2026-11-27 06:13 UTC | @coccinella-labs-harper[bot] | created [a thread](https://github.com/coccinella-labs/harper/issues/345) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
-| 2026-11-27 06:13 UTC | @coccinella-labs-harper[bot] | labeled issue [#345: Tracked roadmap](https://github.com/coccinella-labs/harper/issues/345) | [coccinella-labs/harper](https://github.com/coccinella-labs/harper) |
 <!-- ORG_ACTIVITY:END -->
 
 </details>
