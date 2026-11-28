@@ -181,7 +181,7 @@ Training sources are public for [harpertoken](https://github.com/coccinella-labs
 <br>
 
 <p align="center">
-  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-27</sub><!-- LAST_UPDATED:END -->
+  <!-- LAST_UPDATED:START --><sub>Last updated: 2026-11-28</sub><!-- LAST_UPDATED:END -->
 </p>
 
 <!--
